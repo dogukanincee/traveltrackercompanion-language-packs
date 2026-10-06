@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 2,
-  "stringCount": 1836,
+  "version": 3,
+  "stringCount": 1859,
   "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "Select",
@@ -1840,7 +1840,30 @@
     "settings_profile_create_goal_action": "مقصد بنائیں",
     "common_clear_filter": "فلٹر صاف کریں",
     "logbook_filtered_by": "فلٹر شدہ: %1$s",
-    "logbook_clear_filter": "فلٹر صاف کریں"
+    "logbook_clear_filter": "فلٹر صاف کریں",
+    "expeditions_screens_manual_flight_search_title": "Manual Flight Search",
+    "expeditions_screens_flight_number_label": "Flight Number",
+    "expeditions_screens_flight_number_placeholder": "e.g., FR1234",
+    "expeditions_screens_flight_date_optional_label": "Flight Date (Optional)",
+    "expeditions_screens_flight_date_placeholder": "YYYY-MM-DD",
+    "expeditions_screens_search_flight_action": "Search Flight",
+    "expeditions_screens_flight_details_title": "Flight Details",
+    "expeditions_screens_mock_data_warning": "⚠️ Mock Data - For Testing Only",
+    "expeditions_screens_airline_label": "Airline",
+    "expeditions_screens_departure_label": "Departure",
+    "expeditions_screens_arrival_label": "Arrival",
+    "expeditions_screens_scheduled_departure_label": "Scheduled Departure",
+    "expeditions_screens_scheduled_arrival_label": "Scheduled Arrival",
+    "expeditions_screens_status_label": "Status",
+    "expeditions_screens_gate_label": "Gate",
+    "expeditions_screens_terminal_label": "Terminal",
+    "expeditions_screens_baggage_claim_label": "Baggage Claim",
+    "expeditions_screens_add_to_trip_action": "Add to Trip",
+    "core_ui_no_results_title": "No Results Found",
+    "core_ui_no_results_query_desc": "No trips match \"%1$s\". Try adjusting your filters or search terms.",
+    "core_ui_no_results_generic_desc": "No trips found. Try adjusting your filters.",
+    "core_ui_no_connection_title": "No Connection",
+    "core_ui_no_connection_desc": "Check your internet connection and try again."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
