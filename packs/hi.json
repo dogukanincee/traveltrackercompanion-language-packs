@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 3,
-  "stringCount": 1859,
-  "pluralCount": 67,
+  "version": 4,
+  "stringCount": 1868,
+  "pluralCount": 68,
   "strings": {
     "expeditions_screens_select": "चुनें",
     "expeditions_screens_restore": "पुनर्स्थापित करें",
@@ -1863,7 +1863,16 @@
     "core_ui_no_results_query_desc": "No trips match \"%1$s\". Try adjusting your filters or search terms.",
     "core_ui_no_results_generic_desc": "No trips found. Try adjusting your filters.",
     "core_ui_no_connection_title": "No Connection",
-    "core_ui_no_connection_desc": "Check your internet connection and try again."
+    "core_ui_no_connection_desc": "Check your internet connection and try again.",
+    "settings_profile_year_comparison_title": "Year Comparison",
+    "settings_profile_year_comparison_partial_desc": "%1$d so far vs all of %2$d",
+    "settings_profile_year_comparison_first_year": "First year!",
+    "settings_profile_year_comparison_new_this_year": "New this year",
+    "settings_profile_year_comparison_days_traveled": "Days Traveled",
+    "settings_profile_year_comparison_distance": "Distance",
+    "settings_profile_year_comparison_trips": "Trips",
+    "settings_profile_year_comparison_spend": "Spend",
+    "vault_take_photo_button": "Take Photo"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2133,6 +2142,10 @@
     "expeditions_tripdetails_remove_photos_message": {
       "one": "This photo will be permanently removed from this trip.",
       "other": "%1$d photos will be permanently removed from this trip."
+    },
+    "country_passport_stamp_visits": {
+      "one": "%1$d visit",
+      "other": "%1$d visits"
     }
   }
 }
