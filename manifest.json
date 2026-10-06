@@ -1,169 +1,169 @@
 {
   "schemaVersion": 1,
   "defaultLanguage": "en",
-  "generatedAt": "2026-10-06T18:05:29.376891+00:00",
+  "generatedAt": "2026-10-06T19:57:47.158334+00:00",
   "languages": {
-    "ar": {
-      "languageTag": "ar",
-      "displayName": "ar",
-      "version": 5,
-      "sizeBytes": 174738,
-      "sha256": "a0f247240a17cc0b0fb3d70ebe8a843f8ff24e4a802db9e71a0351b27718a9a7",
-      "packPath": "packs/ar.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ar.json"
+    "zh": {
+      "languageTag": "zh",
+      "displayName": "zh",
+      "version": 16,
+      "sizeBytes": 141783,
+      "sha256": "540e11b717ea6b12f9807b907b935b38072bd478b2628d89236b51a63dba454f",
+      "packPath": "packs/zh.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/zh.json"
     },
-    "de": {
-      "languageTag": "de",
-      "displayName": "de",
-      "version": 5,
-      "sizeBytes": 152688,
-      "sha256": "2e736299b96d499e4eb7b43cd2ca38a8c39320e917535f870abc84cc51a3d065",
-      "packPath": "packs/de.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/de.json"
+    "vi": {
+      "languageTag": "vi",
+      "displayName": "vi",
+      "version": 16,
+      "sizeBytes": 165672,
+      "sha256": "ee331c84a975ca1c9a457b1e3d2d7f3dbe0e1afb89d5bb499e4dca0c2e8d4dda",
+      "packPath": "packs/vi.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/vi.json"
     },
-    "es": {
-      "languageTag": "es",
-      "displayName": "es",
-      "version": 5,
-      "sizeBytes": 153031,
-      "sha256": "280d62bab69e6855d51cb8fe35e9fd8fafcbf828eb38caa6cf56af98966d08c2",
-      "packPath": "packs/es.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/es.json"
-    },
-    "fr": {
-      "languageTag": "fr",
-      "displayName": "fr",
-      "version": 5,
-      "sizeBytes": 157775,
-      "sha256": "4e8dff149945c89bc51bed23914060b0e5e7aa111e152d91927da65b007d9f9a",
-      "packPath": "packs/fr.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/fr.json"
-    },
-    "hi": {
-      "languageTag": "hi",
-      "displayName": "hi",
-      "version": 5,
-      "sizeBytes": 225750,
-      "sha256": "a6a9f33e653a9a291f200a32d58b33d7af17aa92c182a73dbb9ca4dff70f6db5",
-      "packPath": "packs/hi.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/hi.json"
-    },
-    "id": {
-      "languageTag": "id",
-      "displayName": "id",
-      "version": 5,
-      "sizeBytes": 147284,
-      "sha256": "228d33d4d007f4888c312b9c1c3ffc8f04599b9116e68f1a04608abd1aa47ba7",
-      "packPath": "packs/id.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/id.json"
-    },
-    "it": {
-      "languageTag": "it",
-      "displayName": "it",
-      "version": 5,
-      "sizeBytes": 148335,
-      "sha256": "75b61d1d22e453c63c120b0d971d75808d8b8490960572ee6fab8e8b3f337acc",
-      "packPath": "packs/it.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/it.json"
-    },
-    "ja": {
-      "languageTag": "ja",
-      "displayName": "ja",
-      "version": 5,
-      "sizeBytes": 171353,
-      "sha256": "a978a6573f741b444307a8d1b73bf6182f35754b9ca133fc45a17605763fcc59",
-      "packPath": "packs/ja.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ja.json"
-    },
-    "ko": {
-      "languageTag": "ko",
-      "displayName": "ko",
-      "version": 5,
-      "sizeBytes": 154615,
-      "sha256": "3ba4612ca2dfdf4fe0710b71ea2992556ed6c9a819fa115782fc6016273e0084",
-      "packPath": "packs/ko.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ko.json"
-    },
-    "pl": {
-      "languageTag": "pl",
-      "displayName": "pl",
-      "version": 5,
-      "sizeBytes": 152249,
-      "sha256": "01ccbf3df6289deb0865b869efe2035a0037186fe489a94f25d5994f5ba782c4",
-      "packPath": "packs/pl.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/pl.json"
-    },
-    "pt-BR": {
-      "languageTag": "pt-BR",
-      "displayName": "pt-BR",
-      "version": 5,
-      "sizeBytes": 133374,
-      "sha256": "010cc30019b19c96404b7506cd49e4460b29703a066a42b9af592ac6cb967430",
-      "packPath": "packs/pt-BR.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/pt-BR.json"
-    },
-    "pt-rBR": {
-      "languageTag": "pt-rBR",
-      "displayName": "pt-rBR",
-      "version": 5,
-      "sizeBytes": 151960,
-      "sha256": "a50ce6fb0c5c517725bddaad61d4e574b61e9881a5ccce3a29ceadf15d7100b4",
-      "packPath": "packs/pt-rBR.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/pt-rBR.json"
-    },
-    "ru": {
-      "languageTag": "ru",
-      "displayName": "ru",
-      "version": 5,
-      "sizeBytes": 174511,
-      "sha256": "2765fa32957402260a21bb6eaa0740de3a60fc4e5abd6a49bcd7eb4b4dd1c2db",
-      "packPath": "packs/ru.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ru.json"
+    "ur": {
+      "languageTag": "ur",
+      "displayName": "ur",
+      "version": 16,
+      "sizeBytes": 184711,
+      "sha256": "cf9ff72c3a94bbd0b24573f5898749c6ffa3b99b14419a4468aabb1fb5bf6aa1",
+      "packPath": "packs/ur.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ur.json"
     },
     "th": {
       "languageTag": "th",
       "displayName": "th",
-      "version": 5,
-      "sizeBytes": 187153,
-      "sha256": "eef5b95036dc849b375bbe8f0523201d19ed83c3e1d61432ed63dc6692d9453e",
+      "version": 16,
+      "sizeBytes": 226113,
+      "sha256": "675d70ae11b8b520ae3dbc1387f885155af7d7b6602792c46e8e613d0014fa7b",
       "packPath": "packs/th.json",
       "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/th.json"
     },
     "tr": {
       "languageTag": "tr",
       "displayName": "tr",
-      "version": 5,
-      "sizeBytes": 147143,
-      "sha256": "6147d6f895b257a491d44acc51d0b5aa4946519bb8bf60576e67830a60791030",
+      "version": 16,
+      "sizeBytes": 152015,
+      "sha256": "7e10c501973c44f15905b1b418fe3d7cec064cda63d63ce0eafa3f1b860dc8e4",
       "packPath": "packs/tr.json",
       "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/tr.json"
     },
-    "ur": {
-      "languageTag": "ur",
-      "displayName": "ur",
-      "version": 5,
-      "sizeBytes": 166990,
-      "sha256": "2f651d74a683cbfb94d20759f19bec5e8c29366d32fcae1f6e133c57bdc2546b",
-      "packPath": "packs/ur.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ur.json"
+    "ja": {
+      "languageTag": "ja",
+      "displayName": "ja",
+      "version": 16,
+      "sizeBytes": 174293,
+      "sha256": "ad4878935c37a63b47cfad9e92c13582bbff8adc2bff0cdd0bc34cddac9f6de6",
+      "packPath": "packs/ja.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ja.json"
     },
-    "vi": {
-      "languageTag": "vi",
-      "displayName": "vi",
-      "version": 5,
-      "sizeBytes": 155536,
-      "sha256": "77818737df55a5e94295f166b2ae10559b491d599927799add9c9373a2ba2c28",
-      "packPath": "packs/vi.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/vi.json"
+    "ko": {
+      "languageTag": "ko",
+      "displayName": "ko",
+      "version": 16,
+      "sizeBytes": 155152,
+      "sha256": "84a27bbff1aa5b916a5e0d5666a3ec5b545a81bae975a4af18228c9f5363ee02",
+      "packPath": "packs/ko.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ko.json"
     },
-    "zh": {
-      "languageTag": "zh",
-      "displayName": "zh",
-      "version": 5,
-      "sizeBytes": 142060,
-      "sha256": "8286bc9c0baac437d7aea7b379ba3582efec967760199e13c42a51905eb0d5a8",
-      "packPath": "packs/zh.json",
-      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/zh.json"
+    "ru": {
+      "languageTag": "ru",
+      "displayName": "ru",
+      "version": 16,
+      "sizeBytes": 197594,
+      "sha256": "fb42d98003efce610a12ffcefefb9a926c43383a7320ffb75a9548d7433a84cd",
+      "packPath": "packs/ru.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ru.json"
+    },
+    "pt-BR": {
+      "languageTag": "pt-BR",
+      "displayName": "pt-BR",
+      "version": 16,
+      "sizeBytes": 152493,
+      "sha256": "505970e0ec10e2c63b9a1c14ce1fbe63ad4f445dc0f2bd3710d9e6075e79d2f0",
+      "packPath": "packs/pt-BR.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/pt-BR.json"
+    },
+    "pt-rBR": {
+      "languageTag": "pt-rBR",
+      "displayName": "pt-rBR",
+      "version": 16,
+      "sizeBytes": 152494,
+      "sha256": "ae588526471a49d21aed7bebd9a464a7e7efcec3714b0eb2a3e2d55670639eba",
+      "packPath": "packs/pt-rBR.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/pt-rBR.json"
+    },
+    "pl": {
+      "languageTag": "pl",
+      "displayName": "pl",
+      "version": 16,
+      "sizeBytes": 152784,
+      "sha256": "d660f3cacd61a3c1ff234ea8961fe876c0382c9f8e5ac1ed45880c5b285efc50",
+      "packPath": "packs/pl.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/pl.json"
+    },
+    "ar": {
+      "languageTag": "ar",
+      "displayName": "ar",
+      "version": 16,
+      "sizeBytes": 175712,
+      "sha256": "63b9dc7d0bf583ce69af0df09dcbeb45483b49e0a12aece88a82f50ed615b851",
+      "packPath": "packs/ar.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/ar.json"
+    },
+    "hi": {
+      "languageTag": "hi",
+      "displayName": "hi",
+      "version": 16,
+      "sizeBytes": 227300,
+      "sha256": "8317438e2b21e7be5927ef96ab7b6dc4b0256207825e7fa71104e1f9914695a6",
+      "packPath": "packs/hi.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/hi.json"
+    },
+    "de": {
+      "languageTag": "de",
+      "displayName": "de",
+      "version": 16,
+      "sizeBytes": 153246,
+      "sha256": "243af568d46a27c5491d769d7d9c1534d230942469cca3c506110b9bab1d7eb4",
+      "packPath": "packs/de.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/de.json"
+    },
+    "fr": {
+      "languageTag": "fr",
+      "displayName": "fr",
+      "version": 16,
+      "sizeBytes": 158366,
+      "sha256": "912a870da0e6204c4effc21d68cc31da9d76307ceba7c96ce7ec51516cc7bfe1",
+      "packPath": "packs/fr.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/fr.json"
+    },
+    "es": {
+      "languageTag": "es",
+      "displayName": "es",
+      "version": 16,
+      "sizeBytes": 153588,
+      "sha256": "db96b467bb14a883c1ed51b47f7d3d90c07976c8888ed1f51d5f7efa389a1053",
+      "packPath": "packs/es.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/es.json"
+    },
+    "it": {
+      "languageTag": "it",
+      "displayName": "it",
+      "version": 16,
+      "sizeBytes": 152979,
+      "sha256": "368de18eabb482d65eaa8ff4bf0ae56f4801597f9fe8290b546d694444f647c9",
+      "packPath": "packs/it.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/it.json"
+    },
+    "id": {
+      "languageTag": "id",
+      "displayName": "id",
+      "version": 16,
+      "sizeBytes": 149828,
+      "sha256": "b6dbd754a79f7e5dcaa7cb50e4e3ee58a16cca839c3ca712e97cf5dd03389fd0",
+      "packPath": "packs/id.json",
+      "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/id.json"
     }
   }
 }
