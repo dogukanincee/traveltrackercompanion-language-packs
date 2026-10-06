@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 1,
-  "stringCount": 1818,
-  "pluralCount": 32,
+  "version": 2,
+  "stringCount": 1836,
+  "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "Select",
     "expeditions_screens_restore": "Restore",
@@ -1822,7 +1822,25 @@
     "vault_document_open_action": "%1$s کھولیں",
     "vault_expiring_documents_header": "ختم ہونے والے ڈاکومنٹ",
     "settings_screens_refund_policy_label": "ریفرنڈ پالیسی",
-    "settings_screens_refund_policy_title": "ریفرنڈ پالیسی"
+    "settings_screens_refund_policy_title": "ریفرنڈ پالیسی",
+    "expeditions_screens_tab_favorites": "پسندیدہ",
+    "settings_profile_travel_goals": "سفر کے مقاصد",
+    "settings_profile_new_goal": "نیا مقصد",
+    "settings_profile_no_goals_yet": "ابھی تک کوئی مقصد نہیں بنایا گیا۔",
+    "settings_profile_create_first_goal": "اپنا پہلا مقصد بنائیں",
+    "settings_profile_completed_badge": "✓ مکمل",
+    "settings_profile_goal_steps_ratio": "%2$d میں سے %1$d مراحل مکمل",
+    "settings_profile_delete_goal": "مقصد حذف کریں",
+    "settings_profile_create_goal_dialog_title": "نیا سفر کا مقصد بنائیں",
+    "settings_profile_goal_title_label": "مقصد کا عنوان (مثال: اسپین کی سیر)",
+    "settings_profile_goal_group_label": "گروپ/خطہ (اختیاری مثال: یورپ)",
+    "settings_profile_goal_steps_header": "مراحل:",
+    "settings_profile_goal_step_label": "مرحلہ %1$d",
+    "settings_profile_add_step_action": "+ مرحلہ شامل کریں",
+    "settings_profile_create_goal_action": "مقصد بنائیں",
+    "common_clear_filter": "فلٹر صاف کریں",
+    "logbook_filtered_by": "فلٹر شدہ: %1$s",
+    "logbook_clear_filter": "فلٹر صاف کریں"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -1952,6 +1970,146 @@
     "profile_msg_cleaned_up_trips": {
       "one": "صاف کیا گیا %1$d سفر",
       "other": "صاف کیے گئے %1$d سفر"
+    },
+    "expeditions_tripdetails_selected_count": {
+      "one": "%1$d selected",
+      "other": "%1$d selected"
+    },
+    "expeditions_tripdetails_remove_photos_message": {
+      "one": "This photo will be permanently removed from this trip.",
+      "other": "%1$d photos will be permanently removed from this trip."
+    },
+    "attentionstrip_days_until_trip": {
+      "one": "%1$d day until %2$s",
+      "other": "%1$d days until %2$s"
+    },
+    "attentionstrip_trip_needs_backup": {
+      "one": "%1$d trip needs backup",
+      "other": "%1$d trips need backup"
+    },
+    "attentionstrip_premium_expires_days": {
+      "one": "Premium access expires in %1$d day",
+      "other": "Premium access expires in %1$d days"
+    },
+    "attentionstrip_trips_left_free_plan": {
+      "one": "%1$d trip left on your free plan",
+      "other": "%1$d trips left on your free plan"
+    },
+    "heatmap_travel_days": {
+      "one": "%1$d travel day in the last %2$d days",
+      "other": "%1$d travel days in the last %2$d days"
+    },
+    "anniversary_years_title": {
+      "one": "%1$d-Year Anniversary!",
+      "other": "%1$d-Years Anniversary!"
+    },
+    "memoryflashback_years_ago": {
+      "one": "%1$d year ago today",
+      "other": "%1$d years ago today"
+    },
+    "hero_days_remaining_word": {
+      "one": "day",
+      "other": "days"
+    },
+    "documentvault_add_documents": {
+      "one": "Add Document",
+      "other": "Add %1$d Documents"
+    },
+    "sharedtrippreview_expenses_included": {
+      "one": "%1$d expense included",
+      "other": "%1$d expenses included"
+    },
+    "photoimport_add_photos": {
+      "one": "Add %1$d Photo",
+      "other": "Add %1$d Photos"
+    },
+    "expenseanomaly_findings": {
+      "one": "%1$d expense worth a second look",
+      "other": "%1$d expenses worth a second look"
+    },
+    "addbulktravel_add_countries": {
+      "one": "Add %1$d Country",
+      "other": "Add %1$d Countries"
+    },
+    "tripimport_ready_to_import": {
+      "one": "%1$d trip ready to import",
+      "other": "%1$d trips ready to import"
+    },
+    "tripimport_rows_will_skip": {
+      "one": "%1$d row will be skipped",
+      "other": "%1$d rows will be skipped"
+    },
+    "tripimport_import_button": {
+      "one": "Import %1$d Trip",
+      "other": "Import %1$d Trips"
+    },
+    "tripimport_imported_summary": {
+      "one": "Imported %1$d trip",
+      "other": "Imported %1$d trips"
+    },
+    "tripimport_rows_skipped_label": {
+      "one": "%1$d row skipped:",
+      "other": "%1$d rows skipped:"
+    },
+    "airport_collection_visited": {
+      "one": "%1$d airport visited",
+      "other": "%1$d airports visited"
+    },
+    "carbon_tree_years": {
+      "one": "That\\'s roughly what %1$d mature tree would absorb in a year - a rough equivalence, not a precise offset.",
+      "other": "That\\'s roughly what %1$d mature trees would absorb in a year - a rough equivalence, not a precise offset."
+    },
+    "mileslog_flights_logged": {
+      "one": "%1$d flight logged",
+      "other": "%1$d flights logged"
+    },
+    "topplaces_visit_count": {
+      "one": "%1$d visit",
+      "other": "%1$d visits"
+    },
+    "transportbreakdown_trip_count": {
+      "one": "%1$d trip",
+      "other": "%1$d trips"
+    },
+    "yearcomparison_days": {
+      "one": "%1$d day",
+      "other": "%1$d days"
+    },
+    "yearcomparison_trips": {
+      "one": "%1$d trip",
+      "other": "%1$d trips"
+    },
+    "vault_documents_expiring": {
+      "one": "%1$d document expiring soon",
+      "other": "%1$d documents expiring soon"
+    },
+    "flightplan_trial_days": {
+      "one": "%1$d Day Trial",
+      "other": "%1$d Days Trial"
+    },
+    "tripdetails_unconverted_expenses": {
+      "one": "%1$d expense in other currencies could not be converted to %2$s (exchange rate unavailable)",
+      "other": "%1$d expenses in other currencies could not be converted to %2$s (exchange rate unavailable)"
+    },
+    "boardingpass_ready": {
+      "one": "BOARDING PASS READY",
+      "other": "BOARDING PASSES READY"
+    },
+    "recentlydeleted_trips": {
+      "one": "Trip deleted",
+      "other": "%1$d trips recently deleted"
+    },
+    "geospend_unconverted_expenses": {
+      "one": "%1$d expense could not be converted and is excluded",
+      "other": "%1$d expenses could not be converted and are excluded"
+    },
+    "collaboration_shared_with": {
+      "one": "Shared with %1$d collaborator",
+      "other": "Shared with %1$d collaborators"
+    },
+    "profilestats_destinations_remaining": {
+      "one": "%1$d more destination to reach next tier",
+      "other": "%1$d more destinations to reach next tier"
     }
   }
 }

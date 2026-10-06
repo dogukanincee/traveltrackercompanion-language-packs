@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ja",
-  "version": 1,
-  "stringCount": 1818,
-  "pluralCount": 65,
+  "version": 2,
+  "stringCount": 1836,
+  "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "選択",
     "expeditions_screens_restore": "復元",
@@ -1822,7 +1822,25 @@
     "expeditions_components_attention_notice_title": "注意",
     "settings_screens_year_review_top_transport_label": "トップの交通手段",
     "settings_screens_refund_policy_label": "返金ポリシー",
-    "settings_screens_refund_policy_title": "返金ポリシー"
+    "settings_screens_refund_policy_title": "返金ポリシー",
+    "expeditions_screens_tab_favorites": "お気に入り",
+    "settings_profile_travel_goals": "旅行目標",
+    "settings_profile_new_goal": "新しい目標",
+    "settings_profile_no_goals_yet": "目標はまだ作成されていません。",
+    "settings_profile_create_first_goal": "最初の目標を作成する",
+    "settings_profile_completed_badge": "✓ 完了",
+    "settings_profile_goal_steps_ratio": "%2$d ステップ中 %1$d ステップ完了",
+    "settings_profile_delete_goal": "目標を削除",
+    "settings_profile_create_goal_dialog_title": "新しい旅行目標を作成",
+    "settings_profile_goal_title_label": "目標タイトル（例：スペイン旅行）",
+    "settings_profile_goal_group_label": "グループ/地域（オプション 例：ヨーロッパ）",
+    "settings_profile_goal_steps_header": "ステップ:",
+    "settings_profile_goal_step_label": "ステップ %1$d",
+    "settings_profile_add_step_action": "+ ステップを追加",
+    "settings_profile_create_goal_action": "目標を作成",
+    "common_clear_filter": "フィルターをクリア",
+    "logbook_filtered_by": "フィルター条件: %1$s",
+    "logbook_clear_filter": "フィルターをクリア"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2084,6 +2102,14 @@
     "profile_msg_cleaned_up_trips": {
       "one": "%1$d 件の旅行を整理しました",
       "other": "%1$d 件の旅行を整理しました"
+    },
+    "expeditions_tripdetails_selected_count": {
+      "one": "%1$d selected",
+      "other": "%1$d selected"
+    },
+    "expeditions_tripdetails_remove_photos_message": {
+      "one": "This photo will be permanently removed from this trip.",
+      "other": "%1$d photos will be permanently removed from this trip."
     }
   }
 }

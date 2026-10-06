@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "es",
-  "version": 1,
-  "stringCount": 1818,
-  "pluralCount": 65,
+  "version": 2,
+  "stringCount": 1836,
+  "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "Seleccionar",
     "expeditions_screens_restore": "Restaurar",
@@ -1822,7 +1822,25 @@
     "expeditions_components_attention_notice_title": "Aviso",
     "settings_screens_year_review_top_transport_label": "Medio de transporte más utilizado",
     "settings_screens_refund_policy_label": "Política de Reembolso",
-    "settings_screens_refund_policy_title": "Política de Reembolso"
+    "settings_screens_refund_policy_title": "Política de Reembolso",
+    "expeditions_screens_tab_favorites": "Favoritos",
+    "settings_profile_travel_goals": "Objetivos de viaje",
+    "settings_profile_new_goal": "Nuevo objetivo",
+    "settings_profile_no_goals_yet": "Aún no se han creado objetivos.",
+    "settings_profile_create_first_goal": "Crea tu primer objetivo",
+    "settings_profile_completed_badge": "✓ Completado",
+    "settings_profile_goal_steps_ratio": "%1$d de %2$d pasos completados",
+    "settings_profile_delete_goal": "Eliminar objetivo",
+    "settings_profile_create_goal_dialog_title": "Crear nuevo objetivo de viaje",
+    "settings_profile_goal_title_label": "Título del objetivo (p. ej., Visitar España)",
+    "settings_profile_goal_group_label": "Grupo/Región (Opcional p. ej., Europa)",
+    "settings_profile_goal_steps_header": "Pasos:",
+    "settings_profile_goal_step_label": "Paso %1$d",
+    "settings_profile_add_step_action": "+ Añadir paso",
+    "settings_profile_create_goal_action": "Crear objetivo",
+    "common_clear_filter": "Borrar filtro",
+    "logbook_filtered_by": "Filtrado por: %1$s",
+    "logbook_clear_filter": "Borrar filtro"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2084,6 +2102,14 @@
     "profile_msg_cleaned_up_trips": {
       "one": "Se limpiaron %1$d viaje",
       "other": "Se limpiaron %1$d viajes"
+    },
+    "expeditions_tripdetails_selected_count": {
+      "one": "%1$d selected",
+      "other": "%1$d selected"
+    },
+    "expeditions_tripdetails_remove_photos_message": {
+      "one": "This photo will be permanently removed from this trip.",
+      "other": "%1$d photos will be permanently removed from this trip."
     }
   }
 }

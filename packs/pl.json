@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "pl",
-  "version": 1,
-  "stringCount": 1818,
+  "version": 2,
+  "stringCount": 1836,
   "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "Wybierz",
@@ -1822,7 +1822,25 @@
     "expeditions_components_attention_notice_title": "Ostrzeżenie",
     "settings_screens_year_review_top_transport_label": "Najpopularniejszy środek transportu",
     "settings_screens_refund_policy_label": "Polityka zwrotów",
-    "settings_screens_refund_policy_title": "Polityka zwrotów"
+    "settings_screens_refund_policy_title": "Polityka zwrotów",
+    "expeditions_screens_tab_favorites": "Ulubione",
+    "settings_profile_travel_goals": "Cele podróży",
+    "settings_profile_new_goal": "Nowy cel",
+    "settings_profile_no_goals_yet": "Nie utworzono jeszcze żadnych celów.",
+    "settings_profile_create_first_goal": "Utwórz swój pierwszy cel",
+    "settings_profile_completed_badge": "✓ Ukończono",
+    "settings_profile_goal_steps_ratio": "Ukończono %1$d z %2$d kroków",
+    "settings_profile_delete_goal": "Usuń cel",
+    "settings_profile_create_goal_dialog_title": "Utwórz nowy cel podróży",
+    "settings_profile_goal_title_label": "Tytuł celu (np. Odwiedź Hiszpanię)",
+    "settings_profile_goal_group_label": "Grupa/Region (Opcjonalnie np. Europa)",
+    "settings_profile_goal_steps_header": "Kroki:",
+    "settings_profile_goal_step_label": "Krok %1$d",
+    "settings_profile_add_step_action": "+ Dodaj krok",
+    "settings_profile_create_goal_action": "Utwórz cel",
+    "common_clear_filter": "Wyczyść filtr",
+    "logbook_filtered_by": "Filtrowano według: %1$s",
+    "logbook_clear_filter": "Wyczyść filtr"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

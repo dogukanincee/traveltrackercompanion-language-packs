@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "de",
-  "version": 1,
-  "stringCount": 1818,
+  "version": 2,
+  "stringCount": 1836,
   "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "Auswählen",
@@ -1822,7 +1822,25 @@
     "expeditions_components_attention_notice_title": "Achtung",
     "settings_screens_year_review_top_transport_label": "Top-Transport",
     "settings_screens_refund_policy_label": "Rückerstattungsrichtlinie",
-    "settings_screens_refund_policy_title": "Rückerstattungsrichtlinie"
+    "settings_screens_refund_policy_title": "Rückerstattungsrichtlinie",
+    "expeditions_screens_tab_favorites": "Favoriten",
+    "settings_profile_travel_goals": "Reiseziele",
+    "settings_profile_new_goal": "Neues Ziel",
+    "settings_profile_no_goals_yet": "Noch keine Ziele erstellt.",
+    "settings_profile_create_first_goal": "Erstellen Sie Ihr erstes Ziel",
+    "settings_profile_completed_badge": "✓ Abgeschlossen",
+    "settings_profile_goal_steps_ratio": "%1$d von %2$d Schritten abgeschlossen",
+    "settings_profile_delete_goal": "Ziel löschen",
+    "settings_profile_create_goal_dialog_title": "Neues Reiseziel erstellen",
+    "settings_profile_goal_title_label": "Zieltitel (z. B. Spanien besuchen)",
+    "settings_profile_goal_group_label": "Gruppe/Region (Optional z. B. Europa)",
+    "settings_profile_goal_steps_header": "Schritte:",
+    "settings_profile_goal_step_label": "Schritt %1$d",
+    "settings_profile_add_step_action": "+ Schritt hinzufügen",
+    "settings_profile_create_goal_action": "Ziel erstellen",
+    "common_clear_filter": "Filter löschen",
+    "logbook_filtered_by": "Gefiltert nach: %1$s",
+    "logbook_clear_filter": "Filter löschen"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

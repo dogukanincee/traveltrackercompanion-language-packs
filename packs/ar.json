@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ar",
-  "version": 1,
-  "stringCount": 1818,
+  "version": 2,
+  "stringCount": 1836,
   "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "تحديد",
@@ -1822,7 +1822,25 @@
     "settings_screens_year_review_top_transport_label": "وسيلة النقل الأكثر استخداماً",
     "expeditions_tripdetails_journal_stats_longest_streak_cd": "%1$d يوم أطول سلسلة تدوين",
     "settings_screens_refund_policy_label": "سياسة الاسترداد",
-    "settings_screens_refund_policy_title": "سياسة الاسترداد"
+    "settings_screens_refund_policy_title": "سياسة الاسترداد",
+    "expeditions_screens_tab_favorites": "المفضلة",
+    "settings_profile_travel_goals": "أهداف السفر",
+    "settings_profile_new_goal": "هدف جديد",
+    "settings_profile_no_goals_yet": "لم يتم إنشاء أهداف بعد.",
+    "settings_profile_create_first_goal": "أنشئ هدفك الأول",
+    "settings_profile_completed_badge": "✓ مكتمل",
+    "settings_profile_goal_steps_ratio": "تم إكمال %1$d من %2$d خطوات",
+    "settings_profile_delete_goal": "حذف الهدف",
+    "settings_profile_create_goal_dialog_title": "إنشاء هدف سفر جديد",
+    "settings_profile_goal_title_label": "عنوان الهدف (مثال: زيارة إسبانيا)",
+    "settings_profile_goal_group_label": "المجموعة/المنطقة (اختياري مثال: أوروبا)",
+    "settings_profile_goal_steps_header": "الخطوات:",
+    "settings_profile_goal_step_label": "الخطوة %1$d",
+    "settings_profile_add_step_action": "+ إضافة خطوة",
+    "settings_profile_create_goal_action": "إنشاء هدف",
+    "common_clear_filter": "مسح تصفية",
+    "logbook_filtered_by": "تصفية حسب: %1$s",
+    "logbook_clear_filter": "مسح تصفية"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

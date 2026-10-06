@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 1,
-  "stringCount": 1818,
-  "pluralCount": 65,
+  "version": 2,
+  "stringCount": 1836,
+  "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "चुनें",
     "expeditions_screens_restore": "पुनर्स्थापित करें",
@@ -1822,7 +1822,25 @@
     "expeditions_components_attention_notice_title": "नोटिस",
     "settings_screens_year_review_top_transport_label": "शीर्ष परिवहन",
     "settings_screens_refund_policy_label": "रिफंड नीति",
-    "settings_screens_refund_policy_title": "रिफंड नीति"
+    "settings_screens_refund_policy_title": "रिफंड नीति",
+    "expeditions_screens_tab_favorites": "पसंदीदा",
+    "settings_profile_travel_goals": "यात्रा लक्ष्य",
+    "settings_profile_new_goal": "नया लक्ष्य",
+    "settings_profile_no_goals_yet": "अभी तक कोई लक्ष्य नहीं बनाया गया।",
+    "settings_profile_create_first_goal": "अपना पहला लक्ष्य बनाएं",
+    "settings_profile_completed_badge": "✓ पूरा हुआ",
+    "settings_profile_goal_steps_ratio": "%1$d में से %2$d चरण पूरे हुए",
+    "settings_profile_delete_goal": "लक्ष्य हटाएं",
+    "settings_profile_create_goal_dialog_title": "नया यात्रा लक्ष्य बनाएं",
+    "settings_profile_goal_title_label": "लक्ष्य शीर्षक (जैसे स्पेन यात्रा)",
+    "settings_profile_goal_group_label": "समूह/क्षेत्र (वैकल्पिक जैसे यूरोप)",
+    "settings_profile_goal_steps_header": "चरण:",
+    "settings_profile_goal_step_label": "चरण %1$d",
+    "settings_profile_add_step_action": "+ चरण जोड़ें",
+    "settings_profile_create_goal_action": "लक्ष्य बनाएं",
+    "common_clear_filter": "फ़िल्टर साफ़ करें",
+    "logbook_filtered_by": "फ़िल्टर किया गया: %1$s",
+    "logbook_clear_filter": "फ़िल्टर साफ़ करें"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2084,6 +2102,14 @@
     "profile_msg_cleaned_up_trips": {
       "one": "%1$d यात्रा साफ की गई",
       "other": "%1$d यात्राएं साफ की गईं"
+    },
+    "expeditions_tripdetails_selected_count": {
+      "one": "%1$d selected",
+      "other": "%1$d selected"
+    },
+    "expeditions_tripdetails_remove_photos_message": {
+      "one": "This photo will be permanently removed from this trip.",
+      "other": "%1$d photos will be permanently removed from this trip."
     }
   }
 }

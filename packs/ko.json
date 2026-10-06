@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ko",
-  "version": 1,
-  "stringCount": 1818,
-  "pluralCount": 65,
+  "version": 2,
+  "stringCount": 1836,
+  "pluralCount": 67,
   "strings": {
     "expeditions_screens_select": "선택",
     "expeditions_screens_restore": "복원",
@@ -1822,7 +1822,25 @@
     "expeditions_components_attention_notice_title": "공지",
     "settings_screens_year_review_top_transport_label": "상위 교통 수단",
     "settings_screens_refund_policy_label": "환불 정책",
-    "settings_screens_refund_policy_title": "환불 정책"
+    "settings_screens_refund_policy_title": "환불 정책",
+    "expeditions_screens_tab_favorites": "즐겨찾기",
+    "settings_profile_travel_goals": "여행 목표",
+    "settings_profile_new_goal": "새 목표",
+    "settings_profile_no_goals_yet": "아직 생성된 목표가 없습니다.",
+    "settings_profile_create_first_goal": "첫 번째 목표 생성하기",
+    "settings_profile_completed_badge": "✓ 완료됨",
+    "settings_profile_goal_steps_ratio": "%2$d개 단계 중 %1$d개 완료",
+    "settings_profile_delete_goal": "목표 삭제",
+    "settings_profile_create_goal_dialog_title": "새 여행 목표 생성",
+    "settings_profile_goal_title_label": "목표 제목 (예: 스페인 방문)",
+    "settings_profile_goal_group_label": "그룹/지역 (선택 사항 예: 유럽)",
+    "settings_profile_goal_steps_header": "단계:",
+    "settings_profile_goal_step_label": "단계 %1$d",
+    "settings_profile_add_step_action": "+ 단계 추가",
+    "settings_profile_create_goal_action": "목표 생성",
+    "common_clear_filter": "필터 초기화",
+    "logbook_filtered_by": "필터링 기준: %1$s",
+    "logbook_clear_filter": "필터 초기화"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2084,6 +2102,14 @@
     "profile_msg_cleaned_up_trips": {
       "one": "휴지통 %1$d 여행 정리",
       "other": "휴지통 %1$d 여행 정리"
+    },
+    "expeditions_tripdetails_selected_count": {
+      "one": "%1$d selected",
+      "other": "%1$d selected"
+    },
+    "expeditions_tripdetails_remove_photos_message": {
+      "one": "This photo will be permanently removed from this trip.",
+      "other": "%1$d photos will be permanently removed from this trip."
     }
   }
 }
