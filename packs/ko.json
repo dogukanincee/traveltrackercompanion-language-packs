@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "ko",
-  "version": 17,
+  "version": 18,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1823,7 +1823,7 @@
     "vault_expiring_documents_header": "곧 만료되는 문서",
     "business_details_entity": "Travel Tracker Companion LLC",
     "business_details_email": "support@traveltrackercompanion.app",
-    "business_details_website": "https://traveltrackercompanion.app",
+    "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "만 16세 이상임을 확인합니다.",
     "business_details_title": "사업자 및 법적 정보",
     "business_details_address": "런던, 영국"

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "th",
-  "version": 17,
+  "version": 18,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1823,7 +1823,7 @@
     "vault_expiring_documents_header": "เอกสารที่จะหมดอายุ",
     "business_details_entity": "Travel Tracker Companion LLC",
     "business_details_email": "support@traveltrackercompanion.app",
-    "business_details_website": "https://traveltrackercompanion.app",
+    "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "ฉันยืนยันว่าฉันมีอายุอย่างน้อย 16 ปี",
     "business_details_title": "รายละเอียดทางธุรกิจและกฎหมาย",
     "business_details_address": "ลอนดอน, สหราชอาณาจักร"
