@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "tr",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "İptal",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "En az 16 yaşında olduğumu onaylıyorum.",
     "business_details_title": "Ticari ve Yasal Detaylar",
-    "business_details_address": "Londra, Birleşik Krallık"
+    "business_details_address": "Londra, Birleşik Krallık",
+    "cities_discover_title": "Dünya Metropollerini Keşfet",
+    "cities_discover_subtitle": "Bir sonraki maceran için simgeleşmiş küresel destinasyonları keşfet",
+    "cities_plan_trip": "Seyahat Planla"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

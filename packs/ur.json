@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "منسوخ کریں",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "میں تصدیق کرتا/کرتی ہوں کہ میری عمر کم از کم 16 سال ہے۔",
     "business_details_title": "تجارتی اور قانونی تفصیلات",
-    "business_details_address": "لندن، یوکے"
+    "business_details_address": "لندن، یوکے",
+    "cities_discover_title": "دنیا کے بڑے شہر دریافت کریں",
+    "cities_discover_subtitle": "اپنے اگلے ایڈونچر کے لیے مشہور عالمی مقاصد کو تلاش کریں",
+    "cities_plan_trip": "سفر کا منصوبہ بنائیں"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

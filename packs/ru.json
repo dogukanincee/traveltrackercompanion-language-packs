@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ru",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Отменить",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "Я подтверждаю, что мне исполнилось 16 лет.",
     "business_details_title": "Юридическая и коммерческая информация",
-    "business_details_address": "Лондон, Великобритания"
+    "business_details_address": "Лондон, Великобритания",
+    "cities_discover_title": "Откройте для себя мегаполисы мира",
+    "cities_discover_subtitle": "Исследуйте культовые мировые направления для вашего следующего приключения",
+    "cities_plan_trip": "Спланировать поездку"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

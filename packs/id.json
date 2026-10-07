@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "id",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Batalkan",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "Saya mengonfirmasi bahwa saya berusia setidaknya 16 tahun.",
     "business_details_title": "Rincian Bisnis & Hukum",
-    "business_details_address": "London, Inggris"
+    "business_details_address": "London, Inggris",
+    "cities_discover_title": "Jelajahi Metropolis Dunia",
+    "cities_discover_subtitle": "Jelajahi destinasi global ikonik untuk petualangan Anda berikutnya",
+    "cities_plan_trip": "Rencanakan Perjalanan"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

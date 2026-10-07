@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "vi",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Hủy bỏ",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "Tôi xác nhận tôi ít nhất 16 tuổi.",
     "business_details_title": "Chi tiết Kinh doanh & Pháp lý",
-    "business_details_address": "Luân Đôn, Vương quốc Anh"
+    "business_details_address": "Luân Đôn, Vương quốc Anh",
+    "cities_discover_title": "Khám phá các Đô thị Thế giới",
+    "cities_discover_subtitle": "Khám phá các điểm đến toàn cầu biểu tượng cho chuyến phiêu lưu tiếp theo của bạn",
+    "cities_plan_trip": "Lập kế hoạch Chuyến đi"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

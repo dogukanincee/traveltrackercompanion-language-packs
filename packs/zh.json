@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "zh",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "取消",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "我确认我已年满16周岁。",
     "business_details_title": "商业与法律详情",
-    "business_details_address": "英国伦敦"
+    "business_details_address": "英国伦敦",
+    "cities_discover_title": "探索世界大都市",
+    "cities_discover_subtitle": "探索标志性的全球目的地，开启您的下一次冒险",
+    "cities_plan_trip": "计划行程"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

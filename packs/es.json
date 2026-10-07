@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "es",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Cancelar",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "Confirmo que tengo al menos 16 años.",
     "business_details_title": "Detalles Comerciales y Legales",
-    "business_details_address": "Londres, Reino Unido"
+    "business_details_address": "Londres, Reino Unido",
+    "cities_discover_title": "Descubre Metrópolis del Mundo",
+    "cities_discover_subtitle": "Explora destinos globales icónicos para tu próxima aventura",
+    "cities_plan_trip": "Planificar Viaje"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

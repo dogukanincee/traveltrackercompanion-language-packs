@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ar",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "إلغاء",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "أؤكد أن عمري 16 عامًا على الأقل.",
     "business_details_title": "التفاصيل التجارية والقانونية",
-    "business_details_address": "لندن، المملكة المتحدة"
+    "business_details_address": "لندن، المملكة المتحدة",
+    "cities_discover_title": "اكتشف عواصم العالم",
+    "cities_discover_subtitle": "استكشف الوجهات العالمية الشهيرة لمغامرتك القادمة",
+    "cities_plan_trip": "خطط لرحلة"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

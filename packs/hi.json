@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "रद्द करें",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "मैं पुष्टि करता/करती हूँ कि मेरी आयु कम से कम 16 वर्ष है।",
     "business_details_title": "व्यावसायिक और कानूनी विवरण",
-    "business_details_address": "लंदन, यूनाइटेड किंगडम"
+    "business_details_address": "लंदन, यूनाइटेड किंगडम",
+    "cities_discover_title": "विश्व के प्रमुख नगर खोजें",
+    "cities_discover_subtitle": "अपने अगले साहसिक कार्य के लिए प्रतिष्ठित वैश्विक गंतव्यों का अन्वेषण करें",
+    "cities_plan_trip": "यात्रा की योजना बनाएं"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

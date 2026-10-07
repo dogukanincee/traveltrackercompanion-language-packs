@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ja",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "キャンセル",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "16歳以上であることを確認します。",
     "business_details_title": "事業者・法的情報",
-    "business_details_address": "ロンドン、イギリス"
+    "business_details_address": "ロンドン、イギリス",
+    "cities_discover_title": "世界の都市を発見する",
+    "cities_discover_subtitle": "次の冒険のために象徴的な世界の目的地を探索しよう",
+    "cities_plan_trip": "旅行を計画"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

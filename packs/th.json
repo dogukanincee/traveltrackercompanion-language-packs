@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "th",
-  "version": 18,
-  "stringCount": 1822,
+  "version": 19,
+  "stringCount": 1825,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "ยกเลิก",
@@ -1826,7 +1826,10 @@
     "business_details_website": "https://dogukanincee.github.io/traveltrackercompanion-web",
     "onboarding_age_consent_checkbox": "ฉันยืนยันว่าฉันมีอายุอย่างน้อย 16 ปี",
     "business_details_title": "รายละเอียดทางธุรกิจและกฎหมาย",
-    "business_details_address": "ลอนดอน, สหราชอาณาจักร"
+    "business_details_address": "ลอนดอน, สหราชอาณาจักร",
+    "cities_discover_title": "ค้นพบมหานครระดับโลก",
+    "cities_discover_subtitle": "สำรวจจุดหมายปลายทางระดับโลกอันโดดเด่นสำหรับการผจญภัยครั้งต่อไปของคุณ",
+    "cities_plan_trip": "วางแผนการเดินทาง"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
