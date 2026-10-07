@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "tr",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "En az 16 yaşında olduğumu onaylıyorum.",
     "business_details_title": "Ticari ve Yasal Detaylar",
-    "business_details_address": "Delaware, Amerika Birleşik Devletleri"
+    "business_details_address": "Londra, Birleşik Krallık"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

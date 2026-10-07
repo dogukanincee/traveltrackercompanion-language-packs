@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "it",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "Confermo di avere almeno 16 anni.",
     "business_details_title": "Dettagli Commerciali e Legali",
-    "business_details_address": "Delaware, Stati Uniti"
+    "business_details_address": "Londra, Regno Unito"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

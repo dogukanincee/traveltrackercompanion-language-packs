@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "vi",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "Tôi xác nhận tôi ít nhất 16 tuổi.",
     "business_details_title": "Chi tiết Kinh doanh & Pháp lý",
-    "business_details_address": "Delaware, Hoa Kỳ"
+    "business_details_address": "Luân Đôn, Vương quốc Anh"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

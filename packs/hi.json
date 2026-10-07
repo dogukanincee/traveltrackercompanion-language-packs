@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "मैं पुष्टि करता/करती हूँ कि मेरी आयु कम से कम 16 वर्ष है।",
     "business_details_title": "व्यावसायिक और कानूनी विवरण",
-    "business_details_address": "डेलावेयर, संयुक्त राज्य अमेरिका"
+    "business_details_address": "लंदन, यूनाइटेड किंगडम"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

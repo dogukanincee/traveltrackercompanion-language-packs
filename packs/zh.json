@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "zh",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "我确认我已年满16周岁。",
     "business_details_title": "商业与法律详情",
-    "business_details_address": "美国特拉华州"
+    "business_details_address": "英国伦敦"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

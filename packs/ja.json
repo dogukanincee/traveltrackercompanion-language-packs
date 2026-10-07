@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "ja",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "16歳以上であることを確認します。",
     "business_details_title": "事業者・法的情報",
-    "business_details_address": "アメリカ合衆国デラウェア州"
+    "business_details_address": "ロンドン、イギリス"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "id",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "Saya mengonfirmasi bahwa saya berusia setidaknya 16 tahun.",
     "business_details_title": "Rincian Bisnis & Hukum",
-    "business_details_address": "Delaware, Amerika Serikat"
+    "business_details_address": "London, Inggris"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

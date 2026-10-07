@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "ar",
-  "version": 16,
+  "version": 17,
   "stringCount": 1822,
   "pluralCount": 68,
   "strings": {
@@ -1826,7 +1826,7 @@
     "business_details_website": "https://traveltrackercompanion.app",
     "onboarding_age_consent_checkbox": "أؤكد أن عمري 16 عامًا على الأقل.",
     "business_details_title": "التفاصيل التجارية والقانونية",
-    "business_details_address": "ديلاوير، الولايات المتحدة"
+    "business_details_address": "لندن، المملكة المتحدة"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
