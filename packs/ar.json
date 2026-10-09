@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ar",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "إلغاء",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "إجمالي %1$d أيام",
     "cities_count_format": "%1$d مدن",
     "cities_journeys_format": "%1$d رحلات",
-    "cities_continents_format": "%1$d قارات"
+    "cities_continents_format": "%1$d قارات",
+    "passport_no_entry_recorded": "لا يوجد سجل دخول",
+    "passport_year_archived_no_border": "سنة %1$d أرشفة بدون عبور للحدود"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

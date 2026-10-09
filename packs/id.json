@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "id",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Batalkan",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "Total %1$d Hari",
     "cities_count_format": "%1$d Kota",
     "cities_journeys_format": "%1$d Perjalanan",
-    "cities_continents_format": "%1$d Benua"
+    "cities_continents_format": "%1$d Benua",
+    "passport_no_entry_recorded": "TIDAK ADA CATATAN MASUK",
+    "passport_year_archived_no_border": "Tahun %1$d diarsipkan tanpa perlintasan perbatasan"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

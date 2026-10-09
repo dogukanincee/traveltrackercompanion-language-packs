@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ja",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "キャンセル",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "合計 %1$d 日",
     "cities_count_format": "%1$d 都市",
     "cities_journeys_format": "%1$d 回の旅",
-    "cities_continents_format": "%1$d 大陸"
+    "cities_continents_format": "%1$d 大陸",
+    "passport_no_entry_recorded": "入国記録なし",
+    "passport_year_archived_no_border": "%1$d 年は国境通過なしでアーカイブされました"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

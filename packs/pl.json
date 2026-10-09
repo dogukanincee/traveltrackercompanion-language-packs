@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "pl",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Anuluj",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "Łącznie %1$d dni",
     "cities_count_format": "%1$d Miast",
     "cities_journeys_format": "%1$d Podróży",
-    "cities_continents_format": "%1$d Kontynentów"
+    "cities_continents_format": "%1$d Kontynentów",
+    "passport_no_entry_recorded": "BRAK REJESTRACJI WJAZDU",
+    "passport_year_archived_no_border": "Rok %1$d zarchiwizowany bez przekroczenia granicy"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "vi",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Hủy bỏ",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "Tổng cộng %1$d ngày",
     "cities_count_format": "%1$d Thành phố",
     "cities_journeys_format": "%1$d Chuyến đi",
-    "cities_continents_format": "%1$d Châu lục"
+    "cities_continents_format": "%1$d Châu lục",
+    "passport_no_entry_recorded": "KHÔNG CÓ NHẬT KÝ NHẬP CẢNH",
+    "passport_year_archived_no_border": "Năm %1$d được lưu trữ mà không qua biên giới"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

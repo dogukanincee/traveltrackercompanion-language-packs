@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ko",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "취소",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "총 %1$d일",
     "cities_count_format": "%1$d개 도시",
     "cities_journeys_format": "%1$d회 여정",
-    "cities_continents_format": "%1$d개 대륙"
+    "cities_continents_format": "%1$d개 대륙",
+    "passport_no_entry_recorded": "입국 기록 없음",
+    "passport_year_archived_no_border": "%1$d년은 국경 이동 없이 보관됨"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

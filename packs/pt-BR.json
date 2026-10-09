@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "pt-BR",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Cancelar",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "%1$d dias no total",
     "cities_count_format": "%1$d Cidades",
     "cities_journeys_format": "%1$d Jornadas",
-    "cities_continents_format": "%1$d Continentes"
+    "cities_continents_format": "%1$d Continentes",
+    "passport_no_entry_recorded": "NENHUM REGISTRO DE ENTRADA",
+    "passport_year_archived_no_border": "Ano %1$d arquivado sem travessia de fronteira"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

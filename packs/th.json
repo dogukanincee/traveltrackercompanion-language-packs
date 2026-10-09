@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "th",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "ยกเลิก",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "รวม %1$d วัน",
     "cities_count_format": "%1$d เมือง",
     "cities_journeys_format": "%1$d การเดินทาง",
-    "cities_continents_format": "%1$d ทวีป"
+    "cities_continents_format": "%1$d ทวีป",
+    "passport_no_entry_recorded": "ไม่มีบันทึกการเข้าเมือง",
+    "passport_year_archived_no_border": "ปี %1$d จัดเก็บถาวรโดยไม่มีการข้ามพรมแดน"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

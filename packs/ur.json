@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "منسوخ کریں",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "کل %1$d دن",
     "cities_count_format": "%1$d شہر",
     "cities_journeys_format": "%1$d اسفار",
-    "cities_continents_format": "%1$d براعظم"
+    "cities_continents_format": "%1$d براعظم",
+    "passport_no_entry_recorded": "کوئی انٹری ریکارڈ نہیں",
+    "passport_year_archived_no_border": "سال %1$d بغیر سرحد پار کیے آرکائیو کیا گیا"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

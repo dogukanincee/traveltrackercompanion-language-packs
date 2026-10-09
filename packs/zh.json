@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "zh",
-  "version": 21,
-  "stringCount": 1855,
+  "version": 23,
+  "stringCount": 1857,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "取消",
@@ -1859,7 +1859,9 @@
     "cities_total_days": "共 %1$d 天",
     "cities_count_format": "%1$d 个城市",
     "cities_journeys_format": "%1$d 次旅程",
-    "cities_continents_format": "%1$d 个大洲"
+    "cities_continents_format": "%1$d 个大洲",
+    "passport_no_entry_recorded": "无入境记录",
+    "passport_year_archived_no_border": "%1$d 年存档，无过境记录"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
