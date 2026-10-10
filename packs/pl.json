@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "pl",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Anuluj",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Podróży",
     "cities_continents_format": "%1$d Kontynentów",
     "passport_no_entry_recorded": "BRAK REJESTRACJI WJAZDU",
-    "passport_year_archived_no_border": "Rok %1$d zarchiwizowany bez przekroczenia granicy"
+    "passport_year_archived_no_border": "Rok %1$d zarchiwizowany bez przekroczenia granicy",
+    "notif_trial_halfway_title": "W połowie okresu próbnego!",
+    "notif_trial_halfway_body": "Zostało 7 dni na korzystanie z funkcji Premium",
+    "notif_trial_ending_title": "Okres próbny dobiega końca",
+    "notif_trial_ending_body": "Subskrybuj teraz, aby zachować funkcje Premium",
+    "notif_trial_last_day_title": "Ostatni dzień okresu próbnego",
+    "notif_trial_last_day_body": "Nie trać dostępu! Subskrybuj dzisiaj",
+    "notif_achievement_unlocked_title": "Osiągnięcie odblokowane!",
+    "notif_achievement_unlocked_body": "Właśnie zdobyłeś „%1$s” — otwórz aplikację, aby zobaczyć.",
+    "notif_fx_alert_title": "Alert kursu walut",
+    "notif_fx_alert_body_risen": "1 %1$s wzrósł do %2$s %3$s (Twój cel: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s spadł do %2$s %3$s (Twój cel: %4$s).",
+    "notif_boarding_pass_checkin_title": "Zarejestruj się na lot",
+    "notif_boarding_pass_checkin_body": "Karta pokładowa do %1$s jest gotowa — zaimportuj ją w aplikacji.",
+    "notif_doc_expiring_soon_title": "Dokument wkrótce wygasa",
+    "notif_doc_expiring_soon_body": "%1$s wygasa za około %2$d dni — odnów go przed kolejną podróżą.",
+    "notif_packing_checklist_title": "Czas spakować się na wyjazd do %1$s",
+    "notif_packing_checklist_body": "Twoja podróż się zbliża — otwórz listę pakowania, aby zobaczyć sugestie.",
+    "notif_reservation_coming_up_title": "Zbliża się rezerwacja",
+    "notif_reservation_coming_up_body": "%1$s jest jutro — miej potwierdzenie pod ręką.",
+    "notif_day_review_title": "Jak minął dzisiejszy dzień?",
+    "notif_day_review_body": "Poświęć chwilę na zapisanie wspomnień z dzisiejszego dnia."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

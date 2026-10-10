@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "منسوخ کریں",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d اسفار",
     "cities_continents_format": "%1$d براعظم",
     "passport_no_entry_recorded": "کوئی انٹری ریکارڈ نہیں",
-    "passport_year_archived_no_border": "سال %1$d بغیر سرحد پار کیے آرکائیو کیا گیا"
+    "passport_year_archived_no_border": "سال %1$d بغیر سرحد پار کیے آرکائیو کیا گیا",
+    "notif_trial_halfway_title": "ٹرائل آدھا ہو گیا!",
+    "notif_trial_halfway_body": "پریمیم خصوصیات سے لطف اندوز ہونے کے لیے 7 دن باقی ہیں",
+    "notif_trial_ending_title": "ٹرائل جلد ختم ہو رہا ہے",
+    "notif_trial_ending_body": "پریمیم خصوصیات برقرار رکھنے کے لیے ابھی سبسکرائب کریں",
+    "notif_trial_last_day_title": "ٹرائل کا آخری دن",
+    "notif_trial_last_day_body": "رسائی مت کھوئیاں! آج ہی سبسکرائب کریں",
+    "notif_achievement_unlocked_title": "کامیابی انلاک ہو گئی!",
+    "notif_achievement_unlocked_body": "آپ نے ابھی \"%1$s\" حاصل کیا - دیکھنے کے لیے ایپ کھولیں۔",
+    "notif_fx_alert_title": "زر مبادلہ کی شرح الرٹ",
+    "notif_fx_alert_body_risen": "1 %1$s بڑھ کر %2$s %3$s ہو گیا ہے (آپ کا ہدف: %4$s)۔",
+    "notif_fx_alert_body_fallen": "1 %1$s گر کر %2$s %3$s ہو گیا ہے (آپ کا ہدف: %4$s)۔",
+    "notif_boarding_pass_checkin_title": "اپنی فلائٹ کے لیے چیک ان کریں",
+    "notif_boarding_pass_checkin_body": "%1$s کے لیے آپ کا بورڈنگ پاس اسکین کرنے کے لیے تیار ہونا چاہیے - ایپ میں امپورٹ کریں۔",
+    "notif_doc_expiring_soon_title": "دستاویز جلد ختم ہو رہی ہے",
+    "notif_doc_expiring_soon_body": "%1$s تقریباً %2$d دنوں میں ختم ہو رہا ہے - اگلی سفر سے پہلے اس کی تجدید کریں۔",
+    "notif_packing_checklist_title": "%1$s کے لیے پیکنگ کا وقت",
+    "notif_packing_checklist_body": "آپ کا سفر قریب آ رہا ہے - تجاویز کے لیے اپنی پیکنگ لسٹ کھولیں۔",
+    "notif_reservation_coming_up_title": "ریزرویشن قریب آرہی ہے",
+    "notif_reservation_coming_up_body": "%1$s کل ہے - اسے قریب رکھیں۔",
+    "notif_day_review_title": "آج کا دن کیسا رہا؟",
+    "notif_day_review_body": "تفصیلات بھولنے سے پہلے آج کی یادیں ڈائری میں تحریر کریں۔"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

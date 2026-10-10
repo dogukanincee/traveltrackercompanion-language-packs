@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "pt-BR",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Cancelar",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Jornadas",
     "cities_continents_format": "%1$d Continentes",
     "passport_no_entry_recorded": "NENHUM REGISTRO DE ENTRADA",
-    "passport_year_archived_no_border": "Ano %1$d arquivado sem travessia de fronteira"
+    "passport_year_archived_no_border": "Ano %1$d arquivado sem travessia de fronteira",
+    "notif_trial_halfway_title": "Teste na metade!",
+    "notif_trial_halfway_body": "Resta 7 dias para aproveitar os recursos Premium",
+    "notif_trial_ending_title": "O teste está terminando em breve",
+    "notif_trial_ending_body": "Assine agora para manter os recursos Premium",
+    "notif_trial_last_day_title": "Último dia do teste",
+    "notif_trial_last_day_body": "Não perca o acesso! Assine hoje",
+    "notif_achievement_unlocked_title": "Conquista Desbloqueada!",
+    "notif_achievement_unlocked_body": "Você acabou de ganhar \"%1$s\" - abra o app para ver.",
+    "notif_fx_alert_title": "Alerta de taxa de câmbio",
+    "notif_fx_alert_body_risen": "1 %1$s subiu para %2$s %3$s (sua meta: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s caiu para %2$s %3$s (sua meta: %4$s).",
+    "notif_boarding_pass_checkin_title": "Faça o check-in do seu voo",
+    "notif_boarding_pass_checkin_body": "Seu cartão de embarque para %1$s deve estar pronto - importe no app.",
+    "notif_doc_expiring_soon_title": "Documento Expirando Em Breve",
+    "notif_doc_expiring_soon_body": "%1$s expira em cerca de %2$d dias - renove antes da próxima viagem.",
+    "notif_packing_checklist_title": "Hora de arrumar as malas para %1$s",
+    "notif_packing_checklist_body": "Sua viagem está chegando - abra sua lista de bagagem para ver sugestões.",
+    "notif_reservation_coming_up_title": "Reserva se aproximando",
+    "notif_reservation_coming_up_body": "%1$s é amanhã - mantenha o comprovante à mão.",
+    "notif_day_review_title": "Como foi o dia hoje?",
+    "notif_day_review_body": "Tire um minuto para registrar o dia de hoje antes de esquecer."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

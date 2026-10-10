@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ar",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "إلغاء",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d رحلات",
     "cities_continents_format": "%1$d قارات",
     "passport_no_entry_recorded": "لا يوجد سجل دخول",
-    "passport_year_archived_no_border": "سنة %1$d أرشفة بدون عبور للحدود"
+    "passport_year_archived_no_border": "سنة %1$d أرشفة بدون عبور للحدود",
+    "notif_trial_halfway_title": "انتصف فترة التجربة!",
+    "notif_trial_halfway_body": "متبقي 7 أيام للاستمتاع بالميزات المميزة",
+    "notif_trial_ending_title": "ستنتهي فترة التجربة قريبًا",
+    "notif_trial_ending_body": "اشترك الآن للحفاظ على الميزات المميزة",
+    "notif_trial_last_day_title": "اليوم الأخير من التجربة",
+    "notif_trial_last_day_body": "لا تفقد الوصول! اشترك اليوم",
+    "notif_achievement_unlocked_title": "تم فتح الإنجاز!",
+    "notif_achievement_unlocked_body": "لقد حصلت للتو على \"%1$s\" - افتح التطبيق لرؤيته.",
+    "notif_fx_alert_title": "تنبيه سعر الصرف",
+    "notif_fx_alert_body_risen": "1 %1$s ارتفع إلى %2$s %3$s (هدفك: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s انخفض إلى %2$s %3$s (هدفك: %4$s).",
+    "notif_boarding_pass_checkin_title": "سجّل وصولك لرحلتك",
+    "notif_boarding_pass_checkin_body": "بطاقة الصعود لـ %1$s جاهزة للمسح الضوئي - استوردها في التطبيق.",
+    "notif_doc_expiring_soon_title": "ينتهي مستندك قريبًا",
+    "notif_doc_expiring_soon_body": "%1$s ينتهي خلال %2$d يومًا تقريبًا - جدّده قبل رحلتك القادمة.",
+    "notif_packing_checklist_title": "حان وقت الحزم لرحلة %1$s",
+    "notif_packing_checklist_body": "رحلتك تقترب - افتح قائمة الحزم للحصول على اقتراحات.",
+    "notif_reservation_coming_up_title": "الحجز قريب",
+    "notif_reservation_coming_up_body": "%1$s غدًا - ابقه في المتناول.",
+    "notif_day_review_title": "كيف كان يومك؟",
+    "notif_day_review_body": "خذ دقيقة لتدوين أحداث اليوم قبل أن تنسى التفاصيل."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "de",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Abbrechen",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Reisen",
     "cities_continents_format": "%1$d Kontinente",
     "passport_no_entry_recorded": "KEIN EINREISEEINTRAG",
-    "passport_year_archived_no_border": "Jahr %1$d ohne Grenzübertritt archiviert"
+    "passport_year_archived_no_border": "Jahr %1$d ohne Grenzübertritt archiviert",
+    "notif_trial_halfway_title": "Testphase zur Hälfte vorbei!",
+    "notif_trial_halfway_body": "Noch 7 Tage, um Premium-Funktionen zu genießen",
+    "notif_trial_ending_title": "Testphase endet bald",
+    "notif_trial_ending_body": "Jetzt abonnieren, um Premium-Funktionen zu behalten",
+    "notif_trial_last_day_title": "Letzter Tag der Testphase",
+    "notif_trial_last_day_body": "Verlieren Sie keinen Zugriff! Abonnieren Sie heute",
+    "notif_achievement_unlocked_title": "Erfolg freigeschaltet!",
+    "notif_achievement_unlocked_body": "Sie haben \"%1$s\" freigeschaltet - öffnen Sie die App.",
+    "notif_fx_alert_title": "Wechselkurs-Warnung",
+    "notif_fx_alert_body_risen": "1 %1$s ist auf %2$s %3$s gestiegen (Ihr Ziel: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s ist auf %2$s %3$s gefallen (Ihr Ziel: %4$s).",
+    "notif_boarding_pass_checkin_title": "Einchecken für Ihren Flug",
+    "notif_boarding_pass_checkin_body": "Ihre Bordkarte für %1$s sollte bereitstehen - importieren Sie sie in die App.",
+    "notif_doc_expiring_soon_title": "Dokument läuft bald ab",
+    "notif_doc_expiring_soon_body": "%1$s läuft in etwa %2$d Tagen ab - erneuern Sie es vor Ihrer nächsten Reise.",
+    "notif_packing_checklist_title": "Zeit zum Packen für %1$s",
+    "notif_packing_checklist_body": "Ihre Reise steht bevor - öffnen Sie Ihre Packliste für Vorschläge.",
+    "notif_reservation_coming_up_title": "Reservierung steht an",
+    "notif_reservation_coming_up_body": "%1$s steht morgen an - halten Sie die Bestätigung bereit.",
+    "notif_day_review_title": "Wie war Ihr Tag?",
+    "notif_day_review_body": "Nehmen Sie sich eine Minute Zeit, um Ihre Erlebnisse festzuhalten."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

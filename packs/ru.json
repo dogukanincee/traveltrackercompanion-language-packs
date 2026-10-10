@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ru",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Отменить",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Поездок",
     "cities_continents_format": "%1$d Континентов",
     "passport_no_entry_recorded": "НЕТ ЗАПИСЕЙ О ВЪЕЗДЕ",
-    "passport_year_archived_no_border": "%1$d год передан в архив без пересечения границы"
+    "passport_year_archived_no_border": "%1$d год передан в архив без пересечения границы",
+    "notif_trial_halfway_title": "Испытательный срок наполовину пройден!",
+    "notif_trial_halfway_body": "Осталось 7 дней использования Premium-функций",
+    "notif_trial_ending_title": "Испытательный срок скоро закончится",
+    "notif_trial_ending_body": "Оформите подписку, чтобы сохранить функции Premium",
+    "notif_trial_last_day_title": "Последний день испытательного срока",
+    "notif_trial_last_day_body": "Не теряйте доступ! Оформите подписку сегодня",
+    "notif_achievement_unlocked_title": "Достижение разблокировано!",
+    "notif_achievement_unlocked_body": "Вы только что получили «%1$s» — откройте приложение.",
+    "notif_fx_alert_title": "Уведомление о курсе валют",
+    "notif_fx_alert_body_risen": "1 %1$s вырос до %2$s %3$s (ваша цель: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s упал до %2$s %3$s (ваша цель: %4$s).",
+    "notif_boarding_pass_checkin_title": "Зарегистрируйтесь на рейс",
+    "notif_boarding_pass_checkin_body": "Посадочный талон в %1$s готов — импортируйте его в приложение.",
+    "notif_doc_expiring_soon_title": "Срок действия документа истекает",
+    "notif_doc_expiring_soon_body": "Срок действия %1$s истекает через %2$d дн. — обновите его перед поездкой.",
+    "notif_packing_checklist_title": "Пора собирать вещи в %1$s",
+    "notif_packing_checklist_body": "Ваша поездка приближается — откройте список вещей за рекомендациями.",
+    "notif_reservation_coming_up_title": "Приближается бронирование",
+    "notif_reservation_coming_up_body": "Завтра %1$s — держите подтверждение под рукой.",
+    "notif_day_review_title": "Как прошёл день?",
+    "notif_day_review_body": "Запишите свои впечатления, пока детали еще свежи в памяти."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ja",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "キャンセル",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d 回の旅",
     "cities_continents_format": "%1$d 大陸",
     "passport_no_entry_recorded": "入国記録なし",
-    "passport_year_archived_no_border": "%1$d 年は国境通過なしでアーカイブされました"
+    "passport_year_archived_no_border": "%1$d 年は国境通過なしでアーカイブされました",
+    "notif_trial_halfway_title": "無料体験が折り返し地点です！",
+    "notif_trial_halfway_body": "プレミアム機能を楽しめるのは残り7日間です",
+    "notif_trial_ending_title": "無料体験がまもなく終了します",
+    "notif_trial_ending_body": "今すぐ登録してプレミアム機能を保持しましょう",
+    "notif_trial_last_day_title": "無料体験の最終日です",
+    "notif_trial_last_day_body": "アクセス権を失わないでください！今すぐ登録を",
+    "notif_achievement_unlocked_title": "実績解除！",
+    "notif_achievement_unlocked_body": "「%1$s」を獲得しました！アプリを開いて確認しましょう。",
+    "notif_fx_alert_title": "為替レートのアラート",
+    "notif_fx_alert_body_risen": "1 %1$s が %2$s %3$s に上昇しました（目標: %4$s）。",
+    "notif_fx_alert_body_fallen": "1 %1$s が %2$s %3$s に下落しました（目標: %4$s）。",
+    "notif_boarding_pass_checkin_title": "フライトのチェックインを行ってください",
+    "notif_boarding_pass_checkin_body": "%1$s 行きの搭乗券の準備ができました。アプリに取り込みましょう。",
+    "notif_doc_expiring_soon_title": "書類の有効期限が近づいています",
+    "notif_doc_expiring_soon_body": "「%1$s」の有効期限まで約 %2$d 日です。次の旅行までに更新してください。",
+    "notif_packing_checklist_title": "%1$s のパッキングの時間です",
+    "notif_packing_checklist_body": "旅行が近づいています。パッキングリストを開いて提案を確認しましょう。",
+    "notif_reservation_coming_up_title": "予約の日時が近づいています",
+    "notif_reservation_coming_up_body": "「%1$s」は明日です。確認書類を準備しておきましょう。",
+    "notif_day_review_title": "今日はどのような一日でしたか？",
+    "notif_day_review_body": "記憶が新しいうちに今日の思い出を日記に残しましょう。"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "es",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Cancelar",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Viajes",
     "cities_continents_format": "%1$d Continentes",
     "passport_no_entry_recorded": "SIN REGISTRO DE ENTRADA",
-    "passport_year_archived_no_border": "Año %1$d archivado sin cruce de frontera"
+    "passport_year_archived_no_border": "Año %1$d archivado sin cruce de frontera",
+    "notif_trial_halfway_title": "¡Prueba a mitad de camino!",
+    "notif_trial_halfway_body": "Quedan 7 días para disfrutar de las funciones Premium",
+    "notif_trial_ending_title": "La prueba termina pronto",
+    "notif_trial_ending_body": "Suscríbete ahora para mantener las funciones Premium",
+    "notif_trial_last_day_title": "Último día de la prueba",
+    "notif_trial_last_day_body": "¡No pierdas el acceso! Suscríbete hoy",
+    "notif_achievement_unlocked_title": "¡Logro desbloqueado!",
+    "notif_achievement_unlocked_body": "Acabas de ganar \"%1$s\" - abre la aplicación para verlo.",
+    "notif_fx_alert_title": "Alerta de tipo de cambio",
+    "notif_fx_alert_body_risen": "1 %1$s ha subido a %2$s %3$s (tu objetivo: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s ha bajado a %2$s %3$s (tu objetivo: %4$s).",
+    "notif_boarding_pass_checkin_title": "Haz el check-in para tu vuelo",
+    "notif_boarding_pass_checkin_body": "Tu tarjeta de embarque para %1$s debería estar lista - impórtala en la app.",
+    "notif_doc_expiring_soon_title": "Documento a punto de caducar",
+    "notif_doc_expiring_soon_body": "%1$s caduca en unos %2$d días - renuévalo antes de tu próximo viaje.",
+    "notif_packing_checklist_title": "Hora de hacer las maletas para %1$s",
+    "notif_packing_checklist_body": "Tu viaje se acerca - abre tu lista de equipaje para ver sugerencias.",
+    "notif_reservation_coming_up_title": "Reserva aproximándose",
+    "notif_reservation_coming_up_body": "%1$s es mañana - ten la confirmación a mano.",
+    "notif_day_review_title": "¿Qué tal tu día?",
+    "notif_day_review_body": "Tómate un minuto para escribir sobre hoy antes de olvidar los detalles."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

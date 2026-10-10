@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "tr",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "İptal",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Yolculuk",
     "cities_continents_format": "%1$d Kıta",
     "passport_no_entry_recorded": "GİRİŞ KAYDI BULUNMADI",
-    "passport_year_archived_no_border": "%1$d yılı sınır geçişi olmadan arşivlendi"
+    "passport_year_archived_no_border": "%1$d yılı sınır geçişi olmadan arşivlendi",
+    "notif_trial_halfway_title": "Deneme Sürenizin Yarısındasınız!",
+    "notif_trial_halfway_body": "Premium özelliklerin keyfini çıkarmak için 7 gününüz kaldı",
+    "notif_trial_ending_title": "Deneme Süreniz Yakında Bitiyor",
+    "notif_trial_ending_body": "Premium özellikleri korumak için şimdi abone olun",
+    "notif_trial_last_day_title": "Deneme Sürenizin Son Günü",
+    "notif_trial_last_day_body": "Erişiminizi kaybetmeyin! Bugün abone olun",
+    "notif_achievement_unlocked_title": "Başarım Açıldı!",
+    "notif_achievement_unlocked_body": "Yeni bir başarım kazandınız: \"%1$s\" - görmek için uygulamayı açın.",
+    "notif_fx_alert_title": "Döviz Kuru Uyarısı",
+    "notif_fx_alert_body_risen": "1 %1$s yükselerek %2$s %3$s oldu (hedefiniz: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s düşerek %2$s %3$s oldu (hedefiniz: %4$s).",
+    "notif_boarding_pass_checkin_title": "Uçuşunuz için Check-in Yapın",
+    "notif_boarding_pass_checkin_body": "%1$s için biniş kartınız taranmaya hazır olmalı - uygulamaya içe aktarın.",
+    "notif_doc_expiring_soon_title": "Belgenin Süresi Yakında Doluyor",
+    "notif_doc_expiring_soon_body": "%1$s belgesinin süresi yaklaşık %2$d gün içinde dolacak - bir sonraki seyahatinizden önce yenileyin.",
+    "notif_packing_checklist_title": "%1$s için bavul hazırlama zamanı",
+    "notif_packing_checklist_body": "Seyahatiniz yaklaşıyor - öneriler almak için bavul listenizi açın.",
+    "notif_reservation_coming_up_title": "Rezervasyonunuz Yaklaşıyor",
+    "notif_reservation_coming_up_body": "%1$s yarın gerçekleşecek - belgenizi yanınızda bulundurun.",
+    "notif_day_review_title": "Gününüz Nasıl Geçti?",
+    "notif_day_review_body": "Detayları unutmadan gününüzü seyahat günlüğünüze kaydedin."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

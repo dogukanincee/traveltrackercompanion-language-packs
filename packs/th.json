@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "th",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "ยกเลิก",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d การเดินทาง",
     "cities_continents_format": "%1$d ทวีป",
     "passport_no_entry_recorded": "ไม่มีบันทึกการเข้าเมือง",
-    "passport_year_archived_no_border": "ปี %1$d จัดเก็บถาวรโดยไม่มีการข้ามพรมแดน"
+    "passport_year_archived_no_border": "ปี %1$d จัดเก็บถาวรโดยไม่มีการข้ามพรมแดน",
+    "notif_trial_halfway_title": "ทดลองใช้งานครึ่งทางแล้ว!",
+    "notif_trial_halfway_body": "เหลือเวลาอีก 7 วันเพื่อเพลิดเพลินกับฟีเจอร์พรีเมียม",
+    "notif_trial_ending_title": "ช่วงทดลองใช้งานกำลังจะสิ้นสุดลง",
+    "notif_trial_ending_body": "สมัครสมาชิกตอนนี้เพื่อใช้งานฟีเจอร์พรีเมียมต่อ",
+    "notif_trial_last_day_title": "วันสุดท้ายของการทดลองใช้งาน",
+    "notif_trial_last_day_body": "อย่าสูญเสียการเข้าถึง! สมัครสมาชิกวันนี้",
+    "notif_achievement_unlocked_title": "ปลดล็อกความสำเร็จแล้ว!",
+    "notif_achievement_unlocked_body": "คุณได้รับ \"%1$s\" - เปิดแอปเพื่อดูรายละเอียด",
+    "notif_fx_alert_title": "แจ้งเตือนอัตราแลกเปลี่ยน",
+    "notif_fx_alert_body_risen": "1 %1$s เพิ่มขึ้นเป็น %2$s %3$s (เป้าหมายของคุณ: %4$s)",
+    "notif_fx_alert_body_fallen": "1 %1$s ลดลงเป็น %2$s %3$s (เป้าหมายของคุณ: %4$s)",
+    "notif_boarding_pass_checkin_title": "เช็คอินสำหรับเที่ยวบินของคุณ",
+    "notif_boarding_pass_checkin_body": "บัตรขึ้นเครื่องสำหรับ %1$s พร้อมสแกนแล้ว - นำเข้าในแอป",
+    "notif_doc_expiring_soon_title": "เอกสารใกล้หมดอายุ",
+    "notif_doc_expiring_soon_body": "%1$s จะหมดอายุในอีกประมาณ %2$d วัน - ต่ออายุล่วงหน้าก่อนการเดินทาง",
+    "notif_packing_checklist_title": "ได้เวลาจัดกระเป๋าสำหรับ %1$s แล้ว",
+    "notif_packing_checklist_body": "การเดินทางของคุณใกล้เข้ามาแล้ว - เปิดรายการจัดกระเป๋าเพื่อรับคำแนะนำ",
+    "notif_reservation_coming_up_title": "การจองกำลังจะมาถึง",
+    "notif_reservation_coming_up_body": "%1$s จะถึงกำหนดในวันพรุ่งนี้ - เตรียมพร้อมไว้",
+    "notif_day_review_title": "วันนี้เป็นอย่างไรบ้าง?",
+    "notif_day_review_body": "ใช้เวลาสักครู่เพื่อบันทึกเรื่องราวในวันนี้ก่อนที่คุณจะลืม"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

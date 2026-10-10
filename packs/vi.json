@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "vi",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Hủy bỏ",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Chuyến đi",
     "cities_continents_format": "%1$d Châu lục",
     "passport_no_entry_recorded": "KHÔNG CÓ NHẬT KÝ NHẬP CẢNH",
-    "passport_year_archived_no_border": "Năm %1$d được lưu trữ mà không qua biên giới"
+    "passport_year_archived_no_border": "Năm %1$d được lưu trữ mà không qua biên giới",
+    "notif_trial_halfway_title": "Dùng thử đã qua một nửa!",
+    "notif_trial_halfway_body": "Còn 7 ngày để trải nghiệm các tính năng Cao cấp",
+    "notif_trial_ending_title": "Dùng thử sắp kết thúc",
+    "notif_trial_ending_body": "Đăng ký ngay để duy trì các tính năng Cao cấp",
+    "notif_trial_last_day_title": "Ngày cuối cùng dùng thử",
+    "notif_trial_last_day_body": "Đừng để mất truy cập! Đăng ký ngay hôm nay",
+    "notif_achievement_unlocked_title": "Đã mở khóa thành tựu!",
+    "notif_achievement_unlocked_body": "Bạn vừa đạt được \"%1$s\" - mở ứng dụng để xem.",
+    "notif_fx_alert_title": "Cảnh báo tỷ giá hối đoái",
+    "notif_fx_alert_body_risen": "1 %1$s đã tăng lên %2$s %3$s (mục tiêu: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s đã giảm xuống %2$s %3$s (mục tiêu: %4$s).",
+    "notif_boarding_pass_checkin_title": "Làm thủ tục cho chuyến bay của bạn",
+    "notif_boarding_pass_checkin_body": "Thẻ lên máy bay cho %1$s đã sẵn sàng - hãy nhập vào ứng dụng.",
+    "notif_doc_expiring_soon_title": "Tài liệu sắp hết hạn",
+    "notif_doc_expiring_soon_body": "%1$s sẽ hết hạn trong khoảng %2$d ngày - hãy gia hạn trước chuyến đi.",
+    "notif_packing_checklist_title": "Đã đến lúc chuẩn bị hành lý cho %1$s",
+    "notif_packing_checklist_body": "Chuyến đi sắp đến - hãy mở danh sách chuẩn bị đồ để xem gợi ý.",
+    "notif_reservation_coming_up_title": "Đặt chỗ sắp đến",
+    "notif_reservation_coming_up_body": "%1$s sẽ diễn ra vào ngày mai - hãy chuẩn bị sẵn sàng.",
+    "notif_day_review_title": "Hôm nay của bạn thế nào?",
+    "notif_day_review_body": "Dành một phút ghi lại nhật ký hôm nay trước khi quên chi tiết."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

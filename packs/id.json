@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "id",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "Batalkan",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d Perjalanan",
     "cities_continents_format": "%1$d Benua",
     "passport_no_entry_recorded": "TIDAK ADA CATATAN MASUK",
-    "passport_year_archived_no_border": "Tahun %1$d diarsipkan tanpa perlintasan perbatasan"
+    "passport_year_archived_no_border": "Tahun %1$d diarsipkan tanpa perlintasan perbatasan",
+    "notif_trial_halfway_title": "Uji Coba Setengah Jalan!",
+    "notif_trial_halfway_body": "Tersisa 7 hari untuk menikmati fitur Premium",
+    "notif_trial_ending_title": "Masa Uji Coba Segera Berakhir",
+    "notif_trial_ending_body": "Berlangganan sekarang untuk mempertahankan fitur Premium",
+    "notif_trial_last_day_title": "Hari Terakhir Uji Coba",
+    "notif_trial_last_day_body": "Jangan kehilangan akses! Berlangganan hari ini",
+    "notif_achievement_unlocked_title": "Pencapaian Terbuka!",
+    "notif_achievement_unlocked_body": "Anda baru saja meraih \"%1$s\" - buka aplikasi untuk melihatnya.",
+    "notif_fx_alert_title": "Peringatan Nilai Tukar",
+    "notif_fx_alert_body_risen": "1 %1$s naik menjadi %2$s %3$s (target Anda: %4$s).",
+    "notif_fx_alert_body_fallen": "1 %1$s turun menjadi %2$s %3$s (target Anda: %4$s).",
+    "notif_boarding_pass_checkin_title": "Check-in untuk penerbangan Anda",
+    "notif_boarding_pass_checkin_body": "Boarding pass Anda untuk %1$s siap dipindai - impor di aplikasi.",
+    "notif_doc_expiring_soon_title": "Dokumen Segera Kadaluwarsa",
+    "notif_doc_expiring_soon_body": "%1$s kadaluwarsa dalam sekitar %2$d hari - perbarui sebelum perjalanan Anda.",
+    "notif_packing_checklist_title": "Saatnya berkemas untuk %1$s",
+    "notif_packing_checklist_body": "Perjalanan Anda makin dekat - buka daftar kemasan untuk melihat saran.",
+    "notif_reservation_coming_up_title": "Reservasi Mendatang",
+    "notif_reservation_coming_up_body": "%1$s besok - siapkan dokumen Anda.",
+    "notif_day_review_title": "Bagaimana hari Anda hari ini?",
+    "notif_day_review_body": "Luangkan waktu sejenak untuk mencatat hari ini sebelum lupa."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

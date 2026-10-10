@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "रद्द करें",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d यात्राएं",
     "cities_continents_format": "%1$d महाद्वीप",
     "passport_no_entry_recorded": "कोई प्रवेश रिकॉर्ड नहीं",
-    "passport_year_archived_no_border": "%1$d वर्ष बिना सीमा पार किए संग्रहित किया गया"
+    "passport_year_archived_no_border": "%1$d वर्ष बिना सीमा पार किए संग्रहित किया गया",
+    "notif_trial_halfway_title": "ट्रायल आधा हो गया है!",
+    "notif_trial_halfway_body": "प्रीमियम सुविधाओं का आनंद लेने के लिए 7 दिन बचे हैं",
+    "notif_trial_ending_title": "ट्रायल जल्द ही समाप्त हो रहा है",
+    "notif_trial_ending_body": "प्रीमियम सुविधाएं बनाए रखने के लिए अभी सदस्यता लें",
+    "notif_trial_last_day_title": "ट्रायल का आखिरी दिन",
+    "notif_trial_last_day_body": "पहुंच न खोएं! आज ही सदस्यता लें",
+    "notif_achievement_unlocked_title": "उपलब्धि अनलॉक हुई!",
+    "notif_achievement_unlocked_body": "आपने अभी \"%1$s\" हासिल किया - देखने के लिए ऐप खोलें।",
+    "notif_fx_alert_title": "विनिमय दर अलर्ट",
+    "notif_fx_alert_body_risen": "1 %1$s बढ़कर %2$s %3$s हो गया है (आपका लक्ष्य: %4$s)।",
+    "notif_fx_alert_body_fallen": "1 %1$s घटकर %2$s %3$s हो गया है (आपका लक्ष्य: %4$s)।",
+    "notif_boarding_pass_checkin_title": "अपनी उड़ान के लिए चेक-इन करें",
+    "notif_boarding_pass_checkin_body": "%1$s के लिए आपका बोर्डिंग पास तैयार होना चाहिए - इसे ऐप में लाएं।",
+    "notif_doc_expiring_soon_title": "दस्तावेज़ की अवधि जल्द समाप्त हो रही है",
+    "notif_doc_expiring_soon_body": "%1$s लगभग %2$d दिनों में समाप्त हो रहा है - अपनी अगली यात्रा से पहले इसे नवीनीकृत करें।",
+    "notif_packing_checklist_title": "%1$s के लिए पैकिंग का समय",
+    "notif_packing_checklist_body": "आपकी यात्रा आ रही है - सुझाव पाने के लिए अपनी पैकिंग सूची खोलें।",
+    "notif_reservation_coming_up_title": "आरक्षण पास आ रहा है",
+    "notif_reservation_coming_up_body": "%1$s कल है - इसे संभाल कर रखें।",
+    "notif_day_review_title": "आज का दिन कैसा रहा?",
+    "notif_day_review_body": "विस्तार से भूलने से पहले आज की यादें डायरी में दर्ज करें।"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "zh",
-  "version": 23,
-  "stringCount": 1857,
+  "version": 24,
+  "stringCount": 1878,
   "pluralCount": 68,
   "strings": {
     "common_cancel": "取消",
@@ -1861,7 +1861,28 @@
     "cities_journeys_format": "%1$d 次旅程",
     "cities_continents_format": "%1$d 个大洲",
     "passport_no_entry_recorded": "无入境记录",
-    "passport_year_archived_no_border": "%1$d 年存档，无过境记录"
+    "passport_year_archived_no_border": "%1$d 年存档，无过境记录",
+    "notif_trial_halfway_title": "试用期已过半！",
+    "notif_trial_halfway_body": "还剩 7 天可享用高级功能",
+    "notif_trial_ending_title": "试用期即将结束",
+    "notif_trial_ending_body": "立即订阅以保留高级功能",
+    "notif_trial_last_day_title": "试用期最后一天",
+    "notif_trial_last_day_body": "不要失去访问权限！立即订阅",
+    "notif_achievement_unlocked_title": "成就解锁！",
+    "notif_achievement_unlocked_body": "您刚获得了“%1$s” - 打开应用查看。",
+    "notif_fx_alert_title": "汇率提醒",
+    "notif_fx_alert_body_risen": "1 %1$s 已涨至 %2$s %3$s（您的目标：%4$s）。",
+    "notif_fx_alert_body_fallen": "1 %1$s 已跌至 %2$s %3$s（您的目标：%4$s）。",
+    "notif_boarding_pass_checkin_title": "办理航班登机手续",
+    "notif_boarding_pass_checkin_body": "%1$s 的登机牌已准备就绪 - 请导入应用。",
+    "notif_doc_expiring_soon_title": "文件即将到期",
+    "notif_doc_expiring_soon_body": "“%1$s”将在约 %2$d 天后到期 - 请在下次旅行前续期。",
+    "notif_packing_checklist_title": "该为 %1$s 打包行李了",
+    "notif_packing_checklist_body": "您的旅行即将来临 - 打开打包清单获取建议。",
+    "notif_reservation_coming_up_title": "预订即将到期",
+    "notif_reservation_coming_up_body": "“%1$s”将在明天到来 - 请随身携带凭证。",
+    "notif_day_review_title": "今天过得怎么样？",
+    "notif_day_review_body": "趁着记忆犹新，花一分钟记录今天的旅行感悟吧。"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
