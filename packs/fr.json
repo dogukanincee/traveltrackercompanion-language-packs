@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "languageTag": "fr",
-  "version": 32,
+  "version": 34,
   "stringCount": 2570,
   "pluralCount": 83,
   "strings": {
@@ -1392,7 +1392,7 @@
     "settings_profile_achievement_journal_streak_7_unlock_description": "Succès d'une série de journaux de 7 jours",
     "settings_profile_achievement_journal_streak_14_title": "Série de 14 jours",
     "settings_profile_achievement_journal_streak_14_unlock_description": "Atteint une série de 14 jours de journalisation",
-    "settings_profile_achievement_europe_bronze_title": "Europe Bronze",
+    "settings_profile_achievement_europe_bronze_title": "Bronze d’Europe",
     "settings_profile_achievement_europe_bronze_unlock_description": "A visité au moins 25 pour cent des pays européens",
     "settings_profile_achievement_europe_silver_title": "Europe Argent",
     "settings_profile_achievement_europe_silver_unlock_description": "A visité au moins 50 pour cent des pays européens",
@@ -1858,7 +1858,7 @@
     "cities_total_days": "%1$d jours au total",
     "cities_count_format": "%1$d Villes",
     "cities_journeys_format": "%1$d Voyages",
-    "cities_continents_format": "%1$d Continents",
+    "cities_continents_format": "%1 continents",
     "passport_no_entry_recorded": "AUCUNE ENTRÉE ENREGISTRÉE",
     "passport_year_archived_no_border": "Année %1$d archivée sans franchissement de frontière",
     "notif_doc_expiring_soon_title": "Document expirant bientôt",
