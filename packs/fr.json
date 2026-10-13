@@ -1858,7 +1858,7 @@
     "cities_total_days": "%1$d jours au total",
     "cities_count_format": "%1$d Villes",
     "cities_journeys_format": "%1$d Voyages",
-    "cities_continents_format": "%1 continents",
+    "cities_continents_format": "%1$d continents",
     "passport_no_entry_recorded": "AUCUNE ENTRÉE ENREGISTRÉE",
     "passport_year_archived_no_border": "Année %1$d archivée sans franchissement de frontière",
     "notif_doc_expiring_soon_title": "Document expirant bientôt",
