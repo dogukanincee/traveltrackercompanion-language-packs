@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "fr",
-  "version": 30,
-  "stringCount": 2496,
+  "version": 31,
+  "stringCount": 2513,
   "pluralCount": 83,
   "strings": {
     "common_cancel": "Annuler",
@@ -2500,7 +2500,24 @@
     "ledger_fx_alert_create_failed_message": "Nous n'avons pas pu créer cette alerte de change. Veuillez réessayer.",
     "ledger_fx_alert_delete_failed_message": "Nous n'avons pas pu supprimer cette alerte de change. Veuillez réessayer.",
     "settings_components_vault_restore_title_format": "%1$s (%2$s)",
-    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)"
+    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)",
+    "settings_profile_group_preferences": "Préférences",
+    "settings_profile_group_alerts": "Alertes",
+    "settings_profile_group_accessibility": "Accessibilité",
+    "settings_profile_group_data": "Données",
+    "settings_profile_group_about_legal": "À propos et mentions légales",
+    "settings_profile_group_share": "Partage",
+    "profile_account_delete_title": "Supprimer le compte",
+    "profile_account_delete_description": "Supprime définitivement votre compte et les données de voyage qui y sont associées, puis efface cet appareil. Votre abonnement via la boutique n'est pas résilié.",
+    "profile_account_delete_action": "Supprimer le compte",
+    "profile_account_delete_confirm_title": "Supprimer votre compte ?",
+    "profile_account_delete_confirm_message": "Cela supprime définitivement votre compte et toutes les données de voyage qu'il contient, y compris celles stockées dans le cloud. Il n'existe aucun moyen de les récupérer.",
+    "profile_account_delete_confirm_action": "Supprimer mon compte",
+    "profile_device_erase_title": "Effacer cet appareil",
+    "profile_device_erase_action": "Effacer les données de l'appareil",
+    "profile_device_erase_confirm_action": "Effacer l'appareil",
+    "profile_sign_in_options": "Autres options de connexion",
+    "profile_sign_in_manage": "Gérer la connexion"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 30,
-  "stringCount": 2496,
+  "version": 31,
+  "stringCount": 2513,
   "pluralCount": 83,
   "strings": {
     "common_cancel": "منسوخ کریں",
@@ -2500,7 +2500,24 @@
     "ledger_fx_alert_create_failed_message": "ہم یہ FX الرٹ نہیں بنا سکے۔ براہ کرم دوبارہ کوشش کریں۔",
     "ledger_fx_alert_delete_failed_message": "ہم یہ FX الرٹ حذف نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں۔",
     "settings_components_vault_restore_title_format": "%1$s (%2$s)",
-    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)"
+    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)",
+    "settings_profile_group_preferences": "ترجیحات",
+    "settings_profile_group_alerts": "انتباہات",
+    "settings_profile_group_accessibility": "قابلِ رسائی",
+    "settings_profile_group_data": "ڈیٹا",
+    "settings_profile_group_about_legal": "تعارف اور قانونی",
+    "settings_profile_group_share": "شیئر کریں",
+    "profile_account_delete_title": "اکاؤنٹ حذف کریں",
+    "profile_account_delete_description": "یہ آپ کا اکاؤنٹ اور اس کے ساتھ محفوظ سفری ڈیٹا مستقل طور پر حذف کر دیتا ہے، پھر اس ڈیوائس کا ڈیٹا مٹا دیتا ہے۔ آپ کی اسٹور سبسکرپشن منسوخ نہیں ہوتی.",
+    "profile_account_delete_action": "اکاؤنٹ حذف کریں",
+    "profile_account_delete_confirm_title": "کیا آپ اپنا اکاؤنٹ حذف کرنا چاہتے ہیں?",
+    "profile_account_delete_confirm_message": "یہ آپ کا اکاؤنٹ اور اس میں موجود تمام سفری ڈیٹا، بشمول کلاؤڈ میں محفوظ ڈیٹا، مستقل طور پر حذف کر دیتا ہے۔ اسے بحال کرنے کا کوئی طریقہ نہیں ہے.",
+    "profile_account_delete_confirm_action": "میرا اکاؤنٹ حذف کریں",
+    "profile_device_erase_title": "اس ڈیوائس کو صاف کریں",
+    "profile_device_erase_action": "ڈیوائس کا ڈیٹا صاف کریں",
+    "profile_device_erase_confirm_action": "ڈیوائس صاف کریں",
+    "profile_sign_in_options": "سائن ان کے مزید اختیارات",
+    "profile_sign_in_manage": "سائن ان کا نظم کریں"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

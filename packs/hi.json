@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 30,
-  "stringCount": 2496,
+  "version": 31,
+  "stringCount": 2513,
   "pluralCount": 83,
   "strings": {
     "common_cancel": "रद्द करें",
@@ -2500,7 +2500,24 @@
     "ledger_fx_alert_create_failed_message": "हम यह विनिमय दर अलर्ट बना नहीं सके। कृपया पुनः प्रयास करें।",
     "ledger_fx_alert_delete_failed_message": "हम यह विनिमय दर अलर्ट हटा नहीं सके। कृपया पुनः प्रयास करें।",
     "settings_components_vault_restore_title_format": "%1$s (%2$s)",
-    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)"
+    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)",
+    "settings_profile_group_preferences": "प्राथमिकताएँ",
+    "settings_profile_group_alerts": "अलर्ट",
+    "settings_profile_group_accessibility": "सुलभता",
+    "settings_profile_group_data": "डेटा",
+    "settings_profile_group_about_legal": "परिचय और कानूनी",
+    "settings_profile_group_share": "साझा करें",
+    "profile_account_delete_title": "खाता हटाएं",
+    "profile_account_delete_description": "आपका खाता और उसमें संग्रहीत यात्रा डेटा स्थायी रूप से हटा दिया जाएगा, फिर इस डिवाइस का डेटा मिटा दिया जाएगा। आपकी स्टोर सदस्यता रद्द नहीं होगी।",
+    "profile_account_delete_action": "खाता हटाएं",
+    "profile_account_delete_confirm_title": "क्या आप अपना खाता हटाना चाहते हैं?",
+    "profile_account_delete_confirm_message": "इससे आपका खाता और उसमें मौजूद सभी यात्रा डेटा स्थायी रूप से हट जाएगा, जिसमें क्लाउड में संग्रहीत डेटा भी शामिल है। इसे वापस पाने का कोई तरीका नहीं है।",
+    "profile_account_delete_confirm_action": "मेरा खाता हटाएं",
+    "profile_device_erase_title": "यह डिवाइस मिटाएं",
+    "profile_device_erase_action": "डिवाइस का डेटा मिटाएं",
+    "profile_device_erase_confirm_action": "डिवाइस मिटाएं",
+    "profile_sign_in_options": "साइन-इन के और विकल्प",
+    "profile_sign_in_manage": "साइन-इन प्रबंधित करें"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {

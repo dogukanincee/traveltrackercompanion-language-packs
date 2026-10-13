@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "languageTag": "vi",
-  "version": 30,
-  "stringCount": 2496,
+  "version": 31,
+  "stringCount": 2513,
   "pluralCount": 83,
   "strings": {
     "common_cancel": "Hủy bỏ",
@@ -2500,7 +2500,24 @@
     "ledger_fx_alert_create_failed_message": "Chúng tôi không thể tạo cảnh báo tỷ giá này. Vui lòng thử lại.",
     "ledger_fx_alert_delete_failed_message": "Chúng tôi không thể xóa cảnh báo tỷ giá này. Vui lòng thử lại.",
     "settings_components_vault_restore_title_format": "%1$s (%2$s)",
-    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)"
+    "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)",
+    "settings_profile_group_preferences": "Cài đặt",
+    "settings_profile_group_alerts": "Cảnh báo",
+    "settings_profile_group_accessibility": "Trợ năng",
+    "settings_profile_group_data": "Dữ liệu",
+    "settings_profile_group_about_legal": "Giới thiệu và pháp lý",
+    "settings_profile_group_share": "Chia sẻ",
+    "profile_account_delete_title": "Xóa tài khoản",
+    "profile_account_delete_description": "Thao tác này xóa vĩnh viễn tài khoản và dữ liệu chuyến đi được lưu cùng tài khoản, sau đó xóa sạch thiết bị này. Đăng ký trên cửa hàng ứng dụng của bạn sẽ không bị hủy.",
+    "profile_account_delete_action": "Xóa tài khoản",
+    "profile_account_delete_confirm_title": "Xóa tài khoản của bạn?",
+    "profile_account_delete_confirm_message": "Thao tác này xóa vĩnh viễn tài khoản và toàn bộ dữ liệu chuyến đi trong đó, bao gồm dữ liệu lưu trên đám mây. Không thể khôi phục.",
+    "profile_account_delete_confirm_action": "Xóa tài khoản của tôi",
+    "profile_device_erase_title": "Xóa sạch thiết bị này",
+    "profile_device_erase_action": "Xóa dữ liệu thiết bị",
+    "profile_device_erase_confirm_action": "Xóa thiết bị",
+    "profile_sign_in_options": "Thêm tùy chọn đăng nhập",
+    "profile_sign_in_manage": "Quản lý đăng nhập"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
