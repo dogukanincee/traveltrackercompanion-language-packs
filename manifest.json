@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "defaultLanguage": "en",
-  "generatedAt": "2026-10-13T13:57:52.407200+00:00",
+  "generatedAt": "2026-10-13T14:26:59.070952+00:00",
   "languages": {
     "zh": {
       "languageTag": "zh",
@@ -123,9 +123,9 @@
     "de": {
       "languageTag": "de",
       "displayName": "de",
-      "version": 32,
-      "sizeBytes": 219093,
-      "sha256": "6517cf1652b3e3b9df2b7295cd8dbdf8e7fad8dbafb39972e626890812d767e9",
+      "version": 33,
+      "sizeBytes": 218774,
+      "sha256": "5597b51ea3d5ce6f0b3984523ae9d21def54a75ee90dc4f79f6f871cb9a6e397",
       "packPath": "packs/de.json",
       "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/de.json"
     },
