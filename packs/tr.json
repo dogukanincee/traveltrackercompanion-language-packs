@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "tr",
-  "version": 36,
-  "stringCount": 2629,
-  "pluralCount": 83,
+  "version": 37,
+  "stringCount": 2744,
+  "pluralCount": 88,
   "strings": {
     "common_cancel": "İptal",
     "common_save": "Kaydet",
@@ -1069,23 +1069,6 @@
     "ledger_currency_budget_allocated_label": "Bütçe",
     "ledger_currency_budget_remaining": "Kalan: %1$s",
     "ledger_currency_budget_over_by": "%1$s kadar bütçe aşıldı",
-    "fx_rate_alerts_title": "Kur Uyarıları",
-    "fx_rate_alerts_subtitle": "Bir para birimi çifti belirlediğiniz bir kuru geçtiğinde bildirim alın.",
-    "fx_rate_alerts_empty_title": "Henüz kur uyarısı yok",
-    "fx_rate_alerts_empty_description": "Döviz kuru hedefinizi aştığında bildirim almak için bir uyarı ekleyin.",
-    "fx_rate_alerts_add_action": "Uyarı Ekle",
-    "fx_rate_alerts_create_title": "Yeni Kur Bildirimi",
-    "fx_rate_alerts_base_currency_label": "Para biriminden",
-    "fx_rate_alerts_quote_currency_label": "Para birimine",
-    "fx_rate_alerts_threshold_label": "Hedef oran",
-    "fx_rate_alerts_direction_rises_above": "Üzerine çıkıyor",
-    "fx_rate_alerts_direction_falls_below": "Altına düşer",
-    "fx_rate_alerts_row_description": "1 %1$s %2$s %3$s %4$s",
-    "fx_rate_alerts_triggered_badge": "Tetiklendi",
-    "fx_rate_alerts_reset_action": "Sıfırla",
-    "fx_rate_alerts_delete_content_description": "%1$s'den %2$s'ye olan uyarıyı sil",
-    "fx_rate_alerts_same_currency_error": "İki farklı para birimi seçin",
-    "fx_rate_alerts_invalid_rate_error": "Sıfırdan büyük bir hedef oran girin",
     "dialog_discard_stop_title": "Durak İptal Edilsin mi?",
     "dialog_discard_stop_message": "Bu durak henüz eklenmedi. Bunu silmek istediğinizden emin misiniz?",
     "dialog_edit_stop_title_prefix": "Düzenle ",
@@ -1532,7 +1515,6 @@
     "settings_profile_item_accessibility": "Erişilebilirlik",
     "settings_profile_item_notifications": "Bildirimler",
     "settings_profile_item_alerts_dashboard": "Uyarıları Yönet",
-    "settings_profile_item_fx_rate_alerts": "Döviz Kuru Bildirimleri",
     "settings_profile_item_trip_auto_detect": "Yolculuk Otomatik Algılama",
     "settings_profile_item_units": "Birimler",
     "settings_profile_unit_imperial": "İngiliz",
@@ -1594,7 +1576,6 @@
     "settings_screens_alerts_category_document_expiry": "Belge Süresi",
     "settings_screens_alerts_category_reservation_reminder": "Rezervasyon Hatırlatmaları",
     "settings_screens_alerts_category_boarding_pass_import": "Biniş Kartı Hazır",
-    "settings_screens_alerts_category_currency_alert": "Döviz Bildirimleri",
     "settings_screens_alerts_category_achievement_unlock": "Başarı Kilit Açmaları",
     "settings_screens_alerts_category_travel_time_leave_by": "Ayrılma Zamanı",
     "settings_screens_alerts_category_packing_reminder": "Paketleme Hatırlatmaları",
@@ -1630,7 +1611,7 @@
     "settings_screens_backup_verify_action": "Yedeği Doğrula",
     "settings_screens_backup_now_action": "Şimdi Yedekle",
     "settings_screens_encrypted_backup_title": "Şifreli Yerel Yedek",
-    "settings_screens_encrypted_backup_description": "Tamamen cihazınızda ve dilediğiniz yerde saklanan, parola korumalı bir yedek dosyası oluşturun - hesap veya bulut aboneliği gerekmez. Parolanız bu cihazdan asla çıkmaz ve unutursanız kurtarılamaz.",
+    "settings_screens_encrypted_backup_description": "Tamamen cihazınızda ve dilediğiniz yerde saklanan, parola korumalı bir yedek dosyası oluşturun - hesap veya bulut aboneliği gerekmez. Parolanız bu cihazdan asla çıkmaz.",
     "settings_screens_encrypted_backup_share_failed": "Bu dosyayı paylaşamadık. Lütfen tekrar deneyin.",
     "settings_screens_encrypted_backup_prepare_failed": "Yedek dosyanız hazırlanamadı",
     "settings_screens_encrypted_backup_restored_successfully": "Yedek başarıyla geri yüklendi",
@@ -1854,7 +1835,6 @@
     "cities_continents_format": "%1$d Kıta",
     "passport_no_entry_recorded": "GİRİŞ KAYDI BULUNMADI",
     "passport_year_archived_no_border": "%1$d yılı sınır geçişi olmadan arşivlendi",
-    "notif_doc_expiring_soon_title": "Belgenin Süresi Yakında Doluyor",
     "profile_msg_local_wipe_incomplete": "Bu cihazdaki bazı veriler kaldırılamadı. İşlemi tamamlamak için tekrar deneyin.",
     "expeditions_addtrip_error_country_required": "Ülkeyi belirleyebilmemiz için önerilerden bir hedef seçin.",
     "expeditions_addtrip_address_label": "Mekân / Konaklama Adresi (İsteğe Bağlı)",
@@ -2191,7 +2171,6 @@
     "ledger_transaction_description": "%1$s harcaması, %2$s, %3$s",
     "ledger_transaction_description_with_note": "%1$s harcaması, %2$s, %3$s, %4$s",
     "ledger_load_failed_message": "İşlemler yüklenemedi",
-    "ledger_fx_alerts_load_failed_message": "Uyarılar yüklenemedi",
     "logbook_load_failed_message": "Seyahat defteri verileri yüklenemedi. Yeniden denemek için dokunun.",
     "logbook_sample_trip_created_message": "Örnek seyahat oluşturuldu!",
     "logbook_sample_trip_failed_message": "Örnek seyahat oluşturulamadı",
@@ -2489,8 +2468,6 @@
     "settings_screens_import_calendar_permission_denied_description": "Erişim reddedildiği için Travel Tracker takviminizi okuyamıyor. Cihaz ayarlarınızdan takvim erişimine izin verin, ardından yeniden tarayın.",
     "expeditions_add_bulk_countries_load_failed": "Ülke listesini yükleyemedik.",
     "ledger_delete_failed_message": "Bu gideri silemedik. Lütfen tekrar deneyin.",
-    "ledger_fx_alert_create_failed_message": "Bu döviz kuru uyarısını oluşturamadık. Lütfen tekrar deneyin.",
-    "ledger_fx_alert_delete_failed_message": "Bu döviz kuru uyarısını silemedik. Lütfen tekrar deneyin.",
     "settings_components_vault_restore_title_format": "%1$s (%2$s)",
     "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)",
     "settings_profile_group_preferences": "Tercihler",
@@ -2633,7 +2610,145 @@
     "expeditions_city_search_network_error": "Ağ hatası. Lütfen bağlantınızı kontrol edip tekrar deneyin.",
     "expeditions_city_search_unexpected_error": "Beklenmeyen bir hata oluştu",
     "expeditions_checklist_delete_item_title": "Kontrol Listesi Öğesi Silinsin mi?",
-    "expeditions_checklist_delete_item_message_format": "“%1$s” bu kontrol listesinden kaldırılsın mı?"
+    "expeditions_checklist_delete_item_message_format": "“%1$s” bu kontrol listesinden kaldırılsın mı?",
+    "appstore_eula_link": "Apple Standart Lisans Sözleşmesi (EULA)",
+    "currency_conversion_rate_title": "Döviz kuru",
+    "currency_conversion_unit_rate": "1 %1$s = %2$s %3$s",
+    "currency_conversion_budget_title": "Seyahat bütçesi",
+    "currency_conversion_budget_equivalent": "%1$s ≈ %2$s %3$s",
+    "currency_conversion_unavailable": "Canlı kur şu anda kullanılamıyor. Çevrimiçi olduğunuzda tekrar deneyin.",
+    "checklist_category_documents": "Belgeler",
+    "checklist_category_tech": "Teknoloji",
+    "checklist_category_health": "Sağlık",
+    "checklist_category_essentials": "Temel eşyalar",
+    "checklist_category_clothing": "Giysiler",
+    "checklist_category_toiletries": "Kişisel bakım",
+    "open_design_import_loading": "Dosyanız okunuyor…",
+    "open_design_import_importing": "Seyahatleriniz içe aktarılıyor…",
+    "open_design_import_preview_summary": "%1$s, %2$s",
+    "open_design_license_not_found_title": "Lisanslar",
+    "open_design_encrypted_backup_password_warning": "Parolanızı unutursanız kurtarılamaz.",
+    "open_design_photo_loading": "Seyahatinizin fotoğrafları aranıyor…",
+    "open_design_photo_select_all": "Tümünü seç",
+    "open_design_passport_entry_label": "GİRİŞ",
+    "open_design_yir_slide_position": "Slayt %1$d / %2$d",
+    "logbook_map_data_error": "Haritanız yüklenemedi. Lütfen daha sonra tekrar deneyin.",
+    "open_items_product_auth_consent_required": "Hesap oluşturmak için koşulları kabul edin ve yaşınızı onaylayın. Ayrıca anonim olarak devam edebilirsiniz.",
+    "open_items_product_checklist_complete": "Kontrol listesi tamamlandı",
+    "privacy_summary_purchases_crash_body": "Satın almalar Apple App Store veya Google Play Store tarafından işlenir. Çökme raporları (Sentry aracılığıyla) yalnızca Ayarlar'da Çökme Raporlarını Gönder seçeneğini açarsanız gönderilir. Bir rapor; uygulama sürümünü, cihaz modelini ve işletim sistemini, takma bir hesap kimliğini ve hata mesajlarını içerir. Ad ve e-posta adresleri gönderilmez.",
+    "settings_backup_restore_requires_empty_trash": "Geri yükleme durduruldu. Bu cihazda, bir yedeğin geri yükleyemeyeceği çöp kutusunda öğeler var. Çöp kutusunu boşaltıp tekrar deneyin.",
+    "import_csv_file_too_large": "Bu CSV dosyası içe aktarmak için çok büyük. Daha küçük dosyalara bölüp tekrar deneyin.",
+    "settings_screens_about_terms_title": "Kullanım Koşulları",
+    "achievement_badge_caption_percent": "%1$d%%/%2$d%%",
+    "achievement_badge_caption_count": "%1$d/%2$d",
+    "expeditions_flight_plan_title_placeholder": "Nereye?",
+    "expeditions_flight_plan_origin": "Kalkış",
+    "expeditions_flight_plan_destination": "Varış",
+    "expeditions_flight_plan_date_not_set": "Tarih belirlenmedi",
+    "expeditions_flight_plan_departs": "Kalkış: %1$s",
+    "expeditions_flight_plan_quota_format": "%1$d/%2$d seyahat",
+    "expeditions_flight_plan_a11y": "Uçuş planı: %1$s, %2$s konumundan %3$s konumuna, kalkış %4$s",
+    "expeditions_stop_add_another_upgrade_hint": "Yükseltme ekranını açar",
+    "expeditions_addtrip_expedition_name_format": "%1$s seyahati",
+    "expeditions_addtrip_discard_confirm": "Vazgeç",
+    "expeditions_addtrip_departing": "Kalkış",
+    "expeditions_addtrip_time_departure_label": "Kalkış saati",
+    "expeditions_addtrip_time_return_label": "Dönüş saati",
+    "expeditions_addtrip_time_chip_cd": "%1$s: %2$s, %3$s",
+    "analytics_heatmap_summary_a11y": "%1$d / %2$d gün seyahat edildi",
+    "airport_collection_row_a11y": "%1$s (%2$s), %3$s, %4$s",
+    "expeditions_cities_year_collection": "%1$s Koleksiyonu",
+    "logbook_duplicate_photo_position_content_description": "Yinelenen fotoğraf %1$d / %2$d",
+    "settings_screens_license_version": "v%1$s",
+    "expeditions_manual_flight_error_not_found": "Uçuş bulunamadı",
+    "expeditions_manual_flight_error_api": "Uçuş hizmetine ulaşılamadı. Lütfen tekrar deneyin.",
+    "expeditions_manual_flight_error_number_required": "Lütfen bir uçuş numarası girin",
+    "expeditions_manual_flight_error_number_invalid": "Lütfen geçerli bir uçuş numarası girin (ör. FR1234)",
+    "expeditions_manual_flight_error_retrieve_failed": "Uçuş bilgileri alınamadı",
+    "expeditions_manual_flight_error_feature_disabled": "Uçuş takibi şu anda devre dışı",
+    "expeditions_manual_flight_hint": "Ayrıntılarını görmek için FR1234 gibi bir uçuş numarası girin.",
+    "expeditions_manual_flight_mock_warning": "Test verisi - gerçek bir uçuş değil",
+    "expeditions_manual_flight_clear_date_description": "Uçuş tarihini temizle",
+    "expeditions_manual_flight_status_on_time": "Zamanında",
+    "expeditions_manual_flight_status_delayed": "Gecikmeli",
+    "expeditions_manual_flight_status_cancelled": "İptal edildi",
+    "expeditions_manual_flight_status_landed": "İndi",
+    "expeditions_manual_flight_status_boarding": "Biniş",
+    "expeditions_manual_flight_status_unknown": "Bilinmiyor",
+    "settings_screens_notification_delete_item_a11y": "Bildirimi sil: %1$s",
+    "settings_screens_notification_history_empty_description": "Hatırlatıcılar ve uyarılar burada görünecek.",
+    "settings_screens_notification_master_off_hint": "Bu ayarları değiştirmek için yukarıdaki bildirimleri açın.",
+    "settings_screens_notification_save_failed": "Bu ayar kaydedilemedi. Önceki haline döndürüldü.",
+    "purchase_history_title": "Satın Alma Geçmişi",
+    "purchase_history_empty": "Henüz satın alma yok",
+    "purchase_history_restore": "Satın Almaları Geri Yükle",
+    "purchase_history_restoring": "Geri yükleniyor...",
+    "purchase_history_purchased_on": "Satın alındı: %1$s",
+    "purchase_history_expires_on": "Sona erer: %1$s",
+    "purchase_history_status_active": "Aktif",
+    "purchase_history_status_expired": "Süresi doldu",
+    "purchase_history_status_pending": "Beklemede",
+    "purchase_history_status_unknown": "Bilinmiyor",
+    "privacy_summary_local_title": "1. Önce Yerel ve Sıfır Bulut Takibi",
+    "privacy_summary_local_body": "TravelTrackerCompanion; seyahat günlüklerinizi, notlarınızı, harcama defterlerinizi ve belge kasası öğelerinizi yalnızca kendi cihazınızda saklar. Kişisel seyahat içeriğiniz için bulut takip sunucuları işletmiyoruz.",
+    "privacy_summary_vault_title": "2. Kasa Şifrelemesi",
+    "privacy_summary_vault_body": "Belge Kasası'na kaydedilen belgeler, platformun yerel şifreleme yöntemleriyle (iOS Anahtar Zinciri / Android Keystore, AES-256) durağan halde şifrelenir.",
+    "privacy_summary_purchases_title": "3. Uygulama İçi Satın Almalar ve Tanılama Verileri",
+    "privacy_summary_purchases_body": "Satın almalar Apple App Store veya Google Play Store tarafından işlenir. Anonim çökme raporları (Sentry aracılığıyla) Ayarlar'dan açılıp kapatılabilir.",
+    "privacy_summary_rights_title": "4. Haklarınız ve Veri Dışa Aktarımı",
+    "privacy_summary_rights_body": "Verileriniz cihazınızda tutulduğundan, uygulamayı kaldırmak yerel kayıtları kalıcı olarak siler. Verilerinizi istediğiniz zaman Ayarlar > Verilerimi Dışa Aktar bölümünden dışa aktarabilirsiniz.",
+    "core_ui_photo_viewer_position": "%1$d / %2$d",
+    "refund_summary_store_title": "1. Mağaza Üzerinden Yapılan Satın Almalar",
+    "refund_summary_store_body": "Tüm uygulama içi satın almalar ve abonelikler doğrudan Apple App Store veya Google Play Store üzerinden faturalandırılır ve yönetilir.",
+    "refund_summary_request_title": "2. İade Nasıl Talep Edilir",
+    "refund_summary_request_body": "İade talep etmek için lütfen Apple'ın (reportaproblem.apple.com) veya Google'ın (support.google.com/googleplay) resmi iade süreçlerini izleyin.",
+    "refund_summary_revocation_title": "3. Erişimin İptali",
+    "refund_summary_revocation_body": "Apple veya Google tarafından bir iade onaylandığında, mağaza bildirimi üzerine ilgili Premium özellikleri otomatik olarak iptal edilir.",
+    "terms_summary_acceptance_title": "1. Kabul ve Yerel İçerik Mülkiyeti",
+    "terms_summary_acceptance_body": "TravelTrackerCompanion uygulamasını kullanarak bu Koşulları kabul etmiş olursunuz. Uygulama içinde oluşturduğunuz tüm seyahat kayıtlarının, fotoğrafların ve belge kasası öğelerinin tam sahibi sizsiniz. Tüm veriler cihazınızda yerel olarak saklanır.",
+    "terms_summary_billing_title": "2. Abonelikler ve Faturalandırma",
+    "terms_summary_billing_body": "Abonelikler ve tek seferlik satın almalar doğrudan Apple Kimliğiniz veya Google Play hesabınız üzerinden faturalandırılır ve yönetilir. Otomatik yenilemeler, yenilemeden en az 24 saat önce mağaza hesap ayarlarınızdan istediğiniz zaman iptal edilebilir.",
+    "terms_summary_third_party_title": "3. Üçüncü Taraf Veri Doğruluğu",
+    "terms_summary_third_party_body": "Canlı uçuş durumu (OpenSky Network / AeroDataBox), hava durumu tahminleri (Open-Meteo) ve döviz kurları (ExchangeRate-API) yalnızca kişisel bilgilendirme amacıyla sunulmaktadır. Uçuş ayrıntılarını havayolunuzla doğrudan doğrulamanız gerekir.",
+    "terms_summary_liability_title": "4. Sorumluluğun Sınırlandırılması",
+    "terms_summary_liability_body": "Yasaların izin verdiği azami ölçüde TravelTrackerCompanion, herhangi bir garanti verilmeksizin \"olduğu gibi\" sunulmaktadır. Cihaz yedeklerinizi tutmaktan siz sorumlusunuz.",
+    "settings_screens_unesco_state_visited": "Ziyaret edildi",
+    "settings_screens_unesco_state_not_visited": "Ziyaret edilmedi",
+    "trash_state_kept_forever": "Süresiz saklanır",
+    "trash_state_not_kept_forever": "Süresiz saklanmaz",
+    "expeditions_qa_refresh_failed": "Seyahatleriniz yenilenemedi. Bağlantınızı kontrol edip tekrar deneyin.",
+    "expeditions_qa_undo": "Geri al",
+    "expeditions_qa_added_to_trip": "%1$s seyahatine eklendi",
+    "expeditions_qa_added_to_trip_with_record": "%1$s seyahatine eklendi — Yeni kişisel rekor: %2$s!",
+    "expeditions_qa_trip_not_found": "Bu seyahat artık kullanılabilir değil. Kaydınız kaydedilmedi.",
+    "expeditions_qa_invalid_amount": "Geçerli bir tutar girin",
+    "expeditions_qa_see_premium": "Premium'u gör",
+    "expeditions_qa_memory_open_hint": "%1$s: %2$s. Seyahat ayrıntılarını aç.",
+    "expeditions_qa_share_memory": "Bu anıyı paylaş",
+    "expeditions_qa_dismiss_memory": "Anıyı kapat",
+    "expeditions_qa_dismiss_anniversary": "Yıldönümünü kapat",
+    "expeditions_qa_banner_current": "Afiş %1$d / %2$d, geçerli",
+    "expeditions_qa_banner_go_to": "%1$d / %2$d afişine git",
+    "expeditions_qa_insight_label": "%1$s: %2$s",
+    "expeditions_qa_checklist_template_empty": "Şablon kaydedilemiyor: kontrol listesi boş",
+    "expeditions_qa_checklist_template_not_found": "Şablon bulunamadı",
+    "expeditions_qa_checklist_premium_only": "Bu bir Premium özelliğidir",
+    "insights_qa_stop_selected": "Seçili",
+    "ledger_qa_budgets_not_saved": "Bütçeler yalnızca bu oturum için tutulur ve henüz kaydedilmedi.",
+    "settings_qa_season_winter": "Kış",
+    "settings_qa_season_spring": "İlkbahar",
+    "settings_qa_season_summer": "Yaz",
+    "settings_qa_season_autumn": "Sonbahar",
+    "settings_qa_season_unknown": "Bilinmiyor",
+    "ux_robustness_generic_error": "Bir sorun oluştu. Lütfen tekrar deneyin.",
+    "ux_robustness_notes_save_failed": "Notlarınızı kaydedemedik. Lütfen tekrar deneyin.",
+    "ux_robustness_photo_load_failed": "Bu seyahatin fotoğraflarını yükleyemedik. Lütfen tekrar deneyin.",
+    "ux_robustness_photo_search_failed": "Fotoğraflarınızda arama yapamadık. Lütfen tekrar deneyin.",
+    "ux_robustness_restore_purchases_failed": "Satın almalarınızı geri yükleyemedik. Lütfen tekrar deneyin.",
+    "ux_robustness_country_list_load_failed": "Ülke listesini yükleyemedik. Lütfen tekrar deneyin.",
+    "ux_robustness_city_list_load_failed": "Şehir listesini yükleyemedik. Lütfen tekrar deneyin.",
+    "ux_robustness_add_trips_failed": "Bu seyahatleri ekleyemedik. Lütfen tekrar deneyin.",
+    "ux_robustness_trash_load_failed": "Çöp kutunuzu yükleyemedik. Lütfen tekrar deneyin."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2649,42 +2764,55 @@
       "other": "Aynı anda en fazla %1$d fotoğraf ekleyebilirsiniz - devam etmek için birkaçının seçimini kaldırın."
     },
     "composeapp_trial_days_left": {
+      "one": "Denemenin bitmesine %1$d gün kaldı",
       "other": "Denemenin bitmesine %1$d gün kaldı"
     },
     "composeapp_subscription_trial_days_access": {
+      "one": "Her şeyi keşfetmek için %1$d gün Premium erişiminiz var.",
       "other": "Her şeyi keşfetmek için %1$d gün Premium erişiminiz var."
     },
     "trash_empty_confirm_message": {
+      "one": "Bu öğe; fotoğrafları, harcamaları ve kontrol listeleri dahil kalıcı olarak silinsin mi? Bu işlem geri alınamaz.",
       "other": "Tüm %1$d öge kalıcı olarak silinsin mi — fotoğrafları, harcamaları ve kontrol listeleri dahil? Bu işlem geri alınamaz."
     },
     "trash_expires_in_hours": {
+      "one": "Süresi %1$d saat içinde doluyor",
       "other": "Süresi %1$d saat içinde doluyor"
     },
     "trash_expires_in_days": {
+      "one": "Süresi %1$d gün içinde doluyor",
       "other": "Süresi %1$d gün içinde doluyor"
     },
     "expeditions_tripdetails_per_person_split": {
+      "one": "kişi başı %1$s (%2$d kişi)",
       "other": "kişi başı %1$s (%2$d kişi)"
     },
     "expeditions_tripdetails_duration_days": {
+      "one": "%1$d gün",
       "other": "%1$d gün"
     },
     "expeditions_tripdetails_photo_count": {
+      "one": "%1$d fotoğraf",
       "other": "%1$d fotoğraf"
     },
     "expeditions_tripdetails_document_count": {
+      "one": "%1$d belge",
       "other": "%1$d belge"
     },
     "expeditions_tripdetails_show_all_expenses": {
+      "one": "%1$d harcamanın tümünü göster",
       "other": "%1$d harcamanın tümünü göster"
     },
     "expeditions_tripdetails_documents_stored": {
+      "one": "%1$d belge saklanıyor",
       "other": "%1$d belge saklanıyor"
     },
     "expeditions_tripdetails_files_selected": {
+      "one": "%1$d dosya seçildi",
       "other": "%1$d dosya seçildi"
     },
     "expeditions_tripdetails_show_all_documents": {
+      "one": "%1$d belgenin tümünü göster",
       "other": "%1$d belgenin tümünü göster"
     },
     "core_ui_trial_countdown_days_left": {
@@ -2692,48 +2820,63 @@
       "other": "Denemede %1$d gün kaldı"
     },
     "logbook_duplicate_groups_found": {
+      "one": "%1$d benzer fotoğraf grubu bulundu",
       "other": "%1$d benzer fotoğraf grubu bulundu"
     },
     "logbook_cluster_photo_count": {
+      "one": "%1$d benzer fotoğraf",
       "other": "%1$d benzer fotoğraf"
     },
     "settings_screens_import_calendar_results_found": {
+      "one": "Takviminizde %1$d olası seyahat bulduk. İncelemek için dokunun.",
       "other": "Takviminizde %1$d olası seyahat bulduk. İncelemek için birine dokunun."
     },
     "settings_screens_airport_visited_suffix": {
+      "one": " havalimanı ziyaret edildi",
       "other": " havalimanı ziyaret edildi"
     },
     "share_duration_days": {
+      "one": "%1$d gün",
       "other": "%1$d gün"
     },
     "share_photo_count": {
+      "one": "%1$d fotoğraf",
       "other": "%1$d fotoğraf"
     },
     "share_country_word": {
+      "one": "ülke",
       "other": "ülke"
     },
     "share_years_word": {
+      "one": "yıl",
       "other": "yıl"
     },
     "share_cities_word": {
+      "one": "şehir",
       "other": "şehir"
     },
     "tripdetails_stop_count": {
+      "one": "%1$d durak",
       "other": "%1$d durak"
     },
     "insight_longest_trip_stat": {
+      "one": "%2$s içinde %1$d gün",
       "other": "%2$s içinde %1$d gün"
     },
     "checklist_suggestions_applied": {
+      "one": "%1$d öğe eklendi",
       "other": "%1$d öğe eklendi"
     },
     "expeditions_trips_moved_to_trash": {
+      "one": "Seyahat çöp kutusuna taşındı (30 gün boyunca kullanılabilir)",
       "other": "%1$d seyahat çöp kutusuna taşındı"
     },
     "tripdetails_vm_stops_removed": {
+      "one": "Durak kaldırıldı",
       "other": "%1$d durak kaldırıldı"
     },
     "profile_msg_cleaned_up_trips": {
+      "one": "%1$d seyahat temizlendi",
       "other": "%1$d seyahat temizlendi"
     },
     "expeditions_tripdetails_selected_count": {
@@ -2821,8 +2964,8 @@
       "other": "%1$d airports visited"
     },
     "carbon_tree_years": {
-      "one": "That\\'s roughly what %1$d mature tree would absorb in a year - a rough equivalence, not a precise offset.",
-      "other": "That\\'s roughly what %1$d mature trees would absorb in a year - a rough equivalence, not a precise offset."
+      "one": "That's roughly what %1$d mature tree would absorb in a year - a rough equivalence, not a precise offset.",
+      "other": "That's roughly what %1$d mature trees would absorb in a year - a rough equivalence, not a precise offset."
     },
     "mileslog_flights_logged": {
       "one": "%1$d flight logged",
@@ -2939,6 +3082,26 @@
     "quota_trips_remaining_free": {
       "one": "Ücretsiz planda %1$d seyahat hakkı kaldı.",
       "other": "Ücretsiz planda %1$d seyahat hakkı kaldı."
+    },
+    "expeditions_add_bulk_countries_available": {
+      "one": "%1$d ülke mevcut",
+      "other": "%1$d ülke mevcut"
+    },
+    "airport_collection_row_visits": {
+      "one": "%1$d ziyaret",
+      "other": "%1$d ziyaret"
+    },
+    "expeditions_qa_trips_archived": {
+      "one": "1 seyahat arşivlendi",
+      "other": "%1$d seyahat arşivlendi"
+    },
+    "expeditions_qa_trips_restored": {
+      "one": "1 seyahat geri yüklendi",
+      "other": "%1$d seyahat geri yüklendi"
+    },
+    "expeditions_qa_checklist_template_limit": {
+      "one": "Ücretsiz planda en fazla 1 kontrol listesi şablonu kaydedebilirsiniz. Sınırsız şablon için Premium'a geçin.",
+      "other": "Ücretsiz planda en fazla %1$d kontrol listesi şablonu kaydedebilirsiniz. Sınırsız şablon için Premium'a geçin."
     }
   }
 }

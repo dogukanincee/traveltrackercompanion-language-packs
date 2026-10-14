@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "fr",
-  "version": 36,
-  "stringCount": 2629,
-  "pluralCount": 83,
+  "version": 37,
+  "stringCount": 2744,
+  "pluralCount": 88,
   "strings": {
     "common_cancel": "Annuler",
     "common_save": "Enregistrer",
@@ -1069,23 +1069,6 @@
     "ledger_currency_budget_allocated_label": "Budget",
     "ledger_currency_budget_remaining": "Restant : %1$s",
     "ledger_currency_budget_over_by": "Dépassement du budget de %1$s",
-    "fx_rate_alerts_title": "Alertes de taux",
-    "fx_rate_alerts_subtitle": "Recevez une notification lorsqu'une paire de devises dépasse un taux que vous avez défini.",
-    "fx_rate_alerts_empty_title": "Pas encore d'alertes de taux",
-    "fx_rate_alerts_empty_description": "Ajoutez une alerte pour être informé lorsqu'un taux de change atteint votre objectif.",
-    "fx_rate_alerts_add_action": "Ajouter une alerte",
-    "fx_rate_alerts_create_title": "Nouvelle alerte de taux",
-    "fx_rate_alerts_base_currency_label": "De la devise",
-    "fx_rate_alerts_quote_currency_label": "Vers la monnaie",
-    "fx_rate_alerts_threshold_label": "Taux cible",
-    "fx_rate_alerts_direction_rises_above": "S'élève au-dessus",
-    "fx_rate_alerts_direction_falls_below": "Tombe en dessous de",
-    "fx_rate_alerts_row_description": "1 %1$s %2$s %3$s %4$s",
-    "fx_rate_alerts_triggered_badge": "Déclenché",
-    "fx_rate_alerts_reset_action": "Réinitialiser",
-    "fx_rate_alerts_delete_content_description": "Supprimer l'alerte pour %1$s à %2$s",
-    "fx_rate_alerts_same_currency_error": "Choisissez deux devises différentes",
-    "fx_rate_alerts_invalid_rate_error": "Entrez un taux cible supérieur à zéro",
     "dialog_discard_stop_title": "Abandonner l'arrêt ?",
     "dialog_discard_stop_message": "Cet arrêt n'a pas encore été ajouté. Êtes-vous sûr de vouloir le supprimer ?",
     "dialog_edit_stop_title_prefix": "Modifier ",
@@ -1532,7 +1515,6 @@
     "settings_profile_item_accessibility": "Accessibilité",
     "settings_profile_item_notifications": "Notifications",
     "settings_profile_item_alerts_dashboard": "Gérer les alertes",
-    "settings_profile_item_fx_rate_alerts": "Alertes de taux de change",
     "settings_profile_item_trip_auto_detect": "Détection automatique du voyage",
     "settings_profile_item_units": "Unités",
     "settings_profile_unit_imperial": "Impérial",
@@ -1594,7 +1576,6 @@
     "settings_screens_alerts_category_document_expiry": "Expiration du document",
     "settings_screens_alerts_category_reservation_reminder": "Rappels de réservation",
     "settings_screens_alerts_category_boarding_pass_import": "Carte d'embarquement prête",
-    "settings_screens_alerts_category_currency_alert": "Alertes de change",
     "settings_screens_alerts_category_achievement_unlock": "Succès débloqués",
     "settings_screens_alerts_category_travel_time_leave_by": "Heure de départ",
     "settings_screens_alerts_category_packing_reminder": "Rappels de préparation",
@@ -1630,7 +1611,7 @@
     "settings_screens_backup_verify_action": "Vérifier la sauvegarde",
     "settings_screens_backup_now_action": "Sauvegarder maintenant",
     "settings_screens_encrypted_backup_title": "Sauvegarde locale chiffrée",
-    "settings_screens_encrypted_backup_description": "Créez un fichier de sauvegarde protégé par mot de passe stocké entièrement sur votre appareil et partout où vous choisissez de le sauvegarder - aucune souscription à un compte ou au cloud n'est requise. Votre mot de passe ne quitte jamais cet appareil et ne peut pas être récupéré si vous l'oubliez.",
+    "settings_screens_encrypted_backup_description": "Créez un fichier de sauvegarde protégé par mot de passe, stocké entièrement sur votre appareil et à l’emplacement de votre choix, sans compte ni abonnement cloud. Votre mot de passe ne quitte jamais cet appareil.",
     "settings_screens_encrypted_backup_share_failed": "Nous n'avons pas pu partager ce fichier. Veuillez essayer à nouveau.",
     "settings_screens_encrypted_backup_prepare_failed": "Échec de la préparation de votre fichier de sauvegarde",
     "settings_screens_encrypted_backup_restored_successfully": "Sauvegarde restaurée avec succès",
@@ -1854,7 +1835,6 @@
     "cities_continents_format": "%1$d continents",
     "passport_no_entry_recorded": "AUCUNE ENTRÉE ENREGISTRÉE",
     "passport_year_archived_no_border": "Année %1$d archivée sans franchissement de frontière",
-    "notif_doc_expiring_soon_title": "Document expirant bientôt",
     "profile_msg_local_wipe_incomplete": "Certaines données de cet appareil n'ont pas pu être supprimées. Réessayez pour terminer.",
     "expeditions_addtrip_error_country_required": "Choisissez une destination parmi les suggestions pour que nous puissions identifier le pays.",
     "expeditions_addtrip_address_label": "Adresse du lieu / hébergement (facultatif)",
@@ -2191,7 +2171,6 @@
     "ledger_transaction_description": "Dépense %1$s, %2$s, %3$s",
     "ledger_transaction_description_with_note": "Dépense %1$s, %2$s, %3$s, %4$s",
     "ledger_load_failed_message": "Impossible de charger les transactions",
-    "ledger_fx_alerts_load_failed_message": "Impossible de charger les alertes",
     "logbook_load_failed_message": "Échec du chargement du carnet de voyage. Appuyez pour réessayer.",
     "logbook_sample_trip_created_message": "Voyage d'exemple créé !",
     "logbook_sample_trip_failed_message": "Échec de la création du voyage d'exemple",
@@ -2489,8 +2468,6 @@
     "settings_screens_import_calendar_permission_denied_description": "Travel Tracker ne peut pas lire votre calendrier car l'accès a été refusé. Autorisez l'accès au calendrier dans les paramètres de votre appareil, puis relancez l'analyse.",
     "expeditions_add_bulk_countries_load_failed": "Nous n'avons pas pu charger la liste des pays.",
     "ledger_delete_failed_message": "Nous n'avons pas pu supprimer cette dépense. Veuillez réessayer.",
-    "ledger_fx_alert_create_failed_message": "Nous n'avons pas pu créer cette alerte de change. Veuillez réessayer.",
-    "ledger_fx_alert_delete_failed_message": "Nous n'avons pas pu supprimer cette alerte de change. Veuillez réessayer.",
     "settings_components_vault_restore_title_format": "%1$s (%2$s)",
     "settings_components_vault_restore_message_format": "%1$s (%2$s - %3$s)",
     "settings_profile_group_preferences": "Préférences",
@@ -2633,7 +2610,145 @@
     "expeditions_city_search_network_error": "Erreur réseau. Veuillez vérifier votre connexion et réessayer.",
     "expeditions_city_search_unexpected_error": "Une erreur inattendue s'est produite",
     "expeditions_checklist_delete_item_title": "Supprimer l'élément de la liste de contrôle ?",
-    "expeditions_checklist_delete_item_message_format": "Retirer \"%1$s\" de cette liste de contrôle ?"
+    "expeditions_checklist_delete_item_message_format": "Retirer \"%1$s\" de cette liste de contrôle ?",
+    "appstore_eula_link": "Contrat de licence standard d’Apple (CLUF)",
+    "currency_conversion_rate_title": "Taux de change",
+    "currency_conversion_unit_rate": "1 %1$s = %2$s %3$s",
+    "currency_conversion_budget_title": "Budget du voyage",
+    "currency_conversion_budget_equivalent": "%1$s ≈ %2$s %3$s",
+    "currency_conversion_unavailable": "Le taux en direct est indisponible pour le moment. Réessayez lorsque vous serez en ligne.",
+    "checklist_category_documents": "Documents",
+    "checklist_category_tech": "High-tech",
+    "checklist_category_health": "Santé",
+    "checklist_category_essentials": "Essentiels",
+    "checklist_category_clothing": "Vêtements",
+    "checklist_category_toiletries": "Articles de toilette",
+    "open_design_import_loading": "Lecture de votre fichier…",
+    "open_design_import_importing": "Importation de vos voyages…",
+    "open_design_import_preview_summary": "%1$s, %2$s",
+    "open_design_license_not_found_title": "Licences",
+    "open_design_encrypted_backup_password_warning": "Votre mot de passe ne pourra pas être récupéré si vous l’oubliez.",
+    "open_design_photo_loading": "Recherche de photos de votre voyage…",
+    "open_design_photo_select_all": "Tout sélectionner",
+    "open_design_passport_entry_label": "ENTRÉE",
+    "open_design_yir_slide_position": "Diapositive %1$d sur %2$d",
+    "logbook_map_data_error": "Votre carte n’a pas pu être chargée. Réessayez plus tard.",
+    "open_items_product_auth_consent_required": "Acceptez les conditions et confirmez votre âge pour créer un compte. Vous pouvez aussi continuer anonymement.",
+    "open_items_product_checklist_complete": "Liste terminée",
+    "privacy_summary_purchases_crash_body": "Les achats sont traités par l’Apple App Store ou le Google Play Store. Les rapports de plantage (via Sentry) ne sont envoyés que si vous activez Envoyer les rapports de plantage dans les Réglages. Un rapport contient la version de l’application, le modèle de l’appareil et le système d’exploitation, un identifiant de compte pseudonyme et les messages d’erreur. Les noms et adresses e-mail ne sont pas envoyés.",
+    "settings_backup_restore_requires_empty_trash": "Restauration interrompue. Cet appareil contient des éléments dans la corbeille, qu’une sauvegarde ne peut pas restaurer. Videz la corbeille, puis réessayez.",
+    "import_csv_file_too_large": "Ce fichier CSV est trop volumineux pour être importé. Divisez-le en fichiers plus petits et réessayez.",
+    "settings_screens_about_terms_title": "Conditions générales",
+    "achievement_badge_caption_percent": "%1$d%%/%2$d%%",
+    "achievement_badge_caption_count": "%1$d/%2$d",
+    "expeditions_flight_plan_title_placeholder": "Où allez-vous ?",
+    "expeditions_flight_plan_origin": "Départ",
+    "expeditions_flight_plan_destination": "Arrivée",
+    "expeditions_flight_plan_date_not_set": "Date non définie",
+    "expeditions_flight_plan_departs": "Départ le %1$s",
+    "expeditions_flight_plan_quota_format": "%1$d/%2$d voyages",
+    "expeditions_flight_plan_a11y": "Plan de vol : %1$s, de %2$s à %3$s, départ %4$s",
+    "expeditions_stop_add_another_upgrade_hint": "Ouvre l’écran de mise à niveau",
+    "expeditions_addtrip_expedition_name_format": "Expédition vers %1$s",
+    "expeditions_addtrip_discard_confirm": "Abandonner",
+    "expeditions_addtrip_departing": "Départ",
+    "expeditions_addtrip_time_departure_label": "Heure de départ",
+    "expeditions_addtrip_time_return_label": "Heure de retour",
+    "expeditions_addtrip_time_chip_cd": "%1$s : %2$s, %3$s",
+    "analytics_heatmap_summary_a11y": "%1$d jours de voyage sur %2$d",
+    "airport_collection_row_a11y": "%1$s (%2$s), %3$s, %4$s",
+    "expeditions_cities_year_collection": "Collection %1$s",
+    "logbook_duplicate_photo_position_content_description": "Photo en double %1$d sur %2$d",
+    "settings_screens_license_version": "v%1$s",
+    "expeditions_manual_flight_error_not_found": "Vol introuvable",
+    "expeditions_manual_flight_error_api": "Impossible de joindre le service de vols. Veuillez réessayer.",
+    "expeditions_manual_flight_error_number_required": "Veuillez saisir un numéro de vol",
+    "expeditions_manual_flight_error_number_invalid": "Veuillez saisir un numéro de vol valide (par ex. FR1234)",
+    "expeditions_manual_flight_error_retrieve_failed": "Échec de la récupération des informations de vol",
+    "expeditions_manual_flight_error_feature_disabled": "Le suivi des vols est actuellement désactivé",
+    "expeditions_manual_flight_hint": "Saisissez un numéro de vol, comme FR1234, pour consulter ses détails.",
+    "expeditions_manual_flight_mock_warning": "Données de test : ce n’est pas un vrai vol",
+    "expeditions_manual_flight_clear_date_description": "Effacer la date du vol",
+    "expeditions_manual_flight_status_on_time": "À l’heure",
+    "expeditions_manual_flight_status_delayed": "Retardé",
+    "expeditions_manual_flight_status_cancelled": "Annulé",
+    "expeditions_manual_flight_status_landed": "Atterri",
+    "expeditions_manual_flight_status_boarding": "Embarquement",
+    "expeditions_manual_flight_status_unknown": "Inconnu",
+    "settings_screens_notification_delete_item_a11y": "Supprimer la notification : %1$s",
+    "settings_screens_notification_history_empty_description": "Les rappels et alertes apparaîtront ici.",
+    "settings_screens_notification_master_off_hint": "Activez les notifications ci-dessus pour modifier ces réglages.",
+    "settings_screens_notification_save_failed": "Impossible d’enregistrer ce réglage. Il a été rétabli.",
+    "purchase_history_title": "Historique des achats",
+    "purchase_history_empty": "Aucun achat pour le moment",
+    "purchase_history_restore": "Restaurer les achats",
+    "purchase_history_restoring": "Restauration...",
+    "purchase_history_purchased_on": "Acheté le : %1$s",
+    "purchase_history_expires_on": "Expire le : %1$s",
+    "purchase_history_status_active": "Active",
+    "purchase_history_status_expired": "Expirée",
+    "purchase_history_status_pending": "En attente",
+    "purchase_history_status_unknown": "Inconnu",
+    "privacy_summary_local_title": "1. Local d’abord, sans suivi dans le cloud",
+    "privacy_summary_local_body": "TravelTrackerCompanion stocke vos journaux de voyage, notes, dépenses et éléments du coffre à documents uniquement sur votre appareil. Nous n’exploitons aucun serveur de suivi dans le cloud pour le contenu personnel de vos voyages.",
+    "privacy_summary_vault_title": "2. Chiffrement du coffre",
+    "privacy_summary_vault_body": "Les documents enregistrés dans le coffre à documents sont chiffrés au repos avec la cryptographie native de la plateforme (Trousseau iOS / Android Keystore avec AES-256).",
+    "privacy_summary_purchases_title": "3. Achats intégrés et télémétrie de diagnostic",
+    "privacy_summary_purchases_body": "Les achats sont traités par l’Apple App Store ou le Google Play Store. Les rapports de plantage anonymes (via Sentry) peuvent être activés ou désactivés dans les Réglages.",
+    "privacy_summary_rights_title": "4. Vos droits et l’export de vos données",
+    "privacy_summary_rights_body": "Vos données étant stockées sur votre appareil, la désinstallation de l’application supprime définitivement les enregistrements locaux. Vous pouvez exporter vos données à tout moment via Réglages > Exporter mes données.",
+    "core_ui_photo_viewer_position": "%1$d / %2$d",
+    "refund_summary_store_title": "1. Achats gérés par la boutique",
+    "refund_summary_store_body": "Tous les achats intégrés et abonnements sont facturés et gérés directement par l’Apple App Store ou le Google Play Store.",
+    "refund_summary_request_title": "2. Comment demander un remboursement",
+    "refund_summary_request_body": "Pour demander un remboursement, suivez les procédures officielles d’Apple (reportaproblem.apple.com) ou de Google (support.google.com/googleplay).",
+    "refund_summary_revocation_title": "3. Révocation de l’accès",
+    "refund_summary_revocation_body": "Lorsqu’un remboursement est approuvé par Apple ou Google, les fonctionnalités Premium associées sont automatiquement révoquées à réception de la notification de la boutique.",
+    "terms_summary_acceptance_title": "1. Acceptation et propriété locale du contenu",
+    "terms_summary_acceptance_body": "En utilisant TravelTrackerCompanion, vous acceptez ces Conditions. Vous conservez la pleine propriété de tous les enregistrements de voyage, photos et éléments du coffre à documents créés dans l’application. Toutes les données restent stockées localement sur votre appareil.",
+    "terms_summary_billing_title": "2. Abonnements et facturation",
+    "terms_summary_billing_body": "Les abonnements et les achats uniques sont facturés et gérés directement via votre identifiant Apple ou votre compte Google Play. Les renouvellements automatiques peuvent être annulés à tout moment dans les réglages de votre compte de boutique, au moins 24 heures avant le renouvellement.",
+    "terms_summary_third_party_title": "3. Exactitude des données tierces",
+    "terms_summary_third_party_body": "L’état des vols en direct (OpenSky Network / AeroDataBox), les prévisions météo (Open-Meteo) et les taux de change (ExchangeRate-API) sont fournis uniquement à titre informatif personnel. Les détails de vol doivent être vérifiés directement auprès de votre compagnie aérienne.",
+    "terms_summary_liability_title": "4. Limitation de responsabilité",
+    "terms_summary_liability_body": "Dans la mesure permise par la loi, TravelTrackerCompanion est fourni « en l’état », sans garantie d’aucune sorte. Vous êtes responsable de la sauvegarde de votre appareil.",
+    "settings_screens_unesco_state_visited": "Visité",
+    "settings_screens_unesco_state_not_visited": "Non visité",
+    "trash_state_kept_forever": "Conservé indéfiniment",
+    "trash_state_not_kept_forever": "Non conservé indéfiniment",
+    "expeditions_qa_refresh_failed": "Impossible d’actualiser vos voyages. Vérifiez votre connexion et réessayez.",
+    "expeditions_qa_undo": "Annuler",
+    "expeditions_qa_added_to_trip": "Ajouté à %1$s",
+    "expeditions_qa_added_to_trip_with_record": "Ajouté à %1$s — Nouveau record personnel : %2$s !",
+    "expeditions_qa_trip_not_found": "Ce voyage n’est plus disponible. Votre saisie n’a pas été enregistrée.",
+    "expeditions_qa_invalid_amount": "Saisissez un montant valide",
+    "expeditions_qa_see_premium": "Voir Premium",
+    "expeditions_qa_memory_open_hint": "%1$s : %2$s. Ouvrir les détails du voyage.",
+    "expeditions_qa_share_memory": "Partager ce souvenir",
+    "expeditions_qa_dismiss_memory": "Masquer le souvenir",
+    "expeditions_qa_dismiss_anniversary": "Masquer l’anniversaire",
+    "expeditions_qa_banner_current": "Bannière %1$d sur %2$d, actuelle",
+    "expeditions_qa_banner_go_to": "Aller à la bannière %1$d sur %2$d",
+    "expeditions_qa_insight_label": "%1$s : %2$s",
+    "expeditions_qa_checklist_template_empty": "Impossible d’enregistrer le modèle : la liste est vide",
+    "expeditions_qa_checklist_template_not_found": "Modèle introuvable",
+    "expeditions_qa_checklist_premium_only": "Il s’agit d’une fonctionnalité Premium",
+    "insights_qa_stop_selected": "Sélectionné",
+    "ledger_qa_budgets_not_saved": "Les budgets ne sont conservés que pour cette session et ne sont pas encore enregistrés.",
+    "settings_qa_season_winter": "Hiver",
+    "settings_qa_season_spring": "Printemps",
+    "settings_qa_season_summer": "Été",
+    "settings_qa_season_autumn": "Automne",
+    "settings_qa_season_unknown": "Inconnu",
+    "ux_robustness_generic_error": "Une erreur est survenue. Veuillez réessayer.",
+    "ux_robustness_notes_save_failed": "Nous n’avons pas pu enregistrer vos notes. Veuillez réessayer.",
+    "ux_robustness_photo_load_failed": "Nous n’avons pas pu charger les photos de ce voyage. Veuillez réessayer.",
+    "ux_robustness_photo_search_failed": "Nous n’avons pas pu rechercher dans vos photos. Veuillez réessayer.",
+    "ux_robustness_restore_purchases_failed": "Nous n’avons pas pu restaurer vos achats. Veuillez réessayer.",
+    "ux_robustness_country_list_load_failed": "Nous n’avons pas pu charger la liste des pays. Veuillez réessayer.",
+    "ux_robustness_city_list_load_failed": "Nous n’avons pas pu charger la liste des villes. Veuillez réessayer.",
+    "ux_robustness_add_trips_failed": "Nous n’avons pas pu ajouter ces voyages. Veuillez réessayer.",
+    "ux_robustness_trash_load_failed": "Nous n’avons pas pu charger votre corbeille. Veuillez réessayer."
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -2645,16 +2760,16 @@
       "other": "%1$d sélectionnés"
     },
     "expeditions_screens_selection_cap_hint": {
-      "one": "Vous pouvez ajouter jusqu\\'à %1$d photo à la fois - désélectionnez quelques-unes pour continuer.",
-      "other": "Vous pouvez ajouter jusqu\\'à %1$d photos à la fois - désélectionnez quelques-unes pour continuer."
+      "one": "Vous pouvez ajouter jusqu'à %1$d photo à la fois - désélectionnez quelques-unes pour continuer.",
+      "other": "Vous pouvez ajouter jusqu'à %1$d photos à la fois - désélectionnez quelques-unes pour continuer."
     },
     "composeapp_trial_days_left": {
-      "one": "%1$d jour d\\'essai restant",
-      "other": "%1$d jours d\\'essai restants"
+      "one": "%1$d jour d'essai restant",
+      "other": "%1$d jours d'essai restants"
     },
     "composeapp_subscription_trial_days_access": {
-      "one": "Vous disposez désormais de %1$d jour d\\'accès Premium pour explorer tout.",
-      "other": "Vous disposez désormais de %1$d jours d\\'accès Premium pour explorer tout."
+      "one": "Vous disposez désormais de %1$d jour d'accès Premium pour explorer tout.",
+      "other": "Vous disposez désormais de %1$d jours d'accès Premium pour explorer tout."
     },
     "trash_empty_confirm_message": {
       "one": "Supprimer définitivement cet élément — y compris ses photos, ses dépenses et ses listes de contrôle ? Cette action ne peut pas être annulée.",
@@ -2709,8 +2824,8 @@
       "other": "%1$d voyages nécessitent une sauvegarde"
     },
     "attentionstrip_premium_expires_days": {
-      "one": "L\\'accès premium expire dans %1$d jour",
-      "other": "L\\'accès premium expire dans %1$d jours"
+      "one": "L'accès premium expire dans %1$d jour",
+      "other": "L'accès premium expire dans %1$d jours"
     },
     "attentionstrip_trips_left_free_plan": {
       "one": "%1$d voyage reste sur votre plan gratuit",
@@ -2721,12 +2836,12 @@
       "other": "%1$d jours de déplacement dans les %2$d derniers jours"
     },
     "anniversary_years_title": {
-      "one": "%1$d an d\\'anniversaire !",
-      "other": "%1$d ans d\\'anniversaire !"
+      "one": "%1$d an d'anniversaire !",
+      "other": "%1$d ans d'anniversaire !"
     },
     "memoryflashback_years_ago": {
-      "one": "Il y a %1$d an aujourd\\'hui",
-      "other": "Il y a %1$d ans aujourd\\'hui"
+      "one": "Il y a %1$d an aujourd'hui",
+      "other": "Il y a %1$d ans aujourd'hui"
     },
     "hero_days_remaining_word": {
       "one": "jour",
@@ -2745,8 +2860,8 @@
       "other": "Ajouter %1$d photos"
     },
     "expenseanomaly_findings": {
-      "one": "%1$d dépense digne d\\'une deuxième lecture",
-      "other": "%1$d dépenses dignes d\\'une deuxième lecture"
+      "one": "%1$d dépense digne d'une deuxième lecture",
+      "other": "%1$d dépenses dignes d'une deuxième lecture"
     },
     "addbulktravel_add_countries": {
       "one": "Ajouter %1$d pays",
@@ -2805,16 +2920,16 @@
       "other": "%1$d documents expirant bientôt"
     },
     "flightplan_trial_days": {
-      "one": "%1$d jour d\\'essai",
-      "other": "%1$d jours d\\'essai"
+      "one": "%1$d jour d'essai",
+      "other": "%1$d jours d'essai"
     },
     "tripdetails_unconverted_expenses": {
       "one": "%1$d dépense en autres devises ne pouvait pas être convertie en %2$s (taux de change indisponible)",
       "other": "%1$d dépenses en autres devises ne pouvaient pas être converties en %2$s (taux de change indisponible)"
     },
     "boardingpass_ready": {
-      "one": "CARTE D\\'EMBARQUEMENT PRÊTE",
-      "other": "CARTES D\\'EMBARQUEMENT PRÊTES"
+      "one": "CARTE D'EMBARQUEMENT PRÊTE",
+      "other": "CARTES D'EMBARQUEMENT PRÊTES"
     },
     "recentlydeleted_trips": {
       "one": "Voyage supprimé",
@@ -2833,8 +2948,8 @@
       "other": "%1$d destinations supplémentaires pour atteindre le prochain niveau"
     },
     "core_ui_trial_countdown_days_left": {
-      "one": "%1$d jour restant dans la période d\\'essai",
-      "other": "%1$d jours restant dans la période d\\'essai"
+      "one": "%1$d jour restant dans la période d'essai",
+      "other": "%1$d jours restant dans la période d'essai"
     },
     "logbook_duplicate_groups_found": {
       "one": "%1$d groupe de photos similaires trouvé",
@@ -2846,7 +2961,7 @@
     },
     "settings_screens_import_calendar_results_found": {
       "one": "Nous avons trouvé %1$d voyage possible dans votre calendrier. Appuyez dessus pour le vérifier.",
-      "other": "Nous avons trouvé %1$d voyages possibles dans votre calendrier. Appuyez sur l\\'un d\\'eux pour le vérifier."
+      "other": "Nous avons trouvé %1$d voyages possibles dans votre calendrier. Appuyez sur l'un d'eux pour le vérifier."
     },
     "settings_screens_airport_visited_suffix": {
       "one": " aéroport visité",
@@ -2967,6 +3082,26 @@
     "quota_trips_remaining_free": {
       "one": "%1$d voyage restant dans le forfait gratuit.",
       "other": "%1$d voyages restants dans le forfait gratuit."
+    },
+    "expeditions_add_bulk_countries_available": {
+      "one": "%1$d pays disponible",
+      "other": "%1$d pays disponibles"
+    },
+    "airport_collection_row_visits": {
+      "one": "%1$d visite",
+      "other": "%1$d visites"
+    },
+    "expeditions_qa_trips_archived": {
+      "one": "1 voyage archivé",
+      "other": "%1$d voyages archivés"
+    },
+    "expeditions_qa_trips_restored": {
+      "one": "1 voyage restauré",
+      "other": "%1$d voyages restaurés"
+    },
+    "expeditions_qa_checklist_template_limit": {
+      "one": "Vous avez atteint la limite de 1 modèle de liste de contrôle sur le forfait gratuit. Passez à Premium pour des modèles illimités.",
+      "other": "Vous avez atteint la limite de %1$d modèles de liste de contrôle sur le forfait gratuit. Passez à Premium pour des modèles illimités."
     }
   }
 }
