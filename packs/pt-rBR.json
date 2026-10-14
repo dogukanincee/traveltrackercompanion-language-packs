@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "pt-rBR",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "Cancelar",
     "common_save": "Salvar",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "Sua senha não pode ser recuperada se você a esquecer.",
     "open_design_photo_loading": "Buscando fotos da sua viagem…",
     "open_design_photo_select_all": "Selecionar tudo",
-    "open_design_passport_entry_label": "ENTRADA",
     "open_design_yir_slide_position": "Slide %1$d de %2$d",
     "logbook_map_data_error": "Não foi possível carregar seu mapa. Tente novamente mais tarde.",
     "open_items_product_auth_consent_required": "Aceite os termos e confirme sua idade para criar uma conta. Você também pode continuar anonimamente.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "Não foi possível carregar a lista de países. Tente novamente.",
     "ux_robustness_city_list_load_failed": "Não foi possível carregar a lista de cidades. Tente novamente.",
     "ux_robustness_add_trips_failed": "Não foi possível adicionar estas viagens. Tente novamente.",
-    "ux_robustness_trash_load_failed": "Não foi possível carregar sua Lixeira. Tente novamente."
+    "ux_robustness_trash_load_failed": "Não foi possível carregar sua Lixeira. Tente novamente.",
+    "expeditions_ledger_expense_deleted": "Despesa excluída",
+    "export_format_csv_description": "Planilha com datas, locais e notas das viagens",
+    "export_format_expense_suite_csv_description": "CSV compatível com Concur/Expensify para importar despesas corporativas",
+    "export_format_gpx_description": "Rota GPS para apps de mapas (Garmin, Google Maps)",
+    "export_format_html_description": "Relatório formatado: abra em um navegador ou imprima em PDF",
+    "export_format_ics_description": "Arquivo de calendário para Google, Apple ou Outlook Calendar",
+    "export_format_kml_description": "Formato do Google Earth com locais e rotas",
+    "ledger_total_rates_as_of": "Taxas em %1$s",
+    "open_design_achievements_loading": "Carregando conquistas",
+    "open_design_add_bulk_submit_blocked_empty": "Selecione pelo menos um país para adicionar.",
+    "open_design_add_bulk_submit_blocked_quota": "Você atingiu seu limite. Faça upgrade para adicionar mais países.",
+    "open_design_airports_error_description": "Sua coleção de aeroportos está indisponível no momento. Tente novamente mais tarde.",
+    "open_design_airports_error_title": "Não foi possível carregar seus aeroportos",
+    "open_design_album_photo_dated_cd": "Foto da viagem de %1$s",
+    "open_design_duplicate_keep_badge": "Manter",
+    "open_design_insights_loading": "Carregando sua jornada",
+    "open_design_legal_link_open_failed": "Não foi possível abrir esta página. Verifique sua conexão e tente novamente.",
+    "open_design_license_copy_text": "Copiar texto da licença",
+    "open_design_license_hide_text": "Ocultar texto da licença",
+    "open_design_license_show_text": "Mostrar texto da licença",
+    "open_design_notification_category_general": "Notificação",
+    "open_design_notification_category_sync": "Sincronização",
+    "open_design_notification_category_trip_countdown": "Contagem regressiva da viagem",
+    "open_design_notification_day_today": "Hoje",
+    "open_design_notification_day_yesterday": "Ontem",
+    "open_design_passport_previous_page": "Página anterior",
+    "open_design_photo_reset_zoom": "Redefinir zoom",
+    "open_design_photo_zoom_in": "Aumentar zoom",
+    "open_design_text_size_preview_sample": "A rápida raposa marrom pula sobre o cão preguiçoso.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "Viagem favorita",
+    "open_design_trip_not_favorite_cd": "Viagem não favorita",
+    "open_items_action_button_add_cd": "Adicionar",
+    "open_items_date_picker_select": "Selecionar",
+    "open_items_date_picker_select_date": "Selecionar data",
+    "open_items_date_picker_select_date_time": "Selecionar data e hora",
+    "open_items_net_forecast_failed": "Não foi possível carregar a previsão. Tente novamente.",
+    "open_items_net_language_detection_failed": "Não foi possível detectar o idioma. Tente novamente.",
+    "open_items_net_translation_failed": "Não foi possível traduzir este texto. Tente novamente.",
+    "open_items_net_weather_failed": "Não foi possível carregar o clima. Tente novamente.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "O Travel Tracker não pôde ser iniciado. Feche o app e abra-o novamente.",
+    "premium_benefit_export_gpx_kml": "✓ Exporte viagens para GPX/KML",
+    "premium_benefit_share_trips": "✓ Compartilhe viagens com amigos",
+    "premium_benefit_trip_archive": "✓ Arquivo e restauração de viagens",
+    "premium_benefit_unlimited_trips": "✓ Viagens ilimitadas (grátis: 10 viagens)",
+    "vault_category_boarding_pass": "Cartão de embarque",
+    "vault_category_reservation": "Reserva",
+    "vault_error_add_retry": "Não foi possível adicionar '%1$s' - tente novamente",
+    "vault_error_add_unreadable": "Não foi possível adicionar '%1$s' - o arquivo não pôde ser lido",
+    "vault_error_decrypt_failed": "Falha ao descriptografar o documento",
+    "vault_error_read_failed": "Falha ao ler o documento",
+    "vault_error_share_failed": "Falha ao compartilhar o documento",
+    "vault_snackbar_boarding_pass_saved": "Salvo como cartão de embarque - vamos exibi-lo no dia da partida",
+    "vault_snackbar_file_too_large": "Não é possível adicionar '%1$s': o tamanho do arquivo excede o limite de %2$d MB",
+    "vault_snackbar_low_storage": "Não há espaço de armazenamento suficiente neste dispositivo. Libere espaço e tente novamente.",
+    "vault_snackbar_moved_to_trash": "'%1$s' movido para a lixeira"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "Você salvou o máximo de 1 modelo de checklist no plano gratuito. Assine o Premium para modelos ilimitados.",
       "other": "Você salvou o máximo de %1$d modelos de checklist no plano gratuito. Assine o Premium para modelos ilimitados."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d país",
+      "other": "%1$d países"
+    },
+    "open_design_city_days": {
+      "one": "%1$d dia",
+      "other": "%1$d dias"
+    },
+    "open_design_city_total_days": {
+      "one": "%1$d dia no total",
+      "other": "%1$d dias no total"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d visita",
+      "other": "%1$d visitas"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d visita registrada",
+      "other": "%1$s · %2$d visitas registradas"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d parada",
+      "other": "%1$d paradas"
     }
   }
 }

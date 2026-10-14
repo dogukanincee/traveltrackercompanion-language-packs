@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ko",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "취소",
     "common_save": "저장",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "비밀번호를 잊으면 복구할 수 없습니다.",
     "open_design_photo_loading": "여행 사진을 찾는 중입니다…",
     "open_design_photo_select_all": "전체 선택",
-    "open_design_passport_entry_label": "입국",
     "open_design_yir_slide_position": "슬라이드 %1$d / %2$d",
     "logbook_map_data_error": "지도를 불러올 수 없습니다. 잠시 후 다시 시도해 주세요.",
     "open_items_product_auth_consent_required": "계정을 만들려면 약관에 동의하고 나이를 확인해 주세요. 익명으로 계속할 수도 있습니다.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "국가 목록을 불러올 수 없습니다. 다시 시도해 주세요.",
     "ux_robustness_city_list_load_failed": "도시 목록을 불러올 수 없습니다. 다시 시도해 주세요.",
     "ux_robustness_add_trips_failed": "이 여행들을 추가할 수 없습니다. 다시 시도해 주세요.",
-    "ux_robustness_trash_load_failed": "휴지통을 불러올 수 없습니다. 다시 시도해 주세요."
+    "ux_robustness_trash_load_failed": "휴지통을 불러올 수 없습니다. 다시 시도해 주세요.",
+    "expeditions_ledger_expense_deleted": "지출이 삭제되었습니다",
+    "export_format_csv_description": "여행 날짜, 위치, 메모가 포함된 스프레드시트",
+    "export_format_expense_suite_csv_description": "비즈니스 지출 가져오기용 Concur/Expensify 호환 CSV",
+    "export_format_gpx_description": "지도 앱용 GPS 경로(Garmin, Google Maps)",
+    "export_format_html_description": "서식이 지정된 보고서 - 브라우저에서 열거나 PDF로 인쇄",
+    "export_format_ics_description": "Google, Apple 또는 Outlook 캘린더용 캘린더 파일",
+    "export_format_kml_description": "위치와 경로가 포함된 Google Earth 형식",
+    "ledger_total_rates_as_of": "%1$s 기준 환율",
+    "open_design_achievements_loading": "업적을 불러오는 중",
+    "open_design_add_bulk_submit_blocked_empty": "추가할 국가를 하나 이상 선택하세요.",
+    "open_design_add_bulk_submit_blocked_quota": "한도에 도달했습니다. 업그레이드하면 국가를 더 추가할 수 있습니다.",
+    "open_design_airports_error_description": "지금은 공항 컬렉션을 사용할 수 없습니다. 나중에 다시 시도하세요.",
+    "open_design_airports_error_title": "공항 정보를 불러올 수 없습니다",
+    "open_design_album_photo_dated_cd": "%1$s 여행 사진",
+    "open_design_duplicate_keep_badge": "유지",
+    "open_design_insights_loading": "여정을 불러오는 중",
+    "open_design_legal_link_open_failed": "이 페이지를 열 수 없습니다. 연결 상태를 확인하고 다시 시도하세요.",
+    "open_design_license_copy_text": "라이선스 텍스트 복사",
+    "open_design_license_hide_text": "라이선스 텍스트 숨기기",
+    "open_design_license_show_text": "라이선스 텍스트 표시",
+    "open_design_notification_category_general": "알림",
+    "open_design_notification_category_sync": "동기화",
+    "open_design_notification_category_trip_countdown": "여행 카운트다운",
+    "open_design_notification_day_today": "오늘",
+    "open_design_notification_day_yesterday": "어제",
+    "open_design_passport_previous_page": "이전 페이지",
+    "open_design_photo_reset_zoom": "확대/축소 초기화",
+    "open_design_photo_zoom_in": "확대",
+    "open_design_text_size_preview_sample": "빠른 갈색 여우가 게으른 개를 뛰어넘는다.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "즐겨찾는 여행",
+    "open_design_trip_not_favorite_cd": "즐겨찾지 않은 여행",
+    "open_items_action_button_add_cd": "추가",
+    "open_items_date_picker_select": "선택",
+    "open_items_date_picker_select_date": "날짜 선택",
+    "open_items_date_picker_select_date_time": "날짜 및 시간 선택",
+    "open_items_net_forecast_failed": "예보를 불러올 수 없습니다. 다시 시도하세요.",
+    "open_items_net_language_detection_failed": "언어를 감지할 수 없습니다. 다시 시도하세요.",
+    "open_items_net_translation_failed": "이 텍스트를 번역할 수 없습니다. 다시 시도하세요.",
+    "open_items_net_weather_failed": "날씨를 불러올 수 없습니다. 다시 시도하세요.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker을(를) 시작할 수 없습니다. 앱을 종료한 후 다시 여세요.",
+    "premium_benefit_export_gpx_kml": "✓ 여행을 GPX/KML로 내보내기",
+    "premium_benefit_share_trips": "✓ 친구와 여행 공유하기",
+    "premium_benefit_trip_archive": "✓ 여행 보관 및 복원",
+    "premium_benefit_unlimited_trips": "✓ 무제한 여행 (무료: 여행 10개)",
+    "vault_category_boarding_pass": "탑승권",
+    "vault_category_reservation": "예약",
+    "vault_error_add_retry": "'%1$s'을(를) 추가할 수 없습니다. 다시 시도하세요",
+    "vault_error_add_unreadable": "'%1$s'을(를) 추가할 수 없습니다. 파일을 읽을 수 없습니다",
+    "vault_error_decrypt_failed": "문서 복호화에 실패했습니다",
+    "vault_error_read_failed": "문서를 읽을 수 없습니다",
+    "vault_error_share_failed": "문서 공유에 실패했습니다",
+    "vault_snackbar_boarding_pass_saved": "탑승권으로 저장되었습니다. 출발일에 표시해 드릴게요",
+    "vault_snackbar_file_too_large": "'%1$s'을(를) 추가할 수 없습니다. 파일 크기가 %2$d MB 한도를 초과합니다",
+    "vault_snackbar_low_storage": "이 기기의 저장 공간이 부족합니다. 공간을 확보한 후 다시 시도하세요.",
+    "vault_snackbar_moved_to_trash": "'%1$s'을(를) 휴지통으로 이동했습니다"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "무료 요금제에서는 체크리스트 템플릿을 최대 1개까지 저장할 수 있습니다. Premium으로 업그레이드하면 무제한으로 저장할 수 있습니다.",
       "other": "무료 요금제에서는 체크리스트 템플릿을 최대 %1$d개까지 저장할 수 있습니다. Premium으로 업그레이드하면 무제한으로 저장할 수 있습니다."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d개 국가",
+      "other": "%1$d개 국가"
+    },
+    "open_design_city_days": {
+      "one": "%1$d일",
+      "other": "%1$d일"
+    },
+    "open_design_city_total_days": {
+      "one": "총 %1$d일",
+      "other": "총 %1$d일"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d회 방문",
+      "other": "%1$d회 방문"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d회 방문 기록됨",
+      "other": "%1$s · %2$d회 방문 기록됨"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d곳",
+      "other": "%1$d곳"
     }
   }
 }

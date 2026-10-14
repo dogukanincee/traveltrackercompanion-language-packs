@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "vi",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "Hủy bỏ",
     "common_save": "Lưu",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "Mật khẩu sẽ không thể khôi phục nếu bạn quên.",
     "open_design_photo_loading": "Đang tìm ảnh từ chuyến đi của bạn…",
     "open_design_photo_select_all": "Chọn tất cả",
-    "open_design_passport_entry_label": "NHẬP CẢNH",
     "open_design_yir_slide_position": "Trang %1$d / %2$d",
     "logbook_map_data_error": "Không thể tải bản đồ. Vui lòng thử lại sau.",
     "open_items_product_auth_consent_required": "Chấp nhận điều khoản và xác nhận tuổi để tạo tài khoản. Bạn cũng có thể tiếp tục ẩn danh.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "Không thể tải danh sách quốc gia. Vui lòng thử lại.",
     "ux_robustness_city_list_load_failed": "Không thể tải danh sách thành phố. Vui lòng thử lại.",
     "ux_robustness_add_trips_failed": "Không thể thêm các chuyến đi này. Vui lòng thử lại.",
-    "ux_robustness_trash_load_failed": "Không thể tải Thùng rác của bạn. Vui lòng thử lại."
+    "ux_robustness_trash_load_failed": "Không thể tải Thùng rác của bạn. Vui lòng thử lại.",
+    "expeditions_ledger_expense_deleted": "Đã xóa khoản chi",
+    "export_format_csv_description": "Bảng tính gồm ngày đi, địa điểm và ghi chú của chuyến đi",
+    "export_format_expense_suite_csv_description": "CSV tương thích Concur/Expensify để nhập chi phí công tác",
+    "export_format_gpx_description": "Lộ trình GPS cho ứng dụng bản đồ (Garmin, Google Maps)",
+    "export_format_html_description": "Báo cáo đã định dạng - mở trong trình duyệt hoặc in ra PDF",
+    "export_format_ics_description": "Tệp lịch cho Google, Apple hoặc Outlook Calendar",
+    "export_format_kml_description": "Định dạng Google Earth với địa điểm và lộ trình",
+    "ledger_total_rates_as_of": "Tỷ giá tính đến %1$s",
+    "open_design_achievements_loading": "Đang tải thành tích",
+    "open_design_add_bulk_submit_blocked_empty": "Chọn ít nhất một quốc gia để thêm.",
+    "open_design_add_bulk_submit_blocked_quota": "Bạn đã đạt giới hạn. Nâng cấp để thêm nhiều quốc gia hơn.",
+    "open_design_airports_error_description": "Bộ sưu tập sân bay của bạn hiện không khả dụng. Vui lòng thử lại sau.",
+    "open_design_airports_error_title": "Không thể tải danh sách sân bay của bạn",
+    "open_design_album_photo_dated_cd": "Ảnh chuyến đi từ %1$s",
+    "open_design_duplicate_keep_badge": "Giữ",
+    "open_design_insights_loading": "Đang tải hành trình của bạn",
+    "open_design_legal_link_open_failed": "Không thể mở trang này. Hãy kiểm tra kết nối và thử lại.",
+    "open_design_license_copy_text": "Sao chép nội dung giấy phép",
+    "open_design_license_hide_text": "Ẩn nội dung giấy phép",
+    "open_design_license_show_text": "Hiện nội dung giấy phép",
+    "open_design_notification_category_general": "Thông báo",
+    "open_design_notification_category_sync": "Đồng bộ",
+    "open_design_notification_category_trip_countdown": "Đếm ngược chuyến đi",
+    "open_design_notification_day_today": "Hôm nay",
+    "open_design_notification_day_yesterday": "Hôm qua",
+    "open_design_passport_previous_page": "Trang trước",
+    "open_design_photo_reset_zoom": "Đặt lại thu phóng",
+    "open_design_photo_zoom_in": "Phóng to",
+    "open_design_text_size_preview_sample": "Con cáo nâu nhanh nhẹn nhảy qua con chó lười.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "Chuyến đi yêu thích",
+    "open_design_trip_not_favorite_cd": "Chuyến đi chưa yêu thích",
+    "open_items_action_button_add_cd": "Thêm",
+    "open_items_date_picker_select": "Chọn",
+    "open_items_date_picker_select_date": "Chọn ngày",
+    "open_items_date_picker_select_date_time": "Chọn ngày và giờ",
+    "open_items_net_forecast_failed": "Không thể tải dự báo. Vui lòng thử lại.",
+    "open_items_net_language_detection_failed": "Không thể nhận diện ngôn ngữ. Vui lòng thử lại.",
+    "open_items_net_translation_failed": "Không thể dịch văn bản này. Vui lòng thử lại.",
+    "open_items_net_weather_failed": "Không thể tải thông tin thời tiết. Vui lòng thử lại.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker không thể khởi động. Vui lòng đóng ứng dụng và mở lại.",
+    "premium_benefit_export_gpx_kml": "✓ Xuất chuyến đi sang GPX/KML",
+    "premium_benefit_share_trips": "✓ Chia sẻ chuyến đi với bạn bè",
+    "premium_benefit_trip_archive": "✓ Lưu trữ và khôi phục chuyến đi",
+    "premium_benefit_unlimited_trips": "✓ Chuyến đi không giới hạn (miễn phí: 10 chuyến)",
+    "vault_category_boarding_pass": "Thẻ lên máy bay",
+    "vault_category_reservation": "Đặt chỗ",
+    "vault_error_add_retry": "Không thể thêm '%1$s' - vui lòng thử lại",
+    "vault_error_add_unreadable": "Không thể thêm '%1$s' - không đọc được tệp",
+    "vault_error_decrypt_failed": "Không thể giải mã tài liệu",
+    "vault_error_read_failed": "Không thể đọc tài liệu",
+    "vault_error_share_failed": "Không thể chia sẻ tài liệu",
+    "vault_snackbar_boarding_pass_saved": "Đã lưu dưới dạng thẻ lên máy bay - chúng tôi sẽ hiển thị vào ngày khởi hành",
+    "vault_snackbar_file_too_large": "Không thể thêm '%1$s': kích thước tệp vượt quá giới hạn %2$d MB",
+    "vault_snackbar_low_storage": "Không đủ dung lượng lưu trữ trên thiết bị này. Hãy giải phóng bớt dung lượng và thử lại.",
+    "vault_snackbar_moved_to_trash": "Đã chuyển '%1$s' vào Thùng rác"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "Gói miễn phí chỉ cho phép lưu tối đa 1 mẫu danh sách. Nâng cấp lên Premium để có mẫu không giới hạn.",
       "other": "Gói miễn phí chỉ cho phép lưu tối đa %1$d mẫu danh sách. Nâng cấp lên Premium để có mẫu không giới hạn."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d quốc gia",
+      "other": "%1$d quốc gia"
+    },
+    "open_design_city_days": {
+      "one": "%1$d ngày",
+      "other": "%1$d ngày"
+    },
+    "open_design_city_total_days": {
+      "one": "Tổng %1$d ngày",
+      "other": "Tổng %1$d ngày"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d lần ghé thăm",
+      "other": "%1$d lần ghé thăm"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · đã ghi nhận %2$d lần ghé thăm",
+      "other": "%1$s · đã ghi nhận %2$d lần ghé thăm"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d điểm dừng",
+      "other": "%1$d điểm dừng"
     }
   }
 }

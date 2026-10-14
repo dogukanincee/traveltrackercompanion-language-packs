@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ru",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "Отменить",
     "common_save": "Сохранить",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "Если вы забудете пароль, его нельзя будет восстановить.",
     "open_design_photo_loading": "Поиск фотографий из вашей поездки…",
     "open_design_photo_select_all": "Выбрать все",
-    "open_design_passport_entry_label": "ВХОД",
     "open_design_yir_slide_position": "Слайд %1$d из %2$d",
     "logbook_map_data_error": "Не удалось загрузить карту. Попробуйте позже.",
     "open_items_product_auth_consent_required": "Примите условия и подтвердите свой возраст, чтобы создать аккаунт. Также можно продолжить анонимно.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "Не удалось загрузить список стран. Попробуйте ещё раз.",
     "ux_robustness_city_list_load_failed": "Не удалось загрузить список городов. Попробуйте ещё раз.",
     "ux_robustness_add_trips_failed": "Не удалось добавить эти поездки. Попробуйте ещё раз.",
-    "ux_robustness_trash_load_failed": "Не удалось загрузить корзину. Попробуйте ещё раз."
+    "ux_robustness_trash_load_failed": "Не удалось загрузить корзину. Попробуйте ещё раз.",
+    "expeditions_ledger_expense_deleted": "Расход удалён",
+    "export_format_csv_description": "Таблица с датами поездок, местами и заметками",
+    "export_format_expense_suite_csv_description": "CSV, совместимый с Concur/Expensify, для импорта деловых расходов",
+    "export_format_gpx_description": "GPS-маршрут для картографических приложений (Garmin, Google Maps)",
+    "export_format_html_description": "Отформатированный отчёт: откройте в браузере или распечатайте в PDF",
+    "export_format_ics_description": "Файл календаря для Google, Apple или Outlook Calendar",
+    "export_format_kml_description": "Формат Google Earth с местами и маршрутами",
+    "ledger_total_rates_as_of": "Курсы на %1$s",
+    "open_design_achievements_loading": "Загрузка достижений",
+    "open_design_add_bulk_submit_blocked_empty": "Выберите хотя бы одну страну для добавления.",
+    "open_design_add_bulk_submit_blocked_quota": "Вы достигли лимита. Перейдите на более высокий тариф, чтобы добавить больше стран.",
+    "open_design_airports_error_description": "Коллекция аэропортов сейчас недоступна. Повторите попытку позже.",
+    "open_design_airports_error_title": "Не удалось загрузить аэропорты",
+    "open_design_album_photo_dated_cd": "Фото из поездки от %1$s",
+    "open_design_duplicate_keep_badge": "Оставить",
+    "open_design_insights_loading": "Загрузка вашего путешествия",
+    "open_design_legal_link_open_failed": "Не удалось открыть эту страницу. Проверьте подключение и повторите попытку.",
+    "open_design_license_copy_text": "Копировать текст лицензии",
+    "open_design_license_hide_text": "Скрыть текст лицензии",
+    "open_design_license_show_text": "Показать текст лицензии",
+    "open_design_notification_category_general": "Уведомление",
+    "open_design_notification_category_sync": "Синхронизация",
+    "open_design_notification_category_trip_countdown": "Обратный отсчёт до поездки",
+    "open_design_notification_day_today": "Сегодня",
+    "open_design_notification_day_yesterday": "Вчера",
+    "open_design_passport_previous_page": "Предыдущая страница",
+    "open_design_photo_reset_zoom": "Сбросить масштаб",
+    "open_design_photo_zoom_in": "Увеличить",
+    "open_design_text_size_preview_sample": "Быстрая коричневая лиса прыгает через ленивую собаку.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "Избранная поездка",
+    "open_design_trip_not_favorite_cd": "Не избранная поездка",
+    "open_items_action_button_add_cd": "Добавить",
+    "open_items_date_picker_select": "Выбрать",
+    "open_items_date_picker_select_date": "Выберите дату",
+    "open_items_date_picker_select_date_time": "Выберите дату и время",
+    "open_items_net_forecast_failed": "Не удалось загрузить прогноз. Повторите попытку.",
+    "open_items_net_language_detection_failed": "Не удалось определить язык. Повторите попытку.",
+    "open_items_net_translation_failed": "Не удалось перевести этот текст. Повторите попытку.",
+    "open_items_net_weather_failed": "Не удалось загрузить погоду. Повторите попытку.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Не удалось запустить Travel Tracker. Закройте приложение и откройте его снова.",
+    "premium_benefit_export_gpx_kml": "✓ Экспорт поездок в GPX/KML",
+    "premium_benefit_share_trips": "✓ Делитесь поездками с друзьями",
+    "premium_benefit_trip_archive": "✓ Архив поездок и восстановление",
+    "premium_benefit_unlimited_trips": "✓ Неограниченное число поездок (бесплатно: 10 поездок)",
+    "vault_category_boarding_pass": "Посадочный талон",
+    "vault_category_reservation": "Бронирование",
+    "vault_error_add_retry": "Не удалось добавить «%1$s» – повторите попытку",
+    "vault_error_add_unreadable": "Не удалось добавить «%1$s» – не удалось прочитать файл",
+    "vault_error_decrypt_failed": "Не удалось расшифровать документ",
+    "vault_error_read_failed": "Не удалось прочитать документ",
+    "vault_error_share_failed": "Не удалось поделиться документом",
+    "vault_snackbar_boarding_pass_saved": "Сохранено как посадочный талон – мы покажем его в день вылета",
+    "vault_snackbar_file_too_large": "Нельзя добавить «%1$s»: размер файла превышает лимит %2$d МБ",
+    "vault_snackbar_low_storage": "На этом устройстве недостаточно места. Освободите место и повторите попытку.",
+    "vault_snackbar_moved_to_trash": "«%1$s» перемещён в корзину"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "На бесплатном тарифе можно сохранить не более 1 шаблона списка. Оформите Premium, чтобы создавать шаблоны без ограничений.",
       "other": "На бесплатном тарифе можно сохранить не более %1$d шаблонов списка. Оформите Premium, чтобы создавать шаблоны без ограничений."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d страна",
+      "other": "%1$d стран"
+    },
+    "open_design_city_days": {
+      "one": "%1$d день",
+      "other": "%1$d дней"
+    },
+    "open_design_city_total_days": {
+      "one": "Всего %1$d день",
+      "other": "Всего %1$d дней"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d посещение",
+      "other": "%1$d посещений"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · записано %2$d посещение",
+      "other": "%1$s · записано %2$d посещений"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d остановка",
+      "other": "%1$d остановок"
     }
   }
 }

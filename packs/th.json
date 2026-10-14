@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "th",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "ยกเลิก",
     "common_save": "บันทึก",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "หากลืมรหัสผ่าน จะไม่สามารถกู้คืนได้",
     "open_design_photo_loading": "กำลังค้นหารูปภาพจากการเดินทางของคุณ…",
     "open_design_photo_select_all": "เลือกทั้งหมด",
-    "open_design_passport_entry_label": "ตรวจคนเข้าเมือง",
     "open_design_yir_slide_position": "สไลด์ที่ %1$d จาก %2$d",
     "logbook_map_data_error": "ไม่สามารถโหลดแผนที่ได้ โปรดลองอีกครั้งในภายหลัง",
     "open_items_product_auth_consent_required": "ยอมรับข้อกำหนดและยืนยันอายุของคุณเพื่อสร้างบัญชี คุณยังสามารถดำเนินการต่อแบบไม่ระบุตัวตนได้",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "เราไม่สามารถโหลดรายชื่อประเทศได้ โปรดลองอีกครั้ง",
     "ux_robustness_city_list_load_failed": "เราไม่สามารถโหลดรายชื่อเมืองได้ โปรดลองอีกครั้ง",
     "ux_robustness_add_trips_failed": "เราไม่สามารถเพิ่มการเดินทางเหล่านี้ได้ โปรดลองอีกครั้ง",
-    "ux_robustness_trash_load_failed": "เราไม่สามารถโหลดถังขยะของคุณได้ โปรดลองอีกครั้ง"
+    "ux_robustness_trash_load_failed": "เราไม่สามารถโหลดถังขยะของคุณได้ โปรดลองอีกครั้ง",
+    "expeditions_ledger_expense_deleted": "ลบค่าใช้จ่ายแล้ว",
+    "export_format_csv_description": "สเปรดชีตที่มีวันที่เดินทาง สถานที่ และบันทึก",
+    "export_format_expense_suite_csv_description": "CSV ที่รองรับ Concur/Expensify สำหรับนำเข้าค่าใช้จ่ายทางธุรกิจ",
+    "export_format_gpx_description": "เส้นทาง GPS สำหรับแอปแผนที่ (Garmin, Google Maps)",
+    "export_format_html_description": "รายงานที่จัดรูปแบบแล้ว เปิดในเบราว์เซอร์หรือพิมพ์เป็น PDF",
+    "export_format_ics_description": "ไฟล์ปฏิทินสำหรับ Google, Apple หรือ Outlook Calendar",
+    "export_format_kml_description": "รูปแบบ Google Earth ที่มีสถานที่และเส้นทาง",
+    "ledger_total_rates_as_of": "อัตราแลกเปลี่ยน ณ %1$s",
+    "open_design_achievements_loading": "กำลังโหลดความสำเร็จ",
+    "open_design_add_bulk_submit_blocked_empty": "เลือกอย่างน้อยหนึ่งประเทศเพื่อเพิ่ม",
+    "open_design_add_bulk_submit_blocked_quota": "คุณใช้ถึงขีดจำกัดแล้ว อัปเกรดเพื่อเพิ่มประเทศได้มากขึ้น",
+    "open_design_airports_error_description": "ขณะนี้ไม่สามารถใช้คอลเลกชันสนามบินของคุณได้ โปรดลองอีกครั้งในภายหลัง",
+    "open_design_airports_error_title": "ไม่สามารถโหลดสนามบินของคุณได้",
+    "open_design_album_photo_dated_cd": "รูปภาพการเดินทางจาก %1$s",
+    "open_design_duplicate_keep_badge": "เก็บไว้",
+    "open_design_insights_loading": "กำลังโหลดการเดินทางของคุณ",
+    "open_design_legal_link_open_failed": "เปิดหน้านี้ไม่ได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง",
+    "open_design_license_copy_text": "คัดลอกข้อความใบอนุญาต",
+    "open_design_license_hide_text": "ซ่อนข้อความใบอนุญาต",
+    "open_design_license_show_text": "แสดงข้อความใบอนุญาต",
+    "open_design_notification_category_general": "การแจ้งเตือน",
+    "open_design_notification_category_sync": "ซิงค์",
+    "open_design_notification_category_trip_countdown": "นับถอยหลังการเดินทาง",
+    "open_design_notification_day_today": "วันนี้",
+    "open_design_notification_day_yesterday": "เมื่อวาน",
+    "open_design_passport_previous_page": "หน้าก่อนหน้า",
+    "open_design_photo_reset_zoom": "รีเซ็ตการซูม",
+    "open_design_photo_zoom_in": "ซูมเข้า",
+    "open_design_text_size_preview_sample": "จิ้งจอกสีน้ำตาลที่ว่องไวกระโดดข้ามสุนัขขี้เกียจ",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "การเดินทางที่ชื่นชอบ",
+    "open_design_trip_not_favorite_cd": "การเดินทางที่ไม่ได้ชื่นชอบ",
+    "open_items_action_button_add_cd": "เพิ่ม",
+    "open_items_date_picker_select": "เลือก",
+    "open_items_date_picker_select_date": "เลือกวันที่",
+    "open_items_date_picker_select_date_time": "เลือกวันที่และเวลา",
+    "open_items_net_forecast_failed": "ไม่สามารถโหลดพยากรณ์ได้ โปรดลองอีกครั้ง",
+    "open_items_net_language_detection_failed": "ไม่สามารถตรวจจับภาษาได้ โปรดลองอีกครั้ง",
+    "open_items_net_translation_failed": "ไม่สามารถแปลข้อความนี้ได้ โปรดลองอีกครั้ง",
+    "open_items_net_weather_failed": "ไม่สามารถโหลดข้อมูลสภาพอากาศได้ โปรดลองอีกครั้ง",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker เริ่มทำงานไม่ได้ โปรดปิดแอปแล้วเปิดใหม่อีกครั้ง",
+    "premium_benefit_export_gpx_kml": "✓ ส่งออกการเดินทางเป็น GPX/KML",
+    "premium_benefit_share_trips": "✓ แชร์การเดินทางกับเพื่อน",
+    "premium_benefit_trip_archive": "✓ จัดเก็บและกู้คืนการเดินทาง",
+    "premium_benefit_unlimited_trips": "✓ การเดินทางไม่จำกัด (ฟรี: 10 การเดินทาง)",
+    "vault_category_boarding_pass": "บอร์ดดิ้งพาส",
+    "vault_category_reservation": "การจอง",
+    "vault_error_add_retry": "เพิ่ม '%1$s' ไม่สำเร็จ โปรดลองอีกครั้ง",
+    "vault_error_add_unreadable": "เพิ่ม '%1$s' ไม่สำเร็จ เนื่องจากอ่านไฟล์ไม่ได้",
+    "vault_error_decrypt_failed": "ถอดรหัสเอกสารไม่สำเร็จ",
+    "vault_error_read_failed": "อ่านเอกสารไม่สำเร็จ",
+    "vault_error_share_failed": "แชร์เอกสารไม่สำเร็จ",
+    "vault_snackbar_boarding_pass_saved": "บันทึกเป็นบอร์ดดิ้งพาสแล้ว เราจะแสดงในวันเดินทาง",
+    "vault_snackbar_file_too_large": "เพิ่ม '%1$s' ไม่ได้: ขนาดไฟล์เกินขีดจำกัด %2$d MB",
+    "vault_snackbar_low_storage": "พื้นที่จัดเก็บบนอุปกรณ์นี้ไม่เพียงพอ โปรดเพิ่มพื้นที่ว่างแล้วลองอีกครั้ง",
+    "vault_snackbar_moved_to_trash": "ย้าย '%1$s' ไปยังถังขยะแล้ว"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "แพ็กเกจฟรีบันทึกเทมเพลตเช็กลิสต์ได้สูงสุด 1 รายการ อัปเกรดเป็น Premium เพื่อใช้เทมเพลตได้ไม่จำกัด",
       "other": "แพ็กเกจฟรีบันทึกเทมเพลตเช็กลิสต์ได้สูงสุด %1$d รายการ อัปเกรดเป็น Premium เพื่อใช้เทมเพลตได้ไม่จำกัด"
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d ประเทศ",
+      "other": "%1$d ประเทศ"
+    },
+    "open_design_city_days": {
+      "one": "%1$d วัน",
+      "other": "%1$d วัน"
+    },
+    "open_design_city_total_days": {
+      "one": "รวม %1$d วัน",
+      "other": "รวม %1$d วัน"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d ครั้ง",
+      "other": "%1$d ครั้ง"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · บันทึก %2$d ครั้ง",
+      "other": "%1$s · บันทึก %2$d ครั้ง"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d จุดแวะ",
+      "other": "%1$d จุดแวะ"
     }
   }
 }

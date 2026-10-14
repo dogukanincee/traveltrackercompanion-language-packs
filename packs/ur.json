@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ur",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "منسوخ کریں",
     "common_save": "محفوظ کریں",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "اگر آپ پاس ورڈ بھول گئے تو اسے بحال نہیں کیا جا سکے گا۔",
     "open_design_photo_loading": "آپ کے سفر کی تصاویر تلاش کی جا رہی ہیں…",
     "open_design_photo_select_all": "سب منتخب کریں",
-    "open_design_passport_entry_label": "داخلہ",
     "open_design_yir_slide_position": "سلائیڈ %1$d از %2$d",
     "logbook_map_data_error": "آپ کا نقشہ لوڈ نہیں ہو سکا۔ بعد میں دوبارہ کوشش کریں۔",
     "open_items_product_auth_consent_required": "اکاؤنٹ بنانے کے لیے شرائط قبول کریں اور اپنی عمر کی تصدیق کریں۔ آپ گمنام طور پر بھی جاری رکھ سکتے ہیں۔",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "ہم ممالک کی فہرست لوڈ نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں۔",
     "ux_robustness_city_list_load_failed": "ہم شہروں کی فہرست لوڈ نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں۔",
     "ux_robustness_add_trips_failed": "ہم یہ سفر شامل نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں۔",
-    "ux_robustness_trash_load_failed": "ہم آپ کا ٹریش لوڈ نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں۔"
+    "ux_robustness_trash_load_failed": "ہم آپ کا ٹریش لوڈ نہیں کر سکے۔ براہ کرم دوبارہ کوشش کریں۔",
+    "expeditions_ledger_expense_deleted": "خرچ حذف کر دیا گیا",
+    "export_format_csv_description": "سفر کی تاریخوں، مقامات اور نوٹس والی اسپریڈ شیٹ",
+    "export_format_expense_suite_csv_description": "کاروباری اخراجات درآمد کرنے کے لیے Concur/Expensify سے ہم آہنگ CSV",
+    "export_format_gpx_description": "نقشہ ایپس کے لیے GPS روٹ (Garmin، Google Maps)",
+    "export_format_html_description": "فارمیٹ شدہ رپورٹ - براؤزر میں کھولیں یا PDF کے طور پر پرنٹ کریں",
+    "export_format_ics_description": "Google، Apple یا Outlook Calendar کے لیے کیلنڈر فائل",
+    "export_format_kml_description": "مقامات اور روٹس والا Google Earth فارمیٹ",
+    "ledger_total_rates_as_of": "%1$s تک کی شرحیں",
+    "open_design_achievements_loading": "کامیابیاں لوڈ ہو رہی ہیں",
+    "open_design_add_bulk_submit_blocked_empty": "شامل کرنے کے لیے کم از کم ایک ملک منتخب کریں۔",
+    "open_design_add_bulk_submit_blocked_quota": "آپ اپنی حد تک پہنچ چکے ہیں۔ مزید ممالک شامل کرنے کے لیے اپ گریڈ کریں۔",
+    "open_design_airports_error_description": "آپ کا ہوائی اڈوں کا مجموعہ اس وقت دستیاب نہیں ہے۔ بعد میں دوبارہ کوشش کریں۔",
+    "open_design_airports_error_title": "آپ کے ہوائی اڈے لوڈ نہیں ہو سکے",
+    "open_design_album_photo_dated_cd": "%1$s کی سفر کی تصویر",
+    "open_design_duplicate_keep_badge": "رکھیں",
+    "open_design_insights_loading": "آپ کا سفر لوڈ ہو رہا ہے",
+    "open_design_legal_link_open_failed": "ہم یہ صفحہ نہیں کھول سکے۔ اپنا کنکشن چیک کریں اور دوبارہ کوشش کریں۔",
+    "open_design_license_copy_text": "لائسنس کا متن کاپی کریں",
+    "open_design_license_hide_text": "لائسنس کا متن چھپائیں",
+    "open_design_license_show_text": "لائسنس کا متن دکھائیں",
+    "open_design_notification_category_general": "اطلاع",
+    "open_design_notification_category_sync": "ہم آہنگی",
+    "open_design_notification_category_trip_countdown": "سفر کا الٹی گنتی",
+    "open_design_notification_day_today": "آج",
+    "open_design_notification_day_yesterday": "کل",
+    "open_design_passport_previous_page": "پچھلا صفحہ",
+    "open_design_photo_reset_zoom": "زوم ری سیٹ کریں",
+    "open_design_photo_zoom_in": "زوم اِن کریں",
+    "open_design_text_size_preview_sample": "تیز بھوری لومڑی سست کتے کے اوپر سے چھلانگ لگاتی ہے۔",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "پسندیدہ سفر",
+    "open_design_trip_not_favorite_cd": "غیر پسندیدہ سفر",
+    "open_items_action_button_add_cd": "شامل کریں",
+    "open_items_date_picker_select": "منتخب کریں",
+    "open_items_date_picker_select_date": "تاریخ منتخب کریں",
+    "open_items_date_picker_select_date_time": "تاریخ اور وقت منتخب کریں",
+    "open_items_net_forecast_failed": "پیشن گوئی لوڈ نہیں ہو سکی۔ براہ کرم دوبارہ کوشش کریں۔",
+    "open_items_net_language_detection_failed": "زبان کا پتا نہیں چل سکا۔ براہ کرم دوبارہ کوشش کریں۔",
+    "open_items_net_translation_failed": "یہ متن ترجمہ نہیں ہو سکا۔ براہ کرم دوبارہ کوشش کریں۔",
+    "open_items_net_weather_failed": "موسم لوڈ نہیں ہو سکا۔ براہ کرم دوبارہ کوشش کریں۔",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker شروع نہیں ہو سکا۔ براہ کرم ایپ بند کر کے دوبارہ کھولیں۔",
+    "premium_benefit_export_gpx_kml": "✓ سفروں کو GPX/KML میں برآمد کریں",
+    "premium_benefit_share_trips": "✓ سفر دوستوں کے ساتھ شیئر کریں",
+    "premium_benefit_trip_archive": "✓ سفر کا آرکائیو اور بحالی",
+    "premium_benefit_unlimited_trips": "✓ لامحدود سفر (مفت: 10 سفر)",
+    "vault_category_boarding_pass": "بورڈنگ پاس",
+    "vault_category_reservation": "ریزرویشن",
+    "vault_error_add_retry": "'%1$s' شامل نہیں ہو سکا - براہ کرم دوبارہ کوشش کریں",
+    "vault_error_add_unreadable": "'%1$s' شامل نہیں ہو سکا - فائل پڑھی نہیں جا سکی",
+    "vault_error_decrypt_failed": "دستاویز کی ڈکرپشن ناکام ہو گئی",
+    "vault_error_read_failed": "دستاویز پڑھنے میں ناکام",
+    "vault_error_share_failed": "دستاویز شیئر کرنے میں ناکام",
+    "vault_snackbar_boarding_pass_saved": "بورڈنگ پاس کے طور پر محفوظ کیا گیا - روانگی کے دن ہم اسے ظاہر کریں گے",
+    "vault_snackbar_file_too_large": "'%1$s' شامل نہیں کیا جا سکتا: فائل کا سائز %2$d MB کی حد سے زیادہ ہے",
+    "vault_snackbar_low_storage": "اس آلے پر کافی اسٹوریج جگہ نہیں ہے۔ کچھ جگہ خالی کریں اور دوبارہ کوشش کریں۔",
+    "vault_snackbar_moved_to_trash": "'%1$s' ردی میں منتقل کر دیا گیا"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "مفت پلان پر آپ زیادہ سے زیادہ 1 چیک لسٹ ٹیمپلیٹ محفوظ کر سکتے ہیں۔ لامحدود ٹیمپلیٹس کے لیے Premium میں اپ گریڈ کریں۔",
       "other": "مفت پلان پر آپ زیادہ سے زیادہ %1$d چیک لسٹ ٹیمپلیٹس محفوظ کر سکتے ہیں۔ لامحدود ٹیمپلیٹس کے لیے Premium میں اپ گریڈ کریں۔"
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d ملک",
+      "other": "%1$d ممالک"
+    },
+    "open_design_city_days": {
+      "one": "%1$d دن",
+      "other": "%1$d دن"
+    },
+    "open_design_city_total_days": {
+      "one": "کل %1$d دن",
+      "other": "کل %1$d دن"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d دورہ",
+      "other": "%1$d دورے"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d دورہ ریکارڈ ہوا",
+      "other": "%1$s · %2$d دورے ریکارڈ ہوئے"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d پڑاؤ",
+      "other": "%1$d پڑاؤ"
     }
   }
 }

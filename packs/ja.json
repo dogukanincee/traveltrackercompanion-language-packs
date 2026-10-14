@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ja",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "キャンセル",
     "common_save": "保存",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "パスワードを忘れた場合、復元することはできません。",
     "open_design_photo_loading": "旅行の写真を検索しています…",
     "open_design_photo_select_all": "すべて選択",
-    "open_design_passport_entry_label": "入国",
     "open_design_yir_slide_position": "スライド %1$d / %2$d",
     "logbook_map_data_error": "地図を読み込めませんでした。しばらくしてから再度お試しください。",
     "open_items_product_auth_consent_required": "アカウントを作成するには、利用規約に同意し、年齢を確認してください。匿名で続行することもできます。",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "国のリストを読み込めませんでした。もう一度お試しください。",
     "ux_robustness_city_list_load_failed": "都市のリストを読み込めませんでした。もう一度お試しください。",
     "ux_robustness_add_trips_failed": "これらの旅行を追加できませんでした。もう一度お試しください。",
-    "ux_robustness_trash_load_failed": "ゴミ箱を読み込めませんでした。もう一度お試しください。"
+    "ux_robustness_trash_load_failed": "ゴミ箱を読み込めませんでした。もう一度お試しください。",
+    "expeditions_ledger_expense_deleted": "支出を削除しました",
+    "export_format_csv_description": "旅行の日付、場所、メモを含むスプレッドシート",
+    "export_format_expense_suite_csv_description": "ビジネス経費のインポート用、Concur/Expensify互換のCSV",
+    "export_format_gpx_description": "地図アプリ用のGPSルート（Garmin、Google Maps）",
+    "export_format_html_description": "整形されたレポート。ブラウザで開くか、PDF に印刷できます",
+    "export_format_ics_description": "Google、Apple、Outlook カレンダー用のカレンダーファイル",
+    "export_format_kml_description": "場所とルートを含む Google Earth 形式",
+    "ledger_total_rates_as_of": "%1$s 時点のレート",
+    "open_design_achievements_loading": "実績を読み込んでいます",
+    "open_design_add_bulk_submit_blocked_empty": "追加する国を少なくとも1つ選択してください。",
+    "open_design_add_bulk_submit_blocked_quota": "上限に達しました。アップグレードすると、さらに国を追加できます。",
+    "open_design_airports_error_description": "空港コレクションは現在利用できません。しばらくしてから再度お試しください。",
+    "open_design_airports_error_title": "空港を読み込めませんでした",
+    "open_design_album_photo_dated_cd": "%1$s の旅行写真",
+    "open_design_duplicate_keep_badge": "保持",
+    "open_design_insights_loading": "あなたの旅路を読み込んでいます",
+    "open_design_legal_link_open_failed": "このページを開けませんでした。接続を確認して、もう一度お試しください。",
+    "open_design_license_copy_text": "ライセンス文をコピー",
+    "open_design_license_hide_text": "ライセンス文を非表示",
+    "open_design_license_show_text": "ライセンス文を表示",
+    "open_design_notification_category_general": "通知",
+    "open_design_notification_category_sync": "同期",
+    "open_design_notification_category_trip_countdown": "旅行のカウントダウン",
+    "open_design_notification_day_today": "今日",
+    "open_design_notification_day_yesterday": "昨日",
+    "open_design_passport_previous_page": "前のページ",
+    "open_design_photo_reset_zoom": "ズームをリセット",
+    "open_design_photo_zoom_in": "拡大",
+    "open_design_text_size_preview_sample": "すばしっこい茶色の狐が、怠け者の犬を飛び越えます。",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "お気に入りの旅行",
+    "open_design_trip_not_favorite_cd": "お気に入りではない旅行",
+    "open_items_action_button_add_cd": "追加",
+    "open_items_date_picker_select": "選択",
+    "open_items_date_picker_select_date": "日付を選択",
+    "open_items_date_picker_select_date_time": "日付と時刻を選択",
+    "open_items_net_forecast_failed": "予報を読み込めませんでした。もう一度お試しください。",
+    "open_items_net_language_detection_failed": "言語を検出できませんでした。もう一度お試しください。",
+    "open_items_net_translation_failed": "このテキストを翻訳できませんでした。もう一度お試しください。",
+    "open_items_net_weather_failed": "天気を読み込めませんでした。もう一度お試しください。",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker を起動できませんでした。アプリを閉じて、もう一度開いてください。",
+    "premium_benefit_export_gpx_kml": "✓ 旅行を GPX/KML にエクスポート",
+    "premium_benefit_share_trips": "✓ 旅行を友達と共有",
+    "premium_benefit_trip_archive": "✓ 旅行のアーカイブと復元",
+    "premium_benefit_unlimited_trips": "✓ 無制限の旅行（無料版: 10件まで）",
+    "vault_category_boarding_pass": "搭乗券",
+    "vault_category_reservation": "予約",
+    "vault_error_add_retry": "'%1$s' を追加できませんでした。もう一度お試しください",
+    "vault_error_add_unreadable": "'%1$s' を追加できませんでした。ファイルを読み取れませんでした",
+    "vault_error_decrypt_failed": "ドキュメントの復号に失敗しました",
+    "vault_error_read_failed": "ドキュメントの読み取りに失敗しました",
+    "vault_error_share_failed": "ドキュメントの共有に失敗しました",
+    "vault_snackbar_boarding_pass_saved": "搭乗券として保存しました。出発日に表示します",
+    "vault_snackbar_file_too_large": "'%1$s' を追加できません: ファイルサイズが %2$d MB の上限を超えています",
+    "vault_snackbar_low_storage": "このデバイスの空き容量が不足しています。空き容量を増やしてから、もう一度お試しください。",
+    "vault_snackbar_moved_to_trash": "'%1$s' をゴミ箱に移動しました"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "無料プランで保存できるチェックリストテンプレートは最大 1 件です。Premium にアップグレードすると無制限に保存できます。",
       "other": "無料プランで保存できるチェックリストテンプレートは最大 %1$d 件です。Premium にアップグレードすると無制限に保存できます。"
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d か国",
+      "other": "%1$d か国"
+    },
+    "open_design_city_days": {
+      "one": "%1$d日",
+      "other": "%1$d日"
+    },
+    "open_design_city_total_days": {
+      "one": "合計 %1$d日",
+      "other": "合計 %1$d日"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d 回訪問",
+      "other": "%1$d 回訪問"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d 回の訪問を記録",
+      "other": "%1$s · %2$d 回の訪問を記録"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d か所",
+      "other": "%1$d か所"
     }
   }
 }

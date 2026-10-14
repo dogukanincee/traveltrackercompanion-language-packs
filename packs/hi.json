@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "hi",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "रद्द करें",
     "common_save": "सेव",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "अगर आप पासवर्ड भूल गए, तो उसे वापस नहीं पाया जा सकेगा।",
     "open_design_photo_loading": "आपकी यात्रा की तस्वीरें खोजी जा रही हैं…",
     "open_design_photo_select_all": "सभी चुनें",
-    "open_design_passport_entry_label": "प्रवेश",
     "open_design_yir_slide_position": "स्लाइड %1$d / %2$d",
     "logbook_map_data_error": "आपका मानचित्र लोड नहीं हो सका। बाद में फिर से कोशिश करें।",
     "open_items_product_auth_consent_required": "खाता बनाने के लिए शर्तें स्वीकार करें और अपनी उम्र की पुष्टि करें। आप गुमनाम रूप से भी जारी रख सकते हैं।",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "हम देशों की सूची लोड नहीं कर सके। कृपया फिर से कोशिश करें।",
     "ux_robustness_city_list_load_failed": "हम शहरों की सूची लोड नहीं कर सके। कृपया फिर से कोशिश करें।",
     "ux_robustness_add_trips_failed": "हम ये यात्राएँ नहीं जोड़ सके। कृपया फिर से कोशिश करें।",
-    "ux_robustness_trash_load_failed": "हम आपका ट्रैश लोड नहीं कर सके। कृपया फिर से कोशिश करें।"
+    "ux_robustness_trash_load_failed": "हम आपका ट्रैश लोड नहीं कर सके। कृपया फिर से कोशिश करें।",
+    "expeditions_ledger_expense_deleted": "खर्च हटाया गया",
+    "export_format_csv_description": "यात्रा की तारीखों, स्थानों और नोट्स वाली स्प्रेडशीट",
+    "export_format_expense_suite_csv_description": "व्यावसायिक खर्च आयात करने के लिए Concur/Expensify-संगत CSV",
+    "export_format_gpx_description": "मैपिंग ऐप्स के लिए GPS मार्ग (Garmin, Google Maps)",
+    "export_format_html_description": "स्वरूपित रिपोर्ट - ब्राउज़र में खोलें या PDF में प्रिंट करें",
+    "export_format_ics_description": "Google, Apple या Outlook कैलेंडर के लिए कैलेंडर फ़ाइल",
+    "export_format_kml_description": "स्थानों और मार्गों वाला Google Earth प्रारूप",
+    "ledger_total_rates_as_of": "%1$s तक की दरें",
+    "open_design_achievements_loading": "उपलब्धियाँ लोड हो रही हैं",
+    "open_design_add_bulk_submit_blocked_empty": "जोड़ने के लिए कम से कम एक देश चुनें।",
+    "open_design_add_bulk_submit_blocked_quota": "आपकी सीमा पूरी हो गई है। और देश जोड़ने के लिए अपग्रेड करें।",
+    "open_design_airports_error_description": "आपका हवाई अड्डों का संग्रह अभी उपलब्ध नहीं है। बाद में फिर से कोशिश करें।",
+    "open_design_airports_error_title": "आपके हवाई अड्डे लोड नहीं हो सके",
+    "open_design_album_photo_dated_cd": "%1$s की यात्रा की तस्वीर",
+    "open_design_duplicate_keep_badge": "रखें",
+    "open_design_insights_loading": "आपकी यात्रा लोड हो रही है",
+    "open_design_legal_link_open_failed": "हम यह पेज नहीं खोल सके। अपना कनेक्शन जाँचें और फिर से कोशिश करें।",
+    "open_design_license_copy_text": "लाइसेंस टेक्स्ट कॉपी करें",
+    "open_design_license_hide_text": "लाइसेंस टेक्स्ट छिपाएँ",
+    "open_design_license_show_text": "लाइसेंस टेक्स्ट दिखाएँ",
+    "open_design_notification_category_general": "सूचना",
+    "open_design_notification_category_sync": "सिंक",
+    "open_design_notification_category_trip_countdown": "यात्रा की उलटी गिनती",
+    "open_design_notification_day_today": "आज",
+    "open_design_notification_day_yesterday": "कल",
+    "open_design_passport_previous_page": "पिछला पेज",
+    "open_design_photo_reset_zoom": "ज़ूम रीसेट करें",
+    "open_design_photo_zoom_in": "ज़ूम इन करें",
+    "open_design_text_size_preview_sample": "तेज़ भूरी लोमड़ी आलसी कुत्ते के ऊपर से कूदती है।",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "पसंदीदा यात्रा",
+    "open_design_trip_not_favorite_cd": "पसंदीदा नहीं यात्रा",
+    "open_items_action_button_add_cd": "जोड़ें",
+    "open_items_date_picker_select": "चुनें",
+    "open_items_date_picker_select_date": "तारीख चुनें",
+    "open_items_date_picker_select_date_time": "तारीख और समय चुनें",
+    "open_items_net_forecast_failed": "पूर्वानुमान लोड नहीं हो सका। कृपया फिर से कोशिश करें।",
+    "open_items_net_language_detection_failed": "भाषा का पता नहीं लगा सका। कृपया फिर से कोशिश करें।",
+    "open_items_net_translation_failed": "इस टेक्स्ट का अनुवाद नहीं हो सका। कृपया फिर से कोशिश करें।",
+    "open_items_net_weather_failed": "मौसम लोड नहीं हो सका। कृपया फिर से कोशिश करें।",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker शुरू नहीं हो सका। कृपया ऐप बंद करके उसे फिर से खोलें।",
+    "premium_benefit_export_gpx_kml": "✓ यात्राओं को GPX/KML में निर्यात करें",
+    "premium_benefit_share_trips": "✓ यात्राएँ दोस्तों के साथ साझा करें",
+    "premium_benefit_trip_archive": "✓ यात्रा आर्काइव और पुनर्स्थापना",
+    "premium_benefit_unlimited_trips": "✓ असीमित यात्राएँ (मुफ़्त: 10 यात्राएँ)",
+    "vault_category_boarding_pass": "बोर्डिंग पास",
+    "vault_category_reservation": "आरक्षण",
+    "vault_error_add_retry": "'%1$s' जोड़ा नहीं जा सका - कृपया फिर से कोशिश करें",
+    "vault_error_add_unreadable": "'%1$s' जोड़ा नहीं जा सका - फ़ाइल पढ़ी नहीं जा सकी",
+    "vault_error_decrypt_failed": "दस्तावेज़ को डिक्रिप्ट करने में विफल",
+    "vault_error_read_failed": "दस्तावेज़ पढ़ने में विफल",
+    "vault_error_share_failed": "दस्तावेज़ साझा करने में विफल",
+    "vault_snackbar_boarding_pass_saved": "बोर्डिंग पास के रूप में सहेजा गया - प्रस्थान के दिन हम इसे दिखाएँगे",
+    "vault_snackbar_file_too_large": "'%1$s' नहीं जोड़ा जा सकता: फ़ाइल का आकार %2$d MB की सीमा से अधिक है",
+    "vault_snackbar_low_storage": "इस डिवाइस पर पर्याप्त स्टोरेज स्पेस नहीं है। कुछ जगह खाली करें और फिर से कोशिश करें।",
+    "vault_snackbar_moved_to_trash": "'%1$s' को ट्रैश में ले जाया गया"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "मुफ़्त प्लान में आप अधिकतम 1 चेकलिस्ट टेम्पलेट सहेज सकते हैं। असीमित टेम्पलेट के लिए Premium में अपग्रेड करें।",
       "other": "मुफ़्त प्लान में आप अधिकतम %1$d चेकलिस्ट टेम्पलेट सहेज सकते हैं। असीमित टेम्पलेट के लिए Premium में अपग्रेड करें।"
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d देश",
+      "other": "%1$d देश"
+    },
+    "open_design_city_days": {
+      "one": "%1$d दिन",
+      "other": "%1$d दिन"
+    },
+    "open_design_city_total_days": {
+      "one": "कुल %1$d दिन",
+      "other": "कुल %1$d दिन"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d विज़िट",
+      "other": "%1$d विज़िट"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d विज़िट दर्ज",
+      "other": "%1$s · %2$d विज़िट दर्ज"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d पड़ाव",
+      "other": "%1$d पड़ाव"
     }
   }
 }

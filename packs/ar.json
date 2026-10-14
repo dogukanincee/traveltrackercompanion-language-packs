@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "ar",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "إلغاء",
     "common_save": "حفظ",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "لا يمكن استعادة كلمة المرور إذا نسيتها.",
     "open_design_photo_loading": "جارٍ البحث عن صور من رحلتك…",
     "open_design_photo_select_all": "تحديد الكل",
-    "open_design_passport_entry_label": "دخول",
     "open_design_yir_slide_position": "الشريحة %1$d من %2$d",
     "logbook_map_data_error": "تعذّر تحميل الخريطة. حاول مرة أخرى لاحقاً.",
     "open_items_product_auth_consent_required": "اقبل الشروط وأكّد عمرك لإنشاء حساب. يمكنك أيضاً المتابعة بشكل مجهول.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "تعذّر تحميل قائمة الدول. يرجى المحاولة مرة أخرى.",
     "ux_robustness_city_list_load_failed": "تعذّر تحميل قائمة المدن. يرجى المحاولة مرة أخرى.",
     "ux_robustness_add_trips_failed": "تعذّر إضافة هذه الرحلات. يرجى المحاولة مرة أخرى.",
-    "ux_robustness_trash_load_failed": "تعذّر تحميل سلة المهملات. يرجى المحاولة مرة أخرى."
+    "ux_robustness_trash_load_failed": "تعذّر تحميل سلة المهملات. يرجى المحاولة مرة أخرى.",
+    "expeditions_ledger_expense_deleted": "تم حذف النفقة",
+    "export_format_csv_description": "جدول بيانات يتضمن تواريخ الرحلات والمواقع والملاحظات",
+    "export_format_expense_suite_csv_description": "ملف CSV متوافق مع Concur وExpensify لاستيراد نفقات العمل",
+    "export_format_gpx_description": "مسار GPS لتطبيقات الخرائط (Garmin وGoogle Maps)",
+    "export_format_html_description": "تقرير منسق - افتحه في المتصفح أو اطبعه بصيغة PDF",
+    "export_format_ics_description": "ملف تقويم لـ Google Calendar أو Apple Calendar أو Outlook Calendar",
+    "export_format_kml_description": "تنسيق Google Earth يتضمن المواقع والمسارات",
+    "ledger_total_rates_as_of": "الأسعار حتى %1$s",
+    "open_design_achievements_loading": "جارٍ تحميل الإنجازات",
+    "open_design_add_bulk_submit_blocked_empty": "اختر دولة واحدة على الأقل للإضافة.",
+    "open_design_add_bulk_submit_blocked_quota": "لقد وصلت إلى حدك. قم بالترقية لإضافة المزيد من الدول.",
+    "open_design_airports_error_description": "مجموعة المطارات غير متاحة حاليًا. حاول مرة أخرى لاحقًا.",
+    "open_design_airports_error_title": "تعذّر تحميل مطاراتك",
+    "open_design_album_photo_dated_cd": "صورة رحلة من %1$s",
+    "open_design_duplicate_keep_badge": "احتفاظ",
+    "open_design_insights_loading": "جارٍ تحميل رحلتك",
+    "open_design_legal_link_open_failed": "تعذّر فتح هذه الصفحة. تحقق من اتصالك وحاول مرة أخرى.",
+    "open_design_license_copy_text": "نسخ نص الترخيص",
+    "open_design_license_hide_text": "إخفاء نص الترخيص",
+    "open_design_license_show_text": "إظهار نص الترخيص",
+    "open_design_notification_category_general": "إشعار",
+    "open_design_notification_category_sync": "المزامنة",
+    "open_design_notification_category_trip_countdown": "العد التنازلي للرحلة",
+    "open_design_notification_day_today": "اليوم",
+    "open_design_notification_day_yesterday": "أمس",
+    "open_design_passport_previous_page": "الصفحة السابقة",
+    "open_design_photo_reset_zoom": "إعادة ضبط التكبير",
+    "open_design_photo_zoom_in": "تكبير",
+    "open_design_text_size_preview_sample": "يقفز الثعلب البني السريع فوق الكلب الكسول.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "رحلة مفضلة",
+    "open_design_trip_not_favorite_cd": "ليست رحلة مفضلة",
+    "open_items_action_button_add_cd": "إضافة",
+    "open_items_date_picker_select": "تحديد",
+    "open_items_date_picker_select_date": "اختيار التاريخ",
+    "open_items_date_picker_select_date_time": "اختيار التاريخ والوقت",
+    "open_items_net_forecast_failed": "تعذّر تحميل التوقعات. يُرجى المحاولة مرة أخرى.",
+    "open_items_net_language_detection_failed": "تعذّر اكتشاف اللغة. يُرجى المحاولة مرة أخرى.",
+    "open_items_net_translation_failed": "تعذّرت ترجمة هذا النص. يُرجى المحاولة مرة أخرى.",
+    "open_items_net_weather_failed": "تعذّر تحميل الطقس. يُرجى المحاولة مرة أخرى.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "تعذّر تشغيل Travel Tracker. يُرجى إغلاق التطبيق وفتحه مرة أخرى.",
+    "premium_benefit_export_gpx_kml": "✓ تصدير الرحلات إلى GPX/KML",
+    "premium_benefit_share_trips": "✓ شارك الرحلات مع الأصدقاء",
+    "premium_benefit_trip_archive": "✓ أرشيف الرحلات والاستعادة",
+    "premium_benefit_unlimited_trips": "✓ رحلات غير محدودة (المجاني: 10 رحلات)",
+    "vault_category_boarding_pass": "بطاقة صعود",
+    "vault_category_reservation": "حجز",
+    "vault_error_add_retry": "تعذّرت إضافة '%1$s' - يُرجى المحاولة مرة أخرى",
+    "vault_error_add_unreadable": "تعذّرت إضافة '%1$s' - تعذّرت قراءة الملف",
+    "vault_error_decrypt_failed": "تعذّر فك تشفير المستند",
+    "vault_error_read_failed": "تعذّرت قراءة المستند",
+    "vault_error_share_failed": "تعذّرت مشاركة المستند",
+    "vault_snackbar_boarding_pass_saved": "تم الحفظ كبطاقة صعود - سنعرضها في يوم المغادرة",
+    "vault_snackbar_file_too_large": "لا يمكن إضافة '%1$s': حجم الملف يتجاوز الحد البالغ %2$d ميغابايت",
+    "vault_snackbar_low_storage": "لا تتوفر مساحة تخزين كافية على هذا الجهاز. حرّر بعض المساحة وحاول مرة أخرى.",
+    "vault_snackbar_moved_to_trash": "تم نقل '%1$s' إلى سلة المهملات"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "لقد حفظت الحد الأقصى وهو قالب قائمة واحد في الخطة المجانية. قم بالترقية إلى Premium للحصول على قوالب غير محدودة.",
       "other": "لقد حفظت الحد الأقصى وهو %1$d من قوالب القوائم في الخطة المجانية. قم بالترقية إلى Premium للحصول على قوالب غير محدودة."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d دولة",
+      "other": "%1$d دولة"
+    },
+    "open_design_city_days": {
+      "one": "%1$d يوم",
+      "other": "%1$d أيام"
+    },
+    "open_design_city_total_days": {
+      "one": "%1$d يوم إجمالي",
+      "other": "%1$d يومًا إجماليًا"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d زيارة",
+      "other": "%1$d زيارة"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · تم تسجيل %2$d زيارة",
+      "other": "%1$s · تم تسجيل %2$d زيارة"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d توقف",
+      "other": "%1$d توقفات"
     }
   }
 }

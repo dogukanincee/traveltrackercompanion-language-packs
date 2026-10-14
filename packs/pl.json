@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "pl",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "Anuluj",
     "common_save": "Zapisz",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "Hasła nie da się odzyskać, jeśli je zapomnisz.",
     "open_design_photo_loading": "Szukanie zdjęć z podróży…",
     "open_design_photo_select_all": "Zaznacz wszystko",
-    "open_design_passport_entry_label": "WPIS",
     "open_design_yir_slide_position": "Slajd %1$d z %2$d",
     "logbook_map_data_error": "Nie udało się wczytać mapy. Spróbuj ponownie później.",
     "open_items_product_auth_consent_required": "Zaakceptuj warunki i potwierdź swój wiek, aby utworzyć konto. Możesz też kontynuować anonimowo.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "Nie udało się wczytać listy krajów. Spróbuj ponownie.",
     "ux_robustness_city_list_load_failed": "Nie udało się wczytać listy miast. Spróbuj ponownie.",
     "ux_robustness_add_trips_failed": "Nie udało się dodać tych podróży. Spróbuj ponownie.",
-    "ux_robustness_trash_load_failed": "Nie udało się wczytać Kosza. Spróbuj ponownie."
+    "ux_robustness_trash_load_failed": "Nie udało się wczytać Kosza. Spróbuj ponownie.",
+    "expeditions_ledger_expense_deleted": "Wydatek usunięty",
+    "export_format_csv_description": "Arkusz kalkulacyjny z datami podróży, lokalizacjami i notatkami",
+    "export_format_expense_suite_csv_description": "Plik CSV zgodny z Concur/Expensify do importu wydatków służbowych",
+    "export_format_gpx_description": "Trasa GPS dla aplikacji map (Garmin, Google Maps)",
+    "export_format_html_description": "Sformatowany raport – otwórz w przeglądarce lub wydrukuj do PDF",
+    "export_format_ics_description": "Plik kalendarza dla Google, Apple lub Outlook Calendar",
+    "export_format_kml_description": "Format Google Earth z lokalizacjami i trasami",
+    "ledger_total_rates_as_of": "Kursy z dnia %1$s",
+    "open_design_achievements_loading": "Wczytywanie osiągnięć",
+    "open_design_add_bulk_submit_blocked_empty": "Wybierz co najmniej jeden kraj do dodania.",
+    "open_design_add_bulk_submit_blocked_quota": "Osiągnięto limit. Ulepsz plan, aby dodać więcej krajów.",
+    "open_design_airports_error_description": "Twoja kolekcja lotnisk jest chwilowo niedostępna. Spróbuj ponownie później.",
+    "open_design_airports_error_title": "Nie udało się wczytać lotnisk",
+    "open_design_album_photo_dated_cd": "Zdjęcie z podróży z %1$s",
+    "open_design_duplicate_keep_badge": "Zachowaj",
+    "open_design_insights_loading": "Wczytywanie Twojej podróży",
+    "open_design_legal_link_open_failed": "Nie udało się otworzyć tej strony. Sprawdź połączenie i spróbuj ponownie.",
+    "open_design_license_copy_text": "Kopiuj tekst licencji",
+    "open_design_license_hide_text": "Ukryj tekst licencji",
+    "open_design_license_show_text": "Pokaż tekst licencji",
+    "open_design_notification_category_general": "Powiadomienie",
+    "open_design_notification_category_sync": "Synchronizacja",
+    "open_design_notification_category_trip_countdown": "Odliczanie do podróży",
+    "open_design_notification_day_today": "Dzisiaj",
+    "open_design_notification_day_yesterday": "Wczoraj",
+    "open_design_passport_previous_page": "Poprzednia strona",
+    "open_design_photo_reset_zoom": "Resetuj powiększenie",
+    "open_design_photo_zoom_in": "Powiększ",
+    "open_design_text_size_preview_sample": "Szybki brązowy lis przeskakuje nad leniwym psem.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "Ulubiona podróż",
+    "open_design_trip_not_favorite_cd": "Nieulubiona podróż",
+    "open_items_action_button_add_cd": "Dodaj",
+    "open_items_date_picker_select": "Wybierz",
+    "open_items_date_picker_select_date": "Wybierz datę",
+    "open_items_date_picker_select_date_time": "Wybierz datę i godzinę",
+    "open_items_net_forecast_failed": "Nie udało się wczytać prognozy. Spróbuj ponownie.",
+    "open_items_net_language_detection_failed": "Nie udało się wykryć języka. Spróbuj ponownie.",
+    "open_items_net_translation_failed": "Nie udało się przetłumaczyć tego tekstu. Spróbuj ponownie.",
+    "open_items_net_weather_failed": "Nie udało się wczytać pogody. Spróbuj ponownie.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Nie udało się uruchomić aplikacji Travel Tracker. Zamknij ją i otwórz ponownie.",
+    "premium_benefit_export_gpx_kml": "✓ Eksportuj podróże do GPX/KML",
+    "premium_benefit_share_trips": "✓ Udostępniaj podróże znajomym",
+    "premium_benefit_trip_archive": "✓ Archiwum podróży i przywracanie",
+    "premium_benefit_unlimited_trips": "✓ Nieograniczona liczba podróży (wersja darmowa: 10 podróży)",
+    "vault_category_boarding_pass": "Karta pokładowa",
+    "vault_category_reservation": "Rezerwacja",
+    "vault_error_add_retry": "Nie udało się dodać '%1$s' – spróbuj ponownie",
+    "vault_error_add_unreadable": "Nie udało się dodać '%1$s' – nie można odczytać pliku",
+    "vault_error_decrypt_failed": "Nie udało się odszyfrować dokumentu",
+    "vault_error_read_failed": "Nie udało się odczytać dokumentu",
+    "vault_error_share_failed": "Nie udało się udostępnić dokumentu",
+    "vault_snackbar_boarding_pass_saved": "Zapisano jako kartę pokładową – pokażemy ją w dniu wylotu",
+    "vault_snackbar_file_too_large": "Nie można dodać '%1$s': rozmiar pliku przekracza limit %2$d MB",
+    "vault_snackbar_low_storage": "Na tym urządzeniu brakuje miejsca. Zwolnij miejsce i spróbuj ponownie.",
+    "vault_snackbar_moved_to_trash": "'%1$s' przeniesiono do Kosza"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "W darmowym planie możesz zapisać maksymalnie 1 szablon listy. Przejdź na Premium, aby korzystać z nieograniczonej liczby szablonów.",
       "other": "W darmowym planie możesz zapisać maksymalnie %1$d szablonów listy. Przejdź na Premium, aby korzystać z nieograniczonej liczby szablonów."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d kraj",
+      "other": "%1$d krajów"
+    },
+    "open_design_city_days": {
+      "one": "%1$d dzień",
+      "other": "%1$d dni"
+    },
+    "open_design_city_total_days": {
+      "one": "%1$d dzień łącznie",
+      "other": "%1$d dni łącznie"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d wizyta",
+      "other": "%1$d wizyt"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · zapisano %2$d wizytę",
+      "other": "%1$s · zapisano %2$d wizyt"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d przystanek",
+      "other": "%1$d przystanków"
     }
   }
 }

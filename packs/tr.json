@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "tr",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "İptal",
     "common_save": "Kaydet",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "Parolanızı unutursanız kurtarılamaz.",
     "open_design_photo_loading": "Seyahatinizin fotoğrafları aranıyor…",
     "open_design_photo_select_all": "Tümünü seç",
-    "open_design_passport_entry_label": "GİRİŞ",
     "open_design_yir_slide_position": "Slayt %1$d / %2$d",
     "logbook_map_data_error": "Haritanız yüklenemedi. Lütfen daha sonra tekrar deneyin.",
     "open_items_product_auth_consent_required": "Hesap oluşturmak için koşulları kabul edin ve yaşınızı onaylayın. Ayrıca anonim olarak devam edebilirsiniz.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "Ülke listesini yükleyemedik. Lütfen tekrar deneyin.",
     "ux_robustness_city_list_load_failed": "Şehir listesini yükleyemedik. Lütfen tekrar deneyin.",
     "ux_robustness_add_trips_failed": "Bu seyahatleri ekleyemedik. Lütfen tekrar deneyin.",
-    "ux_robustness_trash_load_failed": "Çöp kutunuzu yükleyemedik. Lütfen tekrar deneyin."
+    "ux_robustness_trash_load_failed": "Çöp kutunuzu yükleyemedik. Lütfen tekrar deneyin.",
+    "expeditions_ledger_expense_deleted": "Harcama silindi",
+    "export_format_csv_description": "Seyahat tarihleri, konumlar ve notları içeren tablo",
+    "export_format_expense_suite_csv_description": "İş giderlerini içe aktarmak için Concur/Expensify uyumlu CSV",
+    "export_format_gpx_description": "Harita uygulamaları için GPS rotası (Garmin, Google Maps)",
+    "export_format_html_description": "Biçimlendirilmiş rapor - tarayıcıda açın veya PDF olarak yazdırın",
+    "export_format_ics_description": "Google, Apple veya Outlook Takvim için takvim dosyası",
+    "export_format_kml_description": "Konum ve rotaları içeren Google Earth biçimi",
+    "ledger_total_rates_as_of": "%1$s tarihli kurlar",
+    "open_design_achievements_loading": "Başarımlar yükleniyor",
+    "open_design_add_bulk_submit_blocked_empty": "Eklemek için en az bir ülke seçin.",
+    "open_design_add_bulk_submit_blocked_quota": "Limitinize ulaştınız. Daha fazla ülke eklemek için Yükseltin.",
+    "open_design_airports_error_description": "Havalimanı koleksiyonunuz şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.",
+    "open_design_airports_error_title": "Havalimanlarınız yüklenemedi",
+    "open_design_album_photo_dated_cd": "%1$s tarihli seyahat fotoğrafı",
+    "open_design_duplicate_keep_badge": "Tut",
+    "open_design_insights_loading": "Yolculuğunuz yükleniyor",
+    "open_design_legal_link_open_failed": "Bu sayfa açılamadı. Bağlantınızı kontrol edip tekrar deneyin.",
+    "open_design_license_copy_text": "Lisans metnini kopyala",
+    "open_design_license_hide_text": "Lisans metnini gizle",
+    "open_design_license_show_text": "Lisans metnini göster",
+    "open_design_notification_category_general": "Bildirim",
+    "open_design_notification_category_sync": "Senkronizasyon",
+    "open_design_notification_category_trip_countdown": "Seyahat geri sayımı",
+    "open_design_notification_day_today": "Bugün",
+    "open_design_notification_day_yesterday": "Dün",
+    "open_design_passport_previous_page": "Önceki sayfa",
+    "open_design_photo_reset_zoom": "Yakınlaştırmayı sıfırla",
+    "open_design_photo_zoom_in": "Yakınlaştır",
+    "open_design_text_size_preview_sample": "Hızlı kahverengi tilki tembel köpeğin üzerinden atlar.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "Favori seyahat",
+    "open_design_trip_not_favorite_cd": "Favori olmayan seyahat",
+    "open_items_action_button_add_cd": "Ekle",
+    "open_items_date_picker_select": "Seç",
+    "open_items_date_picker_select_date": "Tarih Seç",
+    "open_items_date_picker_select_date_time": "Tarih ve Saat Seç",
+    "open_items_net_forecast_failed": "Tahmin yüklenemedi. Lütfen tekrar deneyin.",
+    "open_items_net_language_detection_failed": "Dil algılanamadı. Lütfen tekrar deneyin.",
+    "open_items_net_translation_failed": "Bu metin çevrilemedi. Lütfen tekrar deneyin.",
+    "open_items_net_weather_failed": "Hava durumu yüklenemedi. Lütfen tekrar deneyin.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker başlatılamadı. Lütfen uygulamayı kapatıp yeniden açın.",
+    "premium_benefit_export_gpx_kml": "✓ Seyahatleri GPX/KML olarak dışa aktarın",
+    "premium_benefit_share_trips": "✓ Seyahatleri arkadaşlarınızla paylaşın",
+    "premium_benefit_trip_archive": "✓ Seyahat arşivi ve geri yükleme",
+    "premium_benefit_unlimited_trips": "✓ Sınırsız seyahat (ücretsiz: 10 seyahat)",
+    "vault_category_boarding_pass": "Biniş Kartı",
+    "vault_category_reservation": "Rezervasyon",
+    "vault_error_add_retry": "'%1$s' eklenemedi - lütfen tekrar deneyin",
+    "vault_error_add_unreadable": "'%1$s' eklenemedi - dosya okunamadı",
+    "vault_error_decrypt_failed": "Belgenin şifresi çözülemedi",
+    "vault_error_read_failed": "Belge okunamadı",
+    "vault_error_share_failed": "Belge paylaşılamadı",
+    "vault_snackbar_boarding_pass_saved": "Biniş Kartı olarak kaydedildi - kalkış gününde göstereceğiz",
+    "vault_snackbar_file_too_large": "'%1$s' eklenemez: dosya boyutu %2$d MB sınırını aşıyor",
+    "vault_snackbar_low_storage": "Bu cihazda yeterli depolama alanı yok. Biraz alan açıp tekrar deneyin.",
+    "vault_snackbar_moved_to_trash": "'%1$s' Çöp Kutusu'na taşındı"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "Ücretsiz planda en fazla 1 kontrol listesi şablonu kaydedebilirsiniz. Sınırsız şablon için Premium'a geçin.",
       "other": "Ücretsiz planda en fazla %1$d kontrol listesi şablonu kaydedebilirsiniz. Sınırsız şablon için Premium'a geçin."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d ülke",
+      "other": "%1$d ülke"
+    },
+    "open_design_city_days": {
+      "one": "%1$d gün",
+      "other": "%1$d gün"
+    },
+    "open_design_city_total_days": {
+      "one": "Toplam %1$d gün",
+      "other": "Toplam %1$d gün"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d ziyaret",
+      "other": "%1$d ziyaret"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d ziyaret kaydedildi",
+      "other": "%1$s · %2$d ziyaret kaydedildi"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d durak",
+      "other": "%1$d durak"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "languageTag": "de",
-  "version": 37,
-  "stringCount": 2744,
-  "pluralCount": 88,
+  "version": 38,
+  "stringCount": 2800,
+  "pluralCount": 94,
   "strings": {
     "common_cancel": "Abbrechen",
     "common_save": "Speichern",
@@ -2630,7 +2630,6 @@
     "open_design_encrypted_backup_password_warning": "Dein Passwort kann nicht wiederhergestellt werden, falls du es vergisst.",
     "open_design_photo_loading": "Fotos von deiner Reise werden gesucht…",
     "open_design_photo_select_all": "Alle auswählen",
-    "open_design_passport_entry_label": "EINTRAG",
     "open_design_yir_slide_position": "Folie %1$d von %2$d",
     "logbook_map_data_error": "Deine Karte konnte nicht geladen werden. Versuche es später erneut.",
     "open_items_product_auth_consent_required": "Akzeptiere die Bedingungen und bestätige dein Alter, um ein Konto zu erstellen. Du kannst auch anonym fortfahren.",
@@ -2748,7 +2747,64 @@
     "ux_robustness_country_list_load_failed": "Die Länderliste konnte nicht geladen werden. Bitte versuche es erneut.",
     "ux_robustness_city_list_load_failed": "Die Städteliste konnte nicht geladen werden. Bitte versuche es erneut.",
     "ux_robustness_add_trips_failed": "Diese Reisen konnten nicht hinzugefügt werden. Bitte versuche es erneut.",
-    "ux_robustness_trash_load_failed": "Dein Papierkorb konnte nicht geladen werden. Bitte versuche es erneut."
+    "ux_robustness_trash_load_failed": "Dein Papierkorb konnte nicht geladen werden. Bitte versuche es erneut.",
+    "expeditions_ledger_expense_deleted": "Ausgabe gelöscht",
+    "export_format_csv_description": "Tabelle mit Reisedaten, Orten und Notizen",
+    "export_format_expense_suite_csv_description": "CSV-Datei kompatibel mit Concur/Expensify für den Import von Geschäftsausgaben",
+    "export_format_gpx_description": "GPS-Route für Karten-Apps (Garmin, Google Maps)",
+    "export_format_html_description": "Formatierter Bericht – im Browser öffnen oder als PDF drucken",
+    "export_format_ics_description": "Kalenderdatei für Google, Apple oder Outlook Kalender",
+    "export_format_kml_description": "Google-Earth-Format mit Orten und Routen",
+    "ledger_total_rates_as_of": "Kurse vom %1$s",
+    "open_design_achievements_loading": "Erfolge werden geladen",
+    "open_design_add_bulk_submit_blocked_empty": "Wähle mindestens ein Land zum Hinzufügen aus.",
+    "open_design_add_bulk_submit_blocked_quota": "Du hast dein Limit erreicht. Upgrade, um weitere Länder hinzuzufügen.",
+    "open_design_airports_error_description": "Deine Flughafensammlung ist gerade nicht verfügbar. Versuche es später erneut.",
+    "open_design_airports_error_title": "Deine Flughäfen konnten nicht geladen werden",
+    "open_design_album_photo_dated_cd": "Reisefoto vom %1$s",
+    "open_design_duplicate_keep_badge": "Behalten",
+    "open_design_insights_loading": "Deine Reise wird geladen",
+    "open_design_legal_link_open_failed": "Diese Seite konnte nicht geöffnet werden. Prüfe deine Verbindung und versuche es erneut.",
+    "open_design_license_copy_text": "Lizenztext kopieren",
+    "open_design_license_hide_text": "Lizenztext ausblenden",
+    "open_design_license_show_text": "Lizenztext anzeigen",
+    "open_design_notification_category_general": "Benachrichtigung",
+    "open_design_notification_category_sync": "Synchronisierung",
+    "open_design_notification_category_trip_countdown": "Countdown zur Reise",
+    "open_design_notification_day_today": "Heute",
+    "open_design_notification_day_yesterday": "Gestern",
+    "open_design_passport_previous_page": "Vorherige Seite",
+    "open_design_photo_reset_zoom": "Zoom zurücksetzen",
+    "open_design_photo_zoom_in": "Vergrößern",
+    "open_design_text_size_preview_sample": "Der schnelle braune Fuchs springt über den faulen Hund.",
+    "open_design_trash_section_count": "%1$s (%2$d)",
+    "open_design_trip_favorite_cd": "Lieblingsreise",
+    "open_design_trip_not_favorite_cd": "Keine Lieblingsreise",
+    "open_items_action_button_add_cd": "Hinzufügen",
+    "open_items_date_picker_select": "Auswählen",
+    "open_items_date_picker_select_date": "Datum auswählen",
+    "open_items_date_picker_select_date_time": "Datum und Uhrzeit auswählen",
+    "open_items_net_forecast_failed": "Die Vorhersage konnte nicht geladen werden. Bitte versuche es erneut.",
+    "open_items_net_language_detection_failed": "Die Sprache konnte nicht erkannt werden. Bitte versuche es erneut.",
+    "open_items_net_translation_failed": "Dieser Text konnte nicht übersetzt werden. Bitte versuche es erneut.",
+    "open_items_net_weather_failed": "Das Wetter konnte nicht geladen werden. Bitte versuche es erneut.",
+    "open_items_share_card_brand": "Travel Tracker Companion",
+    "open_items_startup_failed": "Travel Tracker konnte nicht gestartet werden. Bitte schließe die App und öffne sie erneut.",
+    "premium_benefit_export_gpx_kml": "✓ Reisen als GPX/KML exportieren",
+    "premium_benefit_share_trips": "✓ Reisen mit Freunden teilen",
+    "premium_benefit_trip_archive": "✓ Reisearchiv und Wiederherstellung",
+    "premium_benefit_unlimited_trips": "✓ Unbegrenzte Reisen (kostenlos: 10 Reisen)",
+    "vault_category_boarding_pass": "Bordkarte",
+    "vault_category_reservation": "Reservierung",
+    "vault_error_add_retry": "'%1$s' konnte nicht hinzugefügt werden – bitte versuche es erneut",
+    "vault_error_add_unreadable": "'%1$s' konnte nicht hinzugefügt werden – die Datei konnte nicht gelesen werden",
+    "vault_error_decrypt_failed": "Dokument konnte nicht entschlüsselt werden",
+    "vault_error_read_failed": "Dokument konnte nicht gelesen werden",
+    "vault_error_share_failed": "Dokument konnte nicht geteilt werden",
+    "vault_snackbar_boarding_pass_saved": "Als Bordkarte gespeichert – wir zeigen sie am Abreisetag an",
+    "vault_snackbar_file_too_large": "'%1$s' kann nicht hinzugefügt werden: Die Dateigröße überschreitet das Limit von %2$d MB",
+    "vault_snackbar_low_storage": "Auf diesem Gerät ist nicht genug Speicherplatz frei. Gib etwas Speicher frei und versuche es erneut.",
+    "vault_snackbar_moved_to_trash": "'%1$s' in den Papierkorb verschoben"
   },
   "plurals": {
     "expeditions_screens_cleanup_warning_count": {
@@ -3102,6 +3158,30 @@
     "expeditions_qa_checklist_template_limit": {
       "one": "Du hast im kostenlosen Tarif die maximale Anzahl von 1 Checklisten-Vorlage gespeichert. Upgrade auf Premium für unbegrenzte Vorlagen.",
       "other": "Du hast im kostenlosen Tarif die maximale Anzahl von %1$d Checklisten-Vorlagen gespeichert. Upgrade auf Premium für unbegrenzte Vorlagen."
+    },
+    "open_design_city_country_count": {
+      "one": "%1$d Land",
+      "other": "%1$d Länder"
+    },
+    "open_design_city_days": {
+      "one": "%1$d Tag",
+      "other": "%1$d Tage"
+    },
+    "open_design_city_total_days": {
+      "one": "%1$d Tag insgesamt",
+      "other": "%1$d Tage insgesamt"
+    },
+    "open_design_city_visit_count": {
+      "one": "%1$d Besuch",
+      "other": "%1$d Besuche"
+    },
+    "open_design_city_visits_recorded": {
+      "one": "%1$s · %2$d Besuch erfasst",
+      "other": "%1$s · %2$d Besuche erfasst"
+    },
+    "open_design_shared_preview_stops": {
+      "one": "%1$d Zwischenstopp",
+      "other": "%1$d Zwischenstopps"
     }
   }
 }
