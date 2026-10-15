@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "defaultLanguage": "en",
-  "generatedAt": "2026-10-14T20:50:00.000000+00:00",
+  "generatedAt": "2026-10-14T21:00:00.000000+00:00",
   "languages": {
     "zh": {
       "languageTag": "zh",
       "displayName": "zh",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 220054,
       "sha256": "58e13b35d8507c2291139cc6bd9d86c621cc66441689338e067c337d67553df3",
       "packPath": "packs/zh.json",
@@ -15,7 +15,7 @@
     "vi": {
       "languageTag": "vi",
       "displayName": "vi",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 259909,
       "sha256": "af4ae70072fb14711252b7c45a7c28beb8d5758eb7502f5884ba036ecd60f937",
       "packPath": "packs/vi.json",
@@ -24,7 +24,7 @@
     "ur": {
       "languageTag": "ur",
       "displayName": "ur",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 290906,
       "sha256": "da97525fcdc890ff52d298b9e6502e19836a8e6cb2544153773acc2a14c82c39",
       "packPath": "packs/ur.json",
@@ -33,7 +33,7 @@
     "th": {
       "languageTag": "th",
       "displayName": "th",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 362839,
       "sha256": "540c369981704b8500f7b31076cbf88287bdcb3d354ad15b4496e69b5d10fab7",
       "packPath": "packs/th.json",
@@ -42,16 +42,16 @@
     "tr": {
       "languageTag": "tr",
       "displayName": "tr",
-      "version": 41,
-      "sizeBytes": 241112,
-      "sha256": "1beb7a3bb00531ed3e60e08b56b195981c40ee27db59d574a1720c257910c852",
+      "version": 42,
+      "sizeBytes": 241078,
+      "sha256": "1c484b197c7a9f4650eb50397b1163200738d0abe551cd618f3b8474211e60f8",
       "packPath": "packs/tr.json",
       "url": "https://dogukanincee.github.io/traveltrackercompanion-language-packs/packs/tr.json"
     },
     "ja": {
       "languageTag": "ja",
       "displayName": "ja",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 261369,
       "sha256": "1430f70251972d0164f8561795f7e9e8f6fab6b256f529c62aac341fc8e77946",
       "packPath": "packs/ja.json",
@@ -60,7 +60,7 @@
     "ko": {
       "languageTag": "ko",
       "displayName": "ko",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 244651,
       "sha256": "2bb34725d23e1dda341f475d7ebf5aea2cadc7569bd65bf84bf9838d37c9da2c",
       "packPath": "packs/ko.json",
@@ -69,7 +69,7 @@
     "ru": {
       "languageTag": "ru",
       "displayName": "ru",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 310716,
       "sha256": "61181e7ba9f16f5a6577c9cee2cc04814830d529d115e60c76531e0ba93b4142",
       "packPath": "packs/ru.json",
@@ -78,7 +78,7 @@
     "pt-BR": {
       "languageTag": "pt-BR",
       "displayName": "pt-BR",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 238657,
       "sha256": "a1b10fe3aea081590e7c87f9530b33dd37c6f7987d79f7d4083b0b15c33c9e81",
       "packPath": "packs/pt-BR.json",
@@ -87,7 +87,7 @@
     "pt-rBR": {
       "languageTag": "pt-rBR",
       "displayName": "pt-rBR",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 238747,
       "sha256": "18eca152ca970ff6e2b14516dcb8b6b8d9fa8940b2923c664a140f82bc1f45b6",
       "packPath": "packs/pt-rBR.json",
@@ -96,7 +96,7 @@
     "pl": {
       "languageTag": "pl",
       "displayName": "pl",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 239468,
       "sha256": "5bc8fe69d7e65e4991a6d443dbd117631de4074ea36a9c1d6154e14bdcf0996d",
       "packPath": "packs/pl.json",
@@ -105,7 +105,7 @@
     "ar": {
       "languageTag": "ar",
       "displayName": "ar",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 276164,
       "sha256": "7f0145bcbcacb5223ca6607f1b2fa1ec6050dae314413b470ad28b37ea4dbff2",
       "packPath": "packs/ar.json",
@@ -114,7 +114,7 @@
     "hi": {
       "languageTag": "hi",
       "displayName": "hi",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 361155,
       "sha256": "049ab5555886d723bba3919d8ad0814de1f33482c9d86f84cb7876c344ecf018",
       "packPath": "packs/hi.json",
@@ -123,7 +123,7 @@
     "de": {
       "languageTag": "de",
       "displayName": "de",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 240577,
       "sha256": "9a3e3de983479962405349b78a031d387d285eb38064cf57cdb868143b9cc5ad",
       "packPath": "packs/de.json",
@@ -132,7 +132,7 @@
     "fr": {
       "languageTag": "fr",
       "displayName": "fr",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 247254,
       "sha256": "0bc609b276a0e87a92e05662f501f2d7dc9c3e2a212339ab896dfdd3af09b960",
       "packPath": "packs/fr.json",
@@ -141,7 +141,7 @@
     "es": {
       "languageTag": "es",
       "displayName": "es",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 240306,
       "sha256": "2d70c8ad5af63a55526b61486e01cfe5bf85181da1393d086711b06601ca6f2e",
       "packPath": "packs/es.json",
@@ -150,7 +150,7 @@
     "it": {
       "languageTag": "it",
       "displayName": "it",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 238661,
       "sha256": "f3db549cfb7b8624d58ade6acd0de22fa740868aadc19611cd61c163dc33021c",
       "packPath": "packs/it.json",
@@ -159,7 +159,7 @@
     "id": {
       "languageTag": "id",
       "displayName": "id",
-      "version": 41,
+      "version": 42,
       "sizeBytes": 233987,
       "sha256": "673769fc5d96d0be7e4cbe6c6588b108ffdf79c16edbfb255f30045d4dd42f26",
       "packPath": "packs/id.json",
